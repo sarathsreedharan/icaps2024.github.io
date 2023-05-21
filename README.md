@@ -1,5 +1,5 @@
 # icaps2024.github.io
-Website for the ICAPS 2024 conference held in Prague.
+Website for the ICAPS 2024 conference held in Canada.
 
 ## Instructions for submitting updates
 
