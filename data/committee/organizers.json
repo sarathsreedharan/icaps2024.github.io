@@ -1,0 +1,184 @@
+{
+    "items": [
+        {
+            "position": "Conference Chairs",
+            "people": [
+                {
+                    "name": "Sheila McIlraith",
+                    "institution": "University of Toronto",
+                    "country": "Canada"
+                },
+                {
+                    "name": "Nathan Sturtevant",
+                    "institution": "University of Alberta",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Program Chairs",
+            "people": [
+                {
+                    "name": "Sara Bernardini",
+                    "institution": "Royal Holloway University of London",
+                    "country": "UK"
+                },
+                {
+                    "name": "Christian Muise",
+                    "institution": "Queen's University",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Local Arrangements Chair",
+            "people": [
+                {
+                    "name": "Jonathan Schaeffer",
+                    "institution": "University of Alberta",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Tutorials Chairs",
+            "people": [
+                {
+                    "name": "Miquel Ramirez",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Christina Burt",
+                    "institution": "University of Melbourne",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Workshops Chairs",
+            "people": [
+                {
+                    "name": "Shirin Sohrabi",
+                    "institution": "IBM Research",
+                    "country": "USA"
+                },
+                {
+                    "name": "Biplav Srivastava",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Doctoral Consortium Chairs",
+            "people": [
+                {
+                    "name": "Eldan Cohen",
+                    "institution": "University of Toronto",
+                    "country": "Canada"
+                },
+                {
+                    "name": "Sandhya Saisubramanian",
+                    "institution": "Oregon State University",
+                    "country": "USA"
+                }
+            ]
+        },
+	{
+		"position": "System Demonstration Chairs",
+		"people": [
+			{
+				"name" : "Jiaoyang Li",
+				"institution": "Carnegie Mellon University",
+				"country": "USA"
+			},
+            {
+                "name": "Sarath Sreedharan",
+                "institution": "Colorado State University",
+                "country": "USA"
+            }			
+		]
+	},
+        {
+            "position": "Summer School Chairs",
+            "people": [
+                {
+                    "name": "Pascal Bercher",
+                    "institution": "Australian National University",
+                    "country": "Australia"
+                },
+                {
+                    "name" : "Sarah Keren",
+                    "institution": "Israel Institute of Technology",
+                    "country" : "Israel"
+                },
+                {
+                    "name" : "Jane Jean Kiam",
+                    "institution": "Universität der Bundeswehr München",
+                    "country" : "Germany"
+                }
+            ]
+        },
+        {
+            "position": "Publicity Chairs",
+            "people": [
+                {
+                    "name": "Gloria Beraldo",
+                    "institution": "National Research Council of Italy (CNR-ISTC)",
+                    "country": "Italy"
+                },
+                {
+                    "name": "Zlatan Ajanović",
+                    "institution": "Delft University of Technology",
+                    "country": "The Netherlands"
+                },
+                {
+                    "name": "Charles Gretton",
+                    "institution": "Australian National University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "Diversity and Inclusion Chair",
+            "people": [
+                {
+                    "name": "John Benton",
+                    "institution": "NASA Ames Research Center",
+                    "country": "USA"
+                },
+                {
+                    "name": "Iman Awaad",
+                    "institution": "Bonn-Rhein-Sieg University",
+                    "country": "Germany"
+                }
+            ]
+        },
+         {
+            "position": "Senior Conference Advisor",
+            "people": [
+                {
+                    "name": "Rob Holte",
+                    "institution": "University of Alberta",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Workflow Chairs",
+            "people": [
+                {
+                    "name": "Riccardo De Benedictis",
+                    "institution": "National Research Council of Italy (CNR-ISTC)",
+                    "country": "Italy"
+                },
+                {
+                    "name": "Alessandro Umbrico",
+                    "institution": "National Research Council of Italy (CNR-ISTC)",
+                    "country": "Italy"
+                }
+            ]
+        }
+    ]
+}

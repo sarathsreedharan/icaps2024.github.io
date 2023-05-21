@@ -1,0 +1,24 @@
+{{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}
+{{- $logoTitle2 := .Site.Params.logo.title2 | default "" -}}
+{{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
+{{- $logoImage := .Site.Params.logo.image -}}
+
+{{- if or $logoTitle $logoImage }}
+	{{/* Defined when logo is mixed (image + text) */}}
+	{{- $logoMix := and $logoImage $logoTitle -}}
+
+	<div id="banner-main" class="logo{{ with $logoMix }} logo--mixed{{ end }}">
+		<a class="logo__link" href="{{ "/home" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
+			{{ with $logoImage -}}
+				<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="{{ . | relURL }}">
+				</div>
+			{{- end -}}
+				<div class="logo__item logo__text">
+					{{ with $logoTitle }}<div class="logo__title">{{ . }}</div>{{ end }}
+					{{ with $logoTitle2 }}<div class="logo__title">{{ . }}</div>{{ end }}
+					{{ with $logoSubtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
+				</div>
+		</a>
+	</div>
+{{- end }}
