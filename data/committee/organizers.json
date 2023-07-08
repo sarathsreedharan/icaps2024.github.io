@@ -104,9 +104,9 @@
             "position": "Summer School Chairs",
             "people": [
                 {
-                    "name": "Pascal Bercher",
-                    "institution": "Australian National University",
-                    "country": "Australia"
+                    "name" : "Jane Jean Kiam",
+                    "institution": "Universität der Bundeswehr München",
+                    "country" : "Germany"
                 },
                 {
                     "name" : "Sarah Keren",
@@ -114,9 +114,9 @@
                     "country" : "Israel"
                 },
                 {
-                    "name" : "Jane Jean Kiam",
-                    "institution": "Universität der Bundeswehr München",
-                    "country" : "Germany"
+                    "name": "Pascal Bercher",
+                    "institution": "Australian National University",
+                    "country": "Australia"
                 }
             ]
         },
@@ -144,7 +144,7 @@
             "position": "Diversity and Inclusion Chair",
             "people": [
                 {
-                    "name": "John Benton",
+                    "name": "J. Benton",
                     "institution": "NASA Ames Research Center",
                     "country": "USA"
                 },
