@@ -5,7 +5,7 @@ theme = 'mainroad'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
-  title = "The 34rd International Conference" # Logo title, otherwise will use site title
+  title = "The 34th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
   subtitle = "Banff, Alberta, Canada, June 1-6, 2024" # Logo subtitle
 
