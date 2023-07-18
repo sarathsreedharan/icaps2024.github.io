@@ -90,22 +90,22 @@
                 }
             ]
         },
-	{
-		"position": "System Demonstration Chairs",
-        "email": "demonstrations@icaps2024.com",
-		"people": [
-			{
-				"name" : "Jiaoyang Li",
-				"institution": "Carnegie Mellon University",
-				"country": "USA"
-			},
-            {
-                "name": "Sarath Sreedharan",
-                "institution": "Colorado State University",
-                "country": "USA"
-            }
-		]
-	},
+        {
+            "position": "System Demonstration Chairs",
+            "email": "demonstrations@icaps2024.com",
+            "people": [
+                {
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA"
+                },
+                {
+                    "name": "Sarath Sreedharan",
+                    "institution": "Colorado State University",
+                    "country": "USA"
+                }
+            ]
+        },
         {
             "position": "Summer School Chairs",
             "email": "summerschool@icaps2024.com",
@@ -116,14 +116,14 @@
                     "country": "Australia"
                 },
                 {
-                    "name" : "Sarah Keren",
+                    "name": "Sarah Keren",
                     "institution": "Israel Institute of Technology",
-                    "country" : "Israel"
+                    "country": "Israel"
                 },
                 {
-                    "name" : "Jane Jean Kiam",
+                    "name": "Jane Jean Kiam",
                     "institution": "Universität der Bundeswehr München",
-                    "country" : "Germany"
+                    "country": "Germany"
                 }
             ]
         },
@@ -164,7 +164,7 @@
                 }
             ]
         },
-         {
+        {
             "position": "Senior Conference Advisor",
             "people": [
                 {
