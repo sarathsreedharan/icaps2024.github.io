@@ -111,9 +111,9 @@
             "email": "summerschool@icaps2024.com",
             "people": [
                 {
-                    "name": "Pascal Bercher",
-                    "institution": "Australian National University",
-                    "country": "Australia"
+                    "name" : "Jane Jean Kiam",
+                    "institution": "Universität der Bundeswehr München",
+                    "country" : "Germany"
                 },
                 {
                     "name": "Sarah Keren",
@@ -121,9 +121,9 @@
                     "country": "Israel"
                 },
                 {
-                    "name": "Jane Jean Kiam",
-                    "institution": "Universität der Bundeswehr München",
-                    "country": "Germany"
+                    "name": "Pascal Bercher",
+                    "institution": "Australian National University",
+                    "country": "Australia"
                 }
             ]
         },
@@ -153,7 +153,7 @@
             "email": "diversity@icaps2024.com",
             "people": [
                 {
-                    "name": "John Benton",
+                    "name": "J. Benton",
                     "institution": "NASA Ames Research Center",
                     "country": "USA"
                 },
@@ -161,6 +161,16 @@
                     "name": "Iman Awaad",
                     "institution": "Bonn-Rhein-Sieg University",
                     "country": "Germany"
+                }
+            ]
+        },
+        {
+            "position": "Sponsorship Chair",
+            "people": [
+                {
+                    "name": "Mark Boddy",
+                    "institution": "Galios",
+                    "country": "United States"
                 }
             ]
         },
