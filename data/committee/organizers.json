@@ -2,6 +2,7 @@
     "items": [
         {
             "position": "Conference Chairs",
+            "email": "conference@icaps2024.com",
             "people": [
                 {
                     "name": "Sheila McIlraith",
@@ -17,6 +18,7 @@
         },
         {
             "position": "Program Chairs",
+            "email": "program@icaps2024.com",
             "people": [
                 {
                     "name": "Sara Bernardini",
@@ -42,6 +44,7 @@
         },
         {
             "position": "Tutorials Chairs",
+            "email": "tutorials@icaps2024.com",
             "people": [
                 {
                     "name": "Miquel Ramirez",
@@ -57,6 +60,7 @@
         },
         {
             "position": "Workshops Chairs",
+            "email": "workshops@icaps2024.com",
             "people": [
                 {
                     "name": "Shirin Sohrabi",
@@ -72,6 +76,7 @@
         },
         {
             "position": "Doctoral Consortium Chairs",
+            "email": "dc@icaps2024.com",
             "people": [
                 {
                     "name": "Eldan Cohen",
@@ -87,6 +92,7 @@
         },
 	{
 		"position": "System Demonstration Chairs",
+        "email": "demonstrations@icaps2024.com",
 		"people": [
 			{
 				"name" : "Jiaoyang Li",
@@ -97,11 +103,12 @@
                 "name": "Sarath Sreedharan",
                 "institution": "Colorado State University",
                 "country": "USA"
-            }			
+            }
 		]
 	},
         {
             "position": "Summer School Chairs",
+            "email": "summerschool@icaps2024.com",
             "people": [
                 {
                     "name": "Pascal Bercher",
@@ -122,6 +129,7 @@
         },
         {
             "position": "Publicity Chairs",
+            "email": "publicity@icaps2024.com",
             "people": [
                 {
                     "name": "Gloria Beraldo",
@@ -141,7 +149,8 @@
             ]
         },
         {
-            "position": "Diversity and Inclusion Chair",
+            "position": "Diversity and Inclusion Chairs",
+            "email": "diversity@icaps2024.com",
             "people": [
                 {
                     "name": "John Benton",
