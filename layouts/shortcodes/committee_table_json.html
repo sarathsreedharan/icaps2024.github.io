@@ -6,6 +6,9 @@
    <tr>
          <td style="vertical-align: top">
 		 <strong> {{ print $item.position }} </strong>
+		 {{ if $item.email }}
+		 <a href="mailto:{{ print $item.email }}"><img style="width:26px; vertical-align:middle;" src="/img/icons/email.svg"></a>
+		 {{ end }}
 	 </td>
 	 <td style="vertical-align: top">
 		 {{ range $person := $item.people }}
