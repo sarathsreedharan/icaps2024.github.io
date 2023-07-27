@@ -20,7 +20,7 @@ The summer school will take place from *27 May 2024* to *31 May 2024* (5 full da
 
 It's still one year until it takes place, to the exact program isn't final yet. So far, it's planned that the summer school consists of two lectures in the morning and hands-on lab sessions in the afternoon.
 
-The lectures and lab sessions evolve around a common theme — task and motion planning (TMP) — gradually moving from theory to practice using TMP, which is a very rich topic. In other words, the lab sessions are designed to demonstrate ideas and theories discussed in the lectures. More concretely, the programme includes lectures presented by researchers from the ICAPS community in the morning, followed by hands-on laboratory activities taking examples from robotics-related applications (e.g. single- and multi-robot systems) that build upon material presented in the lectures.
+The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying 'running example' or storyline. The lab sessions are designed to demonstrate ideas and theories discussed in the lectures. More concretely, the programme includes lectures presented by researchers from the ICAPS community in the morning, followed by hands-on laboratory activities taking examples from robotics-related applications (e.g. single- and multi-robot systems) that build upon material presented in the lectures.
 
 
 ### Who can join? How and when to apply?
