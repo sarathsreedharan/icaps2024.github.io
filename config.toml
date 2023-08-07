@@ -25,6 +25,17 @@ theme = 'mainroad'
     name = "Dates"
     url="/dates"
     weight = 2000
+# STUDENTS
+  [[menu.main]]
+    identifier = "students"
+    name = "Students"
+    weight = 4000
+  [[menu.main]]
+    identifier = "summerschool"
+    name = "Summer School"
+    url = "/summerschool"
+    parent = "students"
+    weight = 100
 # ATTENDING
 #  [[menu.main]]
 #    identifier = "attending"
