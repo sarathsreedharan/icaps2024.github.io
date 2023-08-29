@@ -7,14 +7,14 @@ draft: false
 # Important Dates (tentative)
 
 ## 2023
-- **Nov-Dec** - Abstracts due (electronic submission)
-- **Nov-Dec** - Full papers due (electronic submission, PDF)
+- **December 7** - Abstracts due (electronic submission)
+- **December 13** - Full papers due (electronic submission, PDF)
 
 ## 2024
-- **Jan** - Author feedback period
-- **Feb** - Notification of acceptance or rejection
-- **Mar** - Early registration deadline
-- **Mar-Apr** - Conference hotel booking deadline
+- **January 16-19** - Author feedback period
+- **February 4** - Notification of acceptance or rejection
+- **March** - Early registration deadline
+- **March-April** - Conference hotel booking deadline
 
 <br />
 
