@@ -11,7 +11,7 @@ draft: false
 - **December 13** - Full papers due (electronic submission, PDF)
 
 ## 2024
-- **January 16-19** - Author feedback period
+- **January 17-19** - Author feedback period
 - **February 4** - Notification of acceptance or rejection
 - **March** - Early registration deadline
 - **March-April** - Conference hotel booking deadline
