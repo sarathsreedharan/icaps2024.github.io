@@ -48,10 +48,10 @@ The organizing team, sorted alphabetically by last name, consists of:
 
 Here we will list all our sponsors that help(ed) making the summer school possible.
 
-| Platinum sponsorship (USD 4000-10000+)&nbsp;&nbsp;&nbsp;&nbsp; | Gold sponsorship (USD 2000-3999)&nbsp;&nbsp;&nbsp;&nbsp; | Silver sponsorship (USD 1000 to 1999) |
+| Platinum sponsorship (5000 CAD and above)&nbsp;&nbsp;&nbsp;&nbsp; | Gold sponsorship (2500 to 4999 CAD)&nbsp;&nbsp;&nbsp;&nbsp; | Silver sponsorship (1000 to 2499 CAD) |
 | ------------------------------------------ | ---------------------------------- | ------------------------------------- |
 |                                            |                                    |                                       |
-| *30 mins* presentation                     | *15 mins presentation*             |  --                                    |
+| *30 mins* presentation                     | *15 mins presentation*             |  --                                   |
 | *2* poster                                 | *1 poster*                         | --                                    |
 | flyer and goodies                          | flyer and goodies                  | *flyer and goodies*                   |
 | email-forward                              | *email-forward*                    | --                                    |
