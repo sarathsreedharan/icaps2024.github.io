@@ -65,13 +65,13 @@ Here we will list all our sponsors that help(ed) making the summer school possib
 **Benefits explained:**
 
 - All Silver benefits are included in the Gold benefits, all Gold benefits are included in the Platinum benefits (or slightly improved according to the table).
-- poster: You may send us 2 or 1 (Platinum vs Gold) poster up to size A0 directly to the venue. We will make them available prominently during all 5 days of the summer school.
+- poster: You may send us 2 or 1 (Platinum vs Gold) poster up to size A0 directly to the venue. We will prominently display them during all 5 days of the summer school.
 - presentation: You may give a 30 or 15 minute (Platinum vs Gold) *online* presentation that our participants will attend (e.g. a pitch on the sponsor's activities). This time does include a Q&A exchange with our participants.
-- flyer and goodies: You may send us an A5 PDF, two-sided, which we will print out and distribute to the participants. You may also send us (directly to the venue) some merchandise (pens, etc.) that we will distribute as well. (Consider that everybody is traveling by plane, so space is restricted.)
+- flyer and goodies: You may send us an A5 PDF, two-sided, which we will print out and distribute to the participants. You may also send us (directly to the venue) some merchandise (pens, etc.) that we will distribute as well. (Consider that everybody will be traveling by plane, so space is restricted.)
 - email-forward: You may send us a single email (e.g., in style of a newsletter, announcement, etc.) which we will forward to our participants. (This way you can reach our participants even if they do not consent to make their contact details available.)
 - networking package: We will create a LinkedIn group and ask our participants to join (although this is voluntary). Our sponsors will join it too and can hence write an announcement or connect directly with our participants. We furthermore ask our participants for consent to make their contact data available to our sponsors (again this is voluntary). This data will contain their name, status (Master Student, PhD student, Post-Doc etc.), and email address.
 - logo: We will make your logo available in large, medium, or small size according to the sponsorship model. This logo will also contain a link to the sponsoring organization. These will be made available both on this (summer school) webpage, as well as on a dedicated summer school page in the ICAPS proceedings (not where the ICAPS sponsors are listed). In case we create some booklet of this summer school (which is not clear yet; but if we do, it will only be a PDF but not printed/formally published), sponsors will be added there as well.
-- additional requests: In the Platinum model, you may contact us for any specific proposals (e.g., if you want to send a PhD student to participate), and we can see what we can do.
+- additional requests: In the Platinum model, you may contact us organizers for any specific proposals (e.g., if you want to send a PhD student to participate), and we can see what we can do.
 
 
 
