@@ -39,6 +39,6 @@ Workshop proposals should be submitted by email, in plain text or PDF, to icaps2
 - Notification of workshop acceptance: 29 January 2024.
 - Workshop Call for Papers and materials for the website: 5 February 2024
 - List of accepted papers on the workshop website: 29 April 2024.
-- Workshop/Tutorial dates: 01-02 June 2024.
+- Workshop/Tutorial dates: 2-3 June 2024.
 
 Please direct all questions to the Workshop Program Chairs at icaps2024-workshops@googlegroups.com
