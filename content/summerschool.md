@@ -32,7 +32,7 @@ Applications will likely open at some point in 2024. As we expect that many of t
 
 ### Costs and Sponsorships
 
-It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants.
+It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants. In all cases, flights (or any other travel fees) are *not* included and will have to be covered by the attendee.
 
 
 ### Organizing Team
