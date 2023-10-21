@@ -88,12 +88,12 @@ theme = 'mainroad'
     identifier = "calls"
     name = "Calls"
     weight = 4000
-#  [[menu.main]]
-#    identifier = "main_track"
-#    name = "Main Track"
-#    url = "/calls/main_track"
-#    parent = "calls"
-#    weight = 10
+  [[menu.main]]
+    identifier = "main_track"
+    name = "Call for Papers"
+    url = "/calls/main_track"
+    parent = "calls"
+    weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
