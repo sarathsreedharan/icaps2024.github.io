@@ -68,7 +68,11 @@ It is optional for authors to include a statement of the potential broader impac
 
 ## Submission Instructions
 
-All submissions will be made electronically via OpenReview. The submission portal will be opened up roughly one month prior to the abstract submission deadline. Further, details on what the review form will look like will be publicly released then as well.
+All submissions will be made electronically via OpenReview.
+
+* [Submission Site](https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Conference&referrer=%5BHomepage%5D(%2F))
+
+Details on what the review form will look like will be publicly released soon.
 
 Submitted papers should be anonymous for double-blind reviewing, adhere to the page limits of the relevant submission type (long or short), and follow the author kit instructions for formatting. A custom author kit for ICAPS 2024, based on the AAAI 2024 template can be found here:
 
