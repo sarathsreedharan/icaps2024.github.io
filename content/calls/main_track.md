@@ -100,6 +100,22 @@ For inquiries contact: <program@icaps2024.com>
 
 ----
 
+## FAQ
+
+### What is the policy on uploading our submissions to arXiv?
+
+Yes, following the AAAI policy, you are allowed to upload your submissions to arXiv during the review period.
+
+### Can rejected AAAI papers be submitted? The AAAI notification is after abstract submission.
+
+We consider it a full submission only when you submit the full paper. So, yes, please do submit your abstract and withdraw the submission if it happens to be accepted to AAAI. If, for whatever reason, AAAI pushes back the notification beyond our paper submission deadline, we will reconsider that date.
+
+#### Must I select a primary keyword?
+
+No. We fully expect there to be several papers without a primary keyword selection. Only select primary keyword(s) if they make sense for your work.
+
+----
+
 ## Primary Keyword Descriptions
 
 ### Applications
