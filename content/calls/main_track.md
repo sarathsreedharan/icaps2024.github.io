@@ -110,9 +110,13 @@ Yes, following the AAAI policy, you are allowed to upload your submissions to ar
 
 We consider it a full submission only when you submit the full paper. So, yes, please do submit your abstract and withdraw the submission if it happens to be accepted to AAAI. If, for whatever reason, AAAI pushes back the notification beyond our paper submission deadline, we will reconsider that date.
 
-#### Must I select a primary keyword?
+### Must I select a primary keyword?
 
 No. We fully expect there to be several papers without a primary keyword selection. Only select primary keyword(s) if they make sense for your work.
+
+### What will the review form look like?
+
+You can find a draft of the form questions reviewers will use [[here](https://docs.google.com/document/d/1ih7UkgAKnz_80ardDB5xU0rhbsC8msElQXr37DTB-Yk/edit?usp=sharing)].
 
 ----
 
