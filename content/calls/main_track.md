@@ -118,6 +118,10 @@ No. We fully expect there to be several papers without a primary keyword selecti
 
 You can find a draft of the form questions reviewers will use [[here](https://docs.google.com/document/d/1ih7UkgAKnz_80ardDB5xU0rhbsC8msElQXr37DTB-Yk/edit?usp=sharing)].
 
+### Can we use more than a page of references if we use fewer than 8 pages of content?
+
+Yes, you can use up to 9 pages total (5 pages for short papers), as long as the final page contains only references. This means that you may have 7.5 pages of content and 1.5 pages of references, for example.
+
 ----
 
 ## Primary Keyword Descriptions
