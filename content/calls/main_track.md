@@ -122,6 +122,10 @@ You can find a draft of the form questions reviewers will use [[here](https://do
 
 Yes, you can use up to 9 pages total (5 pages for short papers), as long as the final page contains only references. This means that you may have 7.5 pages of content and 1.5 pages of references, for example.
 
+### Is there any exception to the limit of references?
+
+We may grant specific exceptions to authors in situations such as a survey paper, where the broad list of references are a key part of the paper itself. Please contact the program chairs if you believe you have a special case.
+
 ### How do we register conflicts?
 
 This will come in two places. First, on your profile page, you can select conflicts to individuals (e.g., key advisors, collaborators, etc) -- the link can be found [[here](https://openreview.net/profile/edit)]. Second, reviewers and SPC should be able to flag papers as conflicts during the bidding process. Some conflicts (e.g., papers where a reviewer is also an author) should be automatically registered.
