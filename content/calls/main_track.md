@@ -96,6 +96,7 @@ The reference timezone for all deadlines is UTC-12. That is, as long as there is
 
 * Sara Bernardini, Royal Holloway University of London, UK
 * Christian Muise, Queen’s University, Canada
+
 For inquiries contact: <program@icaps2024.com>
 
 ----
