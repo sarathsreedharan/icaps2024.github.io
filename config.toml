@@ -124,12 +124,12 @@ theme = 'mainroad'
     url = "/calls/workshop_call"
     parent = "calls"
     weight = 50
-#  [[menu.main]]
-#    identifier = "tutorial_call"
-#    name = "Call for Tutorial Proposals"
-#    url = "/calls/tutorial_call"
-#    parent = "calls"
-#    weight = 60
+  [[menu.main]]
+    identifier = "tutorial_call"
+    name = "Call for Tutorial Proposals"
+    url = "/calls/tutorial_call"
+    parent = "calls"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "demo_track"
 #    name = "System Demonstrations"
