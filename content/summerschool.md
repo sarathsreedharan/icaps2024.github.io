@@ -18,9 +18,44 @@ The summer school will take place from *27 May 2024* to *31 May 2024* (5 full da
 
 ### What?
 
-It's still one year until it takes place, so the exact program isn't final yet. So far, it's planned that the summer school consists of two lectures in the morning and hands-on lab sessions in the afternoon.
+The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions, which are designed to demonstrate ideas and theories discussed in the lectures.
 
-The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying 'running example' or storyline. The lab sessions are designed to demonstrate ideas and theories discussed in the lectures. More concretely, the programme includes lectures presented by researchers from the ICAPS community in the morning, followed by hands-on laboratory activities taking examples from robotics-related applications (e.g. single- and multi-robot systems) that build upon material presented in the lectures.
+The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
+
+***We will also help hosting ICKEPS 2024:***  
+The International Competition on Knowledge Engineering for Planning and Scheduling (ICKEPS) has been running since 2005 as an event promoting the development and importance of the use of knowledge engineering methods and techniques within P&S.  
+This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modification of the models. The competitors will also have to show how the designed models allow SoA planning engines to generate solutions.
+
+<!--
+-->
+The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
+- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
+  gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
+- [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
+  speaks about *Something with Spaceflight* (replies on Monday)
+- [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
+  gives a talk on *The relationship between planning and RL*
+- [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
+  gives a talk on *Applications of Planning*
+- [Hanna Kurniawati](https://comp.anu.edu.au/people/hanna-kurniawati/), Australian National University,  
+  gives a talk on *Planning under Uncertainty, RL and Task and Motion Planning*
+- [Wheeler Ruml](https://www.cs.unh.edu/~ruml/), University of New Hampshire,  
+  gives a talk on *Suboptimal search and motion planning*
+- [Nathan Sturtevant](https://apps.ualberta.ca/directory/person/nathanst), University of Alberta,  
+  gives a talk on *Classical Planning and A**
+- [Brian Williams](https://aeroastro.mit.edu/people/brian-c-williams/), MIT,  
+  gives a talk on *Risk-bounded task and motion planning*
+
+Further people directly involved in the program:
+- [Mauro Vallati](https://pure.hud.ac.uk/en/persons/mauro-vallati), University of Huddersfield,  
+  executes the ICKEPS competition
+
+<!--
+- [student 1](URL?), Technion (undergrad student),  
+  helps out with the lab sessions
+- [student 2](URL?), Technion (PhD student),  
+  helps out with the lab sessions
+-->
 
 
 ### Who can join? How and when to apply?
