@@ -27,6 +27,8 @@ The program will include two lectures presented by researchers from the ICAPS co
 The International Competition on Knowledge Engineering for Planning and Scheduling (ICKEPS) has been running since 2005 as an event promoting the development and importance of the use of knowledge engineering methods and techniques within P&S.  
 This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modification of the models. The competitors will also have to show how the designed models allow SoA planning engines to generate solutions.
 
+ICKEPS is organized by [Mauro Vallati](https://pure.hud.ac.uk/en/persons/mauro-vallati), University of Huddersfield (he will be at the venue); [Lukas Chrpa](http://ktiml.mff.cuni.cz/~chrpa/), Czech Technical University in Prague; and [Ron Petrick](https://researchportal.hw.ac.uk/en/persons/ron-petrick), Heriot Watt University.
+
 
 The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
 - [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
@@ -34,7 +36,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
   **speaks about something with Spaceflight (replies on Monday)**
 - [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
-  gives a talk on *The relationship between planning and RL*
+  gives a talk on *Introduction to integrated task and motion planning.*
 - [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
   gives a talk on *Applications of Planning*
 - [Hanna Kurniawati](https://users.cecs.anu.edu.au/~hannakur/), Australian National University,  
@@ -46,12 +48,6 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 - [Brian C. Williams](https://groups.csail.mit.edu/mers/), MIT,  
   gives a talk on *Risk-aware planning and scheduling*
 
-Additional list of people involved in the summer school:
-- [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
-  leading the lab sessions
-- [Mauro Vallati](https://pure.hud.ac.uk/en/persons/mauro-vallati), University of Huddersfield,  
-  executes the ICKEPS competition 
-
 <!--
 - [student 1](URL?), Technion (undergrad student),  
   helps out with the lab sessions
@@ -60,16 +56,37 @@ Additional list of people involved in the summer school:
 -->
 
 
-### Who can join? How and when to apply?
+
+### Who can join? 
 
 As of now, we have 40 (in-person) spots for participants. We still hope that we can accommodate a higher number of participants, but it currently does not look like it. We understand that not everybody interested can secure a spot, and we apologize for this. The summer school is primarily intended for PhD students, but in principle post-docs are also eligible. If we have more applicants than spots (which at the moment seems to be the case) precedence will be given to PhD students.
 
-Applications will open very soon and likely close a few weeks after ICAPS notifications. Notification dates will be announced soon. We are asking in advance for your understanding in case you are not selected.
 
 
 ### Costs and Sponsorships
 
 It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants. In all cases, flights (or any other travel fees) are *not* included and will have to be covered by the attendee.
+
+
+
+### Board and Lodging
+
+The costs of the summer school (or a full scholarship, should you receive one) include:
+- Six Nights (from Sunday, 26 May to Friday, 31 May). So if you stay for ICAPS, you will have to book the remaining nights yourself.
+- Breakfast and Lunch on Monday to Friday
+- Dinner on Thursday, 30th
+
+
+
+### Important Dates & Application
+
+- Application website opens:   tba
+- Application website closes:  tba
+- Notifications sent:          tba
+- Summer school:               Monday, 27 May to Friday, 31 May 2024.
+
+The application link will be provided here soon.
+
 
 
 ### Organizing Team
@@ -79,6 +96,7 @@ The organizing team, sorted alphabetically by last name, consists of:
 - Pascal Bercher from the Australian National University, Australia -- pascal.bercher at anu.edu.au, [webpage](https://comp.anu.edu.au/people/pascal-bercher/)
 - Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahkeren.wixsite.com/sarahkeren-academics)
 - Jane Jean Kiam from University of the Bundeswehr Munich, Germany -- jane.kiam at unibw.de [webpage](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam)
+
 
 
 ## Sponsors
