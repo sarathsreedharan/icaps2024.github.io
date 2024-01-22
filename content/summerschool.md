@@ -34,7 +34,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 - [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
   gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
-  **speaks about something with Spaceflight (replies on Monday)**
+  gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
 - [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
   gives a talk on *Introduction to integrated task and motion planning.*
 - [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
