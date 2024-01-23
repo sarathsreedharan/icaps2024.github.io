@@ -35,6 +35,11 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
   gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
+<!--
+Here is an abstract about the project from one of our previous papers:
+
+Autonomous decision-making significantly increases mission effectiveness by mitigating the effects of communication constraints, like latency and bandwidth, and mission complexity on multi-spacecraft operations. To advance the state of the art in autonomous Distributed Space Systems (DSS), the Distributed Spacecraft Autonomy (DSA) team at NASA’s Ames Research Center is developing within five relevant technical areas: distributed resource and task management, reactive operations, system modeling and simulation, human- swarm interaction, and ad hoc network communications. DSA is maturing these technologies - critical for future large autonomous DSS - from concept to launch via simulation studies and orbital deployments. A 100-node heterogenous Processor-in-the-Loop (PiL) testbed aids distributed autonomy capability development and verification of multi-spacecraft missions. The DSA software payload deployed to the D-Orbit SCV-004 spacecraft demonstrates multi-agent reconfigurability and reliability as part of an ESA-sponsored in-orbit technology demonstration. Finally, DSA’s primary flight mission showcases collaborative resource allocation for multipoint science data collection with four small spacecraft as a payload on NASA’s Starling 1.0 satellites.
+-->
 - [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
   gives a talk on *Introduction to integrated task and motion planning.*
 - [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
