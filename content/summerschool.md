@@ -18,16 +18,15 @@ The summer school will take place from *27 May 2024* to *31 May 2024* (5 full da
 
 ### What?
 
-The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions, which are designed to demonstrate ideas and theories discussed in the lectures (designed and executed by Sarah Keren).
-
-The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
+The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions (designed and executed by Sarah Keren), which are designed to demonstrate ideas and theories discussed in the lectures. The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
 
 
 ***We will also help hosting ICKEPS 2024:***  
-The International Competition on Knowledge Engineering for Planning and Scheduling (ICKEPS) has been running since 2005 as an event promoting the development and importance of the use of knowledge engineering methods and techniques within P&S.  
-This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modification of the models. The competitors will also have to show how the designed models allow SoA planning engines to generate solutions.
+The International Competition on Knowledge Engineering for Planning and Scheduling (ICKEPS) has been running since 2005 as an event promoting the development and importance of the use of knowledge engineering (KE) methods and techniques within planning and scheduling (P&S).
 
-ICKEPS is organized by [Mauro Vallati](https://pure.hud.ac.uk/en/persons/mauro-vallati), University of Huddersfield (he will be at the venue); [Lukas Chrpa](http://ktiml.mff.cuni.cz/~chrpa/), Czech Technical University in Prague; and [Ron Petrick](https://researchportal.hw.ac.uk/en/persons/ron-petrick), Heriot Watt University.
+This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modifications of the models. The competitors will also have to show how the designed models allow state-of-the-art planning engines to generate solutions.
+
+ICKEPS is organized by [Lukáš Chrpa](https://ktiml.mff.cuni.cz/~chrpa/), Czech Technical University in Prague and Filuta AI; [Ron Petrick](http://petrick.uk), Heriot Watt University; and [Mauro Vallati](https://www.mvallati.net/), University of Huddersfield (ordered alphabetically); 
 
 
 The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
@@ -35,13 +34,8 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
   gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
-<!--
-Here is an abstract about the project from one of our previous papers:
-
-Autonomous decision-making significantly increases mission effectiveness by mitigating the effects of communication constraints, like latency and bandwidth, and mission complexity on multi-spacecraft operations. To advance the state of the art in autonomous Distributed Space Systems (DSS), the Distributed Spacecraft Autonomy (DSA) team at NASA’s Ames Research Center is developing within five relevant technical areas: distributed resource and task management, reactive operations, system modeling and simulation, human- swarm interaction, and ad hoc network communications. DSA is maturing these technologies - critical for future large autonomous DSS - from concept to launch via simulation studies and orbital deployments. A 100-node heterogenous Processor-in-the-Loop (PiL) testbed aids distributed autonomy capability development and verification of multi-spacecraft missions. The DSA software payload deployed to the D-Orbit SCV-004 spacecraft demonstrates multi-agent reconfigurability and reliability as part of an ESA-sponsored in-orbit technology demonstration. Finally, DSA’s primary flight mission showcases collaborative resource allocation for multipoint science data collection with four small spacecraft as a payload on NASA’s Starling 1.0 satellites.
--->
 - [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
-  gives a talk on *Introduction to integrated task and motion planning.*
+  gives a talk on *Introduction to integrated task and motion planning*
 - [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
   gives a talk on *Applications of Planning*
 - [Hanna Kurniawati](https://users.cecs.anu.edu.au/~hannakur/), Australian National University,  
@@ -72,29 +66,38 @@ The summer school is primarily intended for PhD students, but in principle post-
 
 ### Costs and Sponsorships
 
-It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants. In all cases, **flights (or any other travel fees) are not** included in registration fees and will have to be covered by the attendees.
+We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. 
 
-PUT SCHOLAR COSTS IN HERE!
+We will provide a small number of sponsorships, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). Note that our sponsorships do *not* cover travel costs, they are solely a discount on our registration fees. 
+
 
 
 ### Board and Lodging
 
-The registration fees for the summer school (or a full scholarship, should you receive one) include:
-- Six Nights (from Sunday, 26 May to Friday, 31 May). So if you stay for ICAPS, you will have to book the remaining nights yourself.
-- Breakfast and Lunch on Monday to Friday
-- Dinner on Thursday, 30th
+The registration fees include:
+- Six Nights in the Banff Centre (from Sunday, 26 May to Friday, 31 May), where also ICAPS takes place. If you stay for ICAPS, you will have to book the remaining nights yourself. Note that we *only* booked double-rooms, so you will have to share a room. We plan to write to all accepted applicants once selection is completed, so you can coordinate in case you prefer staying with somebody you know already.
+- Breakfast and Lunch on Monday to Friday.
+- Dinner on Thursday, 30th.
 
 Note that no form of travel grants exist, so flights will have to be fully financed yourself.
 
 
+
 ### Important Dates & Application
 
-- Application website opens:   tba
-- Application website closes:  tba
-- Notifications sent:          tba
+- Application website opens:   tba (but very close after ICAPS notifications, i.e., after February 12)
+- Application website closes:  tba (but roughly two weeks after it opens)
+- Notifications sent:          tba (but roughly one week after closing date)
 - Summer school:               Monday, 27 May to Friday, 31 May 2024.
 
-The application link will be provided here soon.
+Application data required:
+- Application Form (to be provided soon)
+- A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your thesis program -- after all, it's about learning something new!
+- CV
+- A letter of recommendation by your PhD supervisor.
+- If you request financial assistance, provide a letter to confirm this.
+
+Please merge all documents in the order provided into one single PDF. You will then have to upload it to easychair, link will be made available once applications open.
 
 
 
