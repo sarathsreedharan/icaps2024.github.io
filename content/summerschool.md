@@ -26,7 +26,7 @@ The International Competition on Knowledge Engineering for Planning and Scheduli
 
 This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modifications of the models. The competitors will also have to show how the designed models allow state-of-the-art planning engines to generate solutions.
 
-ICKEPS is organized by [Lukáš Chrpa](https://ktiml.mff.cuni.cz/~chrpa/), Czech Technical University in Prague and Filuta AI; [Ron Petrick](http://petrick.uk), Heriot Watt University; and [Mauro Vallati](https://www.mvallati.net/), University of Huddersfield (ordered alphabetically); 
+ICKEPS is organized by [Lukáš Chrpa](https://sites.google.com/view/lukaschrpa/home), Czech Technical University in Prague and Filuta AI; [Ron Petrick](http://petrick.uk), Heriot Watt University; and [Mauro Vallati](https://www.mvallati.net/), University of Huddersfield (ordered alphabetically).
 
 
 The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
