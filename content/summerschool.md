@@ -64,23 +64,27 @@ Autonomous decision-making significantly increases mission effectiveness by miti
 
 ### Who can join? 
 
-As of now, we have 40 (in-person) spots for participants. We still hope that we can accommodate a higher number of participants, but it currently does not look like it. We understand that not everybody interested can secure a spot, and we apologize for this. The summer school is primarily intended for PhD students, but in principle post-docs are also eligible. If we have more applicants than spots (which at the moment seems to be the case) precedence will be given to PhD students.
+As of now, we have 40 (in-person) spots for participants. We still hope that we can accommodate a higher number of participants, but it currently does not look like it; we are really sorry about this; we do understand that most likely there will be higher interest than available spots, so we sincerely apologize for this, we would have loved to make this a bigger event. Note that admissions will **not** be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. (See below for our schedule.)
+
+The summer school is primarily intended for PhD students, but in principle post-docs are also eligible. If we have more applicants than spots (which at the moment does *not* seem to be the case) precedence will be given to PhD students.
 
 
 
 ### Costs and Sponsorships
 
-It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants. In all cases, flights (or any other travel fees) are *not* included and will have to be covered by the attendee.
+It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants. In all cases, **flights (or any other travel fees) are not** included in registration fees and will have to be covered by the attendees.
 
+PUT SCHOLAR COSTS IN HERE!
 
 
 ### Board and Lodging
 
-The costs of the summer school (or a full scholarship, should you receive one) include:
+The registration fees for the summer school (or a full scholarship, should you receive one) include:
 - Six Nights (from Sunday, 26 May to Friday, 31 May). So if you stay for ICAPS, you will have to book the remaining nights yourself.
 - Breakfast and Lunch on Monday to Friday
 - Dinner on Thursday, 30th
 
+Note that no form of travel grants exist, so flights will have to be fully financed yourself.
 
 
 ### Important Dates & Application
