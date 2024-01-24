@@ -84,16 +84,16 @@ theme = 'mainroad'
 #    parent = "attending"
 #    weight = "50"
 ## CALLS
-#  [[menu.main]]
-#    identifier = "calls"
-#    name = "Calls"
-#    weight = 4000
-#  [[menu.main]]
-#    identifier = "main_track"
-#    name = "Main Track"
-#    url = "/calls/main_track"
-#    parent = "calls"
-#    weight = 10
+  [[menu.main]]
+    identifier = "calls"
+    name = "Calls"
+    weight = 4000
+  [[menu.main]]
+    identifier = "main_track"
+    name = "Call for Papers"
+    url = "/calls/main_track"
+    parent = "calls"
+    weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
@@ -118,18 +118,18 @@ theme = 'mainroad'
 #    url = "/calls/journal_track"
 #    parent = "calls"
 #    weight = 45
-#  [[menu.main]]
-#    identifier = "workshop_call"
-#    name = "Call for Workshop Proposals"
-#    url = "/calls/workshop_call"
-#    parent = "calls"
-#    weight = 50
-#  [[menu.main]]
-#    identifier = "tutorial_call"
-#    name = "Call for Tutorial Proposals"
-#    url = "/calls/tutorial_call"
-#    parent = "calls"
-#    weight = 60
+  [[menu.main]]
+    identifier = "workshop_call"
+    name = "Call for Workshop Proposals"
+    url = "/calls/workshop_call"
+    parent = "calls"
+    weight = 50
+  [[menu.main]]
+    identifier = "tutorial_call"
+    name = "Call for Tutorial Proposals"
+    url = "/calls/tutorial_call"
+    parent = "calls"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "demo_track"
 #    name = "System Demonstrations"
