@@ -87,6 +87,9 @@ The registration fees include:
 - Notifications sent:          tba (but roughly one week after closing date)
 - Summer school:               Monday, 27 May to Friday, 31 May 2024.
 
+Application data will be uploaded via easychair. Required documents will be published very soon. Link will be provided when applications open.
+
+<!--
 Application data required:
 - Application form (to be provided soon).
 - A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
@@ -95,7 +98,7 @@ Application data required:
 - If you request financial assistance, provide a letter to confirm this.
 
 Please merge the documents in the order provided into one single PDF. You will then have to upload it to easychair (link will be provided once applications open).  Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
-
+-->
 
 
 ### Organizing Team
