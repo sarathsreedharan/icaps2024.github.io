@@ -18,21 +18,87 @@ The summer school will take place from *27 May 2024* to *31 May 2024* (5 full da
 
 ### What?
 
-It's still one year until it takes place, so the exact program isn't final yet. So far, it's planned that the summer school consists of two lectures in the morning and hands-on lab sessions in the afternoon.
-
-The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying 'running example' or storyline. The lab sessions are designed to demonstrate ideas and theories discussed in the lectures. More concretely, the programme includes lectures presented by researchers from the ICAPS community in the morning, followed by hands-on laboratory activities taking examples from robotics-related applications (e.g. single- and multi-robot systems) that build upon material presented in the lectures.
+The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions (designed and executed by Sarah Keren), which are designed to demonstrate ideas and theories discussed in the lectures. The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
 
 
-### Who can join? How and when to apply?
+***We will also help hosting ICKEPS 2024:***  
+The International Competition on Knowledge Engineering for Planning and Scheduling (ICKEPS) has been running since 2005 as an event promoting the development and importance of the use of knowledge engineering (KE) methods and techniques within planning and scheduling (P&S).
 
-As of now, we have 40 (in-person) spots for participants. We hope that we can accommodate a higher number of participants, but it's too early to confirm this. Our 40 spots are however already confirmed. The summer school is primarily intended for PhD students, but in principle post-docs are also eligible. If we have more applicants than spots (which at the moment seems to be the case) precedence will be given to PhD students.
+This year's special edition will be the first one to be run as part of a Summer School, and will focus on the knowledge engineering of domain models showing high degrees of maintainability, extendability, and operationality. Competitors (competing teams) will be provided with the specifications of challenging P&S scenarios and problems, and they will have to produce knowledge models encoding the requirements, and to demonstrate how their KE process will support changes in requirements resulting in extensions and/or modifications of the models. The competitors will also have to show how the designed models allow state-of-the-art planning engines to generate solutions.
 
-Applications will likely open at some point in 2024. As we expect that many of those interested in the summer school will only be able to join if they have also a paper at the main conference, we plan to open applications shortly after the ICAPS notifications are sent, and try to have a short turnaround time for sending the notifications. We are asking in advance for your understanding in case you are not selected, because available spots are limited.
+ICKEPS is organized by [Lukáš Chrpa](https://sites.google.com/view/lukaschrpa/home), Czech Technical University in Prague and Filuta AI; [Ron Petrick](http://petrick.uk), Heriot Watt University; and [Mauro Vallati](https://www.mvallati.net/), University of Huddersfield (ordered alphabetically).
+
+
+The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
+- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
+  gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
+- [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
+  gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
+- [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
+  gives a talk on *Introduction to integrated task and motion planning*
+- [Jane Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
+  gives a talk on *Applications of Planning*
+- [Hanna Kurniawati](https://users.cecs.anu.edu.au/~hannakur/), Australian National University,  
+  gives a talk on *Planning under Uncertainty, RL and Task and Motion Planning*
+- [Wheeler Ruml](https://www.cs.unh.edu/~ruml/), University of New Hampshire,  
+  gives a talk on *Suboptimal search and motion planning*
+- [Nathan Sturtevant](https://apps.ualberta.ca/directory/person/nathanst), University of Alberta,  
+  gives a talk on *Classical Planning and A**
+- [Brian C. Williams](https://groups.csail.mit.edu/mers/), MIT,  
+  gives a talk on *Risk-aware planning and scheduling*
+
+<!--
+- [student 1](URL?), Technion (undergrad student),  
+  helps out with the lab sessions
+- [student 2](URL?), Technion (PhD student),  
+  helps out with the lab sessions
+-->
+
+
+
+### Who can join? 
+
+The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible.
+
+As of now, we have 40 (in-person) spots for participants. We would have loved to make the event bigger, but given the circumstances, it doesn't look possible. But well, it is not all about numbers! It will be a small and tight-knit group! 
 
 
 ### Costs and Sponsorships
 
-It is still too early to provide concrete numbers as we are still in the process of acquiring sponsors. We try to keep the registration fee (which will include accommodation, breakfast, coffee breaks, lunch, and one dinner) as low as possible, and will also offer free registration to very low number of selected participants.
+We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are not part of the registration fees, so you will have to finance this on your own.
+
+We will provide a small number of sponsorships, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). 
+
+
+### Board and Lodging
+
+The registration fees include:
+- Six nights in the Banff Centre (from Sunday, 26 May to Saturday, 1 June), where also ICAPS takes place. If you stay for ICAPS, you will have to book the remaining nights yourself. Note that we *only* booked double-rooms, so you will have to share a room. We plan to write to all accepted applicants once selection is completed, so you can coordinate in case you prefer staying with somebody you know already.
+- Breakfast, lunch and coffee breaks from Monday (27 May) to Friday (31 May).
+- Dinner on Thursday (30 May).
+
+
+
+
+### Important Dates & Application
+
+- Applications open:   tba (but very close after ICAPS notifications, i.e., after 12 February)
+- Applications close:  tba (but roughly two weeks after it opens)
+- Notifications sent:          tba (but roughly one week after closing date)
+- Summer school:               Monday, 27 May to Friday, 31 May 2024.
+
+Application data will be uploaded via easychair. Required documents will be published very soon. Link will be provided when applications open.
+
+<!--
+Application data required:
+- Application form (to be provided soon).
+- A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
+- A CV.
+- A letter of recommendation by your PhD supervisor.
+- If you request financial assistance, provide a letter to confirm this.
+
+Please merge the documents in the order provided into one single PDF. You will then have to upload it to easychair (link will be provided once applications open).  Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
+-->
 
 
 ### Organizing Team
@@ -42,6 +108,7 @@ The organizing team, sorted alphabetically by last name, consists of:
 - Pascal Bercher from the Australian National University, Australia -- pascal.bercher at anu.edu.au, [webpage](https://comp.anu.edu.au/people/pascal-bercher/)
 - Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahkeren.wixsite.com/sarahkeren-academics)
 - Jane Jean Kiam from University of the Bundeswehr Munich, Germany -- jane.kiam at unibw.de [webpage](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam)
+
 
 
 ## Sponsors
