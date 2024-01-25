@@ -36,7 +36,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
 - [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
   gives a talk on *Introduction to integrated task and motion planning*
-- [Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
+- [Jane Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
   gives a talk on *Applications of Planning*
 - [Hanna Kurniawati](https://users.cecs.anu.edu.au/~hannakur/), Australian National University,  
   gives a talk on *Planning under Uncertainty, RL and Task and Motion Planning*
@@ -58,46 +58,43 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 
 ### Who can join? 
 
-As of now, we have 40 (in-person) spots for participants. We still hope that we can accommodate a higher number of participants, but it currently does not look like it; we are really sorry about this; we do understand that most likely there will be higher interest than available spots, so we sincerely apologize for this, we would have loved to make this a bigger event. Note that admissions will **not** be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. (See below for our schedule.)
+The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible.
 
-The summer school is primarily intended for PhD students, but in principle post-docs are also eligible. If we have more applicants than spots (which at the moment does *not* seem to be the case) precedence will be given to PhD students.
-
+As of now, we have 40 (in-person) spots for participants. We would have loved to make the event bigger, but given the circumstances, it doesn't look possible. But well, it is not all about numbers! It will be a small and tight-knit group! 
 
 
 ### Costs and Sponsorships
 
-We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. 
+We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are not part of the registration fees, so you will have to finance this on your own.
 
-We will provide a small number of sponsorships, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). Note that our sponsorships do *not* cover travel costs, they are solely a discount on our registration fees. 
-
+We will provide a small number of sponsorships, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). 
 
 
 ### Board and Lodging
 
 The registration fees include:
-- Six Nights in the Banff Centre (from Sunday, 26 May to Friday, 31 May), where also ICAPS takes place. If you stay for ICAPS, you will have to book the remaining nights yourself. Note that we *only* booked double-rooms, so you will have to share a room. We plan to write to all accepted applicants once selection is completed, so you can coordinate in case you prefer staying with somebody you know already.
-- Breakfast and Lunch on Monday to Friday.
-- Dinner on Thursday, 30th.
+- Six nights in the Banff Centre (from Sunday, 26 May to Saturday, 1 June), where also ICAPS takes place. If you stay for ICAPS, you will have to book the remaining nights yourself. Note that we *only* booked double-rooms, so you will have to share a room. We plan to write to all accepted applicants once selection is completed, so you can coordinate in case you prefer staying with somebody you know already.
+- Breakfast, lunch and coffee breaks from Monday (27 May) to Friday (31 May).
+- Dinner on Thursday (30 May).
 
-Note that no form of travel grants exist, so flights will have to be fully financed yourself.
 
 
 
 ### Important Dates & Application
 
-- Application website opens:   tba (but very close after ICAPS notifications, i.e., after February 12)
-- Application website closes:  tba (but roughly two weeks after it opens)
+- Applications open:   tba (but very close after ICAPS notifications, i.e., after 12 February)
+- Applications close:  tba (but roughly two weeks after it opens)
 - Notifications sent:          tba (but roughly one week after closing date)
 - Summer school:               Monday, 27 May to Friday, 31 May 2024.
 
 Application data required:
-- Application Form (to be provided soon)
-- A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your thesis program -- after all, it's about learning something new!
-- CV
+- Application form (to be provided soon).
+- A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
+- A CV.
 - A letter of recommendation by your PhD supervisor.
 - If you request financial assistance, provide a letter to confirm this.
 
-Please merge all documents in the order provided into one single PDF. You will then have to upload it to easychair, link will be made available once applications open.
+Please merge the documents in the order provided into one single PDF. You will then have to upload it to easychair (link will be provided once applications open).  Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
 
 
 
