@@ -103,6 +103,30 @@ For inquiries contact: <program@icaps2024.com>
 
 ## FAQ
 
+### What will be made public from the review process?
+
+The anonymized reviews, and final rebuttals from authors, will be made public on just those papers accepted. This will happen after the notification of acceptance/rejection. No discussion between reviewers and SPC will be made public, and reviewers/SPC will not be identified.
+
+### Aren't you revealing too much?
+
+We do not believe so. The reviews are already anonymized, and the rebuttals are written by the authors. We believe that the community will benefit from seeing the reviews and rebuttals, and that this will help improve the quality of the reviews in the long term.
+
+### Aren't you revealing too little?
+
+Historically, ICAPS has not made any part of the review process public. We believe that this is a good first step towards making the review process more transparent, and we will continue to evaluate what else can be made public in the future.
+
+### Aren't the last two questions contradictory?
+
+Yes, and we've been asked versions of both by severeal members of the community!
+
+### Can papers be revised while under review?
+
+No, papers cannot be revised while under review. The author feedback period is for authors to respond to the reviews, not to revise their papers. There will be an opportunity to revise papers after the notification of acceptance/rejection before the camera-ready copy is due.
+
+### Is the rebuttal interactive/threaded?
+
+No, the rebuttal is not interactive. Authors will be able to submit a single rebuttal to each review separately, and reviewers will be able to submit a single review. There will be no back-and-forth between authors and reviewers for this year.
+
 ### What is the policy on uploading our submissions to arXiv?
 
 Yes, following the AAAI policy, you are allowed to upload your submissions to arXiv during the review period.
