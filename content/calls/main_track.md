@@ -87,7 +87,7 @@ We have arranged our schedule to allow for the revision and resubmission of pape
 
 * December 7, 2023 - Abstracts due (electronic submission)
 * December 13, 2023 - Full papers due (electronic submission, PDF)
-* January 24-26, 2024 - Author feedback period
+* January 24-27, 2024 - Author feedback period
 * February 12, 2024 - Notification of acceptance or rejection
 
 The reference timezone for all deadlines is UTC-12. That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
