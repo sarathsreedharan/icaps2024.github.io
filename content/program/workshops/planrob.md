@@ -78,6 +78,7 @@ AndreA Orlandini, \
 Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 <andrea.orlandini@istc.cnr.it>
 
+
 [//]: # (## Program Committee\)
 
 [//]: # (Zlatan Ajanovic TU Delft, Netherlands\)
@@ -104,9 +105,11 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Mohan Sridharan University of Birmingham, UK\)
 
+[//]: # (Allessandro Umbrico, National Research Council of Italy (CNR-ISTC), Italy\)
+
 [//]: # (Charlie Street University of Birmingham, UK\)
 
-[//]: # (Allessandro Umbrico, National Research Council of Italy (CNR-ISTC), Italy\)
+
 
 
 ### List of Accepted Papers
