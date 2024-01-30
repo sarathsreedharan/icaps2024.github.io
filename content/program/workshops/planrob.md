@@ -95,7 +95,7 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Erez Karpas Technion, Israel\)
 
-[//]: # (Allessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy\)
+[//]: # (Allessandro Umbrico National Research Council of Italy CNR-ISTC, Italy\)
 
 [//]: # (Oscar Lima German Research Center for Artificial Intelligence - DFKI, Germany\)
 
