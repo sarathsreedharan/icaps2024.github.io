@@ -95,6 +95,8 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Erez Karpas Technion, Israel\)
 
+[//]: # (Allessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy\)
+
 [//]: # (Oscar Lima German Research Center for Artificial Intelligence - DFKI, Germany\)
 
 [//]: # (Tim Niemueller Intrinsic Innovation GmbH, Germany\)
@@ -104,7 +106,6 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 [//]: # (Tom Silver Massachusetts Institute of Technology, USA\)
 
 [//]: # (Mohan Sridharan University of Birmingham, UK\)
-
 
 [//]: # (Charlie Street University of Birmingham, UK\)
 
