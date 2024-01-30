@@ -78,7 +78,7 @@ AndreA Orlandini, \
 Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 <andrea.orlandini@istc.cnr.it>
 
-[//]: # (## Program Committee)
+[//]: # (## Program Committee\)
 
 [//]: # (Zlatan Ajanovic TU Delft, Netherlands\)
 
@@ -106,14 +106,14 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Charlie Street University of Birmingham, UK\)
 
-[//]: # (Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy\)
+[//]: # (Allessandro Umbrico, National Research Council of Italy (CNR-ISTC), Italy\)
 
 
-## List of Accepted Papers
+### List of Accepted Papers
 
 You can find them here in April...
 
-## Workshop Schedule
+### Workshop Schedule
 
 TBD...
 
