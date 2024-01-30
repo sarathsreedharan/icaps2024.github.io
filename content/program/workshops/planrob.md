@@ -105,7 +105,6 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Mohan Sridharan University of Birmingham, UK\)
 
-[//]: # (Allessandro Umbrico, National Research Council of Italy (CNR-ISTC), Italy\)
 
 [//]: # (Charlie Street University of Birmingham, UK\)
 
