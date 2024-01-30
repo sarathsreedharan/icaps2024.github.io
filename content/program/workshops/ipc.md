@@ -77,7 +77,7 @@ Paper submissions will be handled in OpenReview (we will post the link soon). Th
   Ayal is a postdoctoral researcher in the Data Driven Decision Making group at University of Toronto, Ontario, Canada. He co-organized the IPC Probabilistic Planning and RL Track 2023.
 - [Enrico Scala](https://www.hstairs.com) (enricos83@gmail.com)
 Enrico is a researcher at the University of Brescia, Italy. He co-organized the Numeric Planning track at the IPC 2023.
- - [Joan Espasa](https://joanespasa.github.io/) (jea20@st-andrews.ac.uk}{jea20@st-andrews.ac.uk}) 
+ - [Joan Espasa](https://joanespasa.github.io/) (jea20@st-andrews.ac.uk) 
 Joan is a Lecturer at the University of St Andrews, Scotland. He co-organized the Numeric Planning track at the IPC 2023.
 - [Ron Alford](https://volus.net/) (ronwalf@volus.net)
 Ron is a research at The MITRE Corporation, USA. He co-organized the Hierarchical Planning track at the IPC 2023.
