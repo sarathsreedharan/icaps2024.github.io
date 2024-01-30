@@ -23,7 +23,7 @@ Topics of interest include (but are not limited to):
 - planning domain representations for robotics applications,
 - optimising behaviour in large scale automated or semi-automated systems,
 - integrated planning and execution in robot architectures,
-- learning methods for robot planning and scheduling"
+- learning methods for robot planning and scheduling,
 - P&S methods for optimisation and adaptation in robotics,
 - mission, path, and motion planning for robots,
 - formal methods for robot planning and control,
@@ -39,8 +39,8 @@ Topics of interest include (but are not limited to):
 
 - Paper submission: **March 10, 2024**
 - Notification of acceptance: **March 24, 2023**
-- Camera-ready version due: April 21
-- Workshop Date: June 2-3
+- Camera-ready version due: **April 21**
+- Workshop Date: **June 2-3**
 
 The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
 
@@ -53,7 +53,7 @@ There are two types of submissions:
 
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2024 papers (typeset in the AAAI style as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=planrob23](https://easychair.org/conferences/?conf=icapswsplanrob24)).
+The guidelines for formatting are the same as is used for ICAPS 2024 papers (typeset in the AAAI style as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=icapswsplanrob24](https://easychair.org/conferences/?conf=icapswsplanrob24)).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2024) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
@@ -106,7 +106,7 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Charlie Street University of Birmingham, UK\)
 
-[//]: # (Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy)
+[//]: # (Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy\)
 
 
 ## List of Accepted Papers
