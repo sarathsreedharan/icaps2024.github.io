@@ -4,25 +4,82 @@ date: 2023-02-03T23:10:17+01:00
 draft: true
 ---
 
-# Workshop on XY (XY)
+# Workshop on the International Planning Competition (WIPC 2024)
 
-xth ICAPS Workshop on XY (XY 2023) \
+6th ICAPS Workshop on the International Planning Competition (WIPC 2024) \
 Banff, Alberta, Canada \
 June x-x, 2024
 
 
-
 ## Aim and Scope of the Workshop
 
-Lorem Ipsum
+The International Planning Competition (IPC) is held every few years in the
+context of ICAPS. It empirically evaluates state-of-the-art planning systems on
+a number of benchmark problems. The goals of the IPC are to promote planning
+research, highlight challenges in the planning community and provide new and
+interesting problems as benchmarks for future research. The IPC has an important
+role in the ICAPS community, being a forum to compare different algorithmic
+ideas and implementations, and setting standards for research and evaluation in
+the area.
 
+Similar to the lineage of IPC workshops organised at ICAPS 2003, 2007, 2012,
+2015, and 2019 this workshop aims to review the current status of the IPC,
+analyze the results of the last IPC (2023), and provide a venue for discussing
+aspects that will be helpful for preparing forthcoming competitions.
 
 
 ## Topics of Interest
 
 Topics of interests include but are not limited to:
 
-- topic 1
-- topic 2
+- Past, present and future of the IPC
+- Tracks: Proposing new and/or revising the current tracks
+- Domain Definition Languages: benefits and limitations. Should
+  larger subsets of PDDL or RDDL be considered in next editions of the
+  IPC? Should the input languages evolve in some way?
+- Benchmark Domains: Discussion/Analysis of existing domains. Are IPC benchmarks a
+  good standard for evaluation of planners?  How should instances be chosen for the
+  competition?
+- Evaluation Metrics: Should we adapt the metrics used for evaluating the performance
+  of planners? How should the winners of the competition be decided?
+- Results: interpretation of past results, new ideas about how to analyze/compare the
+  performance of planners beyond the score of the competition.
+- Rules: Should portfolios be given a special treatment? Should there be any limits on
+  re-using code from others?
+- Tools: Can we automate large parts of the IPC to make organising an IPC track easier?
 
- 
+
+# Submissions
+
+We encourage submissions in three formats. All submissions should be accompanied by a paper in AAAI style (https://www.aaai.org/Publications/Templates/AuthorKit23.zip). In all tracks you can chose the length of your submission freely between 1-8 pages + one page for references. Please choose a length appropriate for the format of your submission.
+- long presentations have a ~20 minute slot, including discussions. We expect most papers for this format will make use of all 8 pages.
+- short presentations have a ~10 minute slot, including discussions. We expect the average paper in this format will have around 4 pages.
+- super-short presentations have a ~5 minute slot, including discussion.  We expect submissions to consist of an idea that can be presented on 1-2 slides but lead to some discussion, like a suggestion for a new track or metric. Submissions in this track should consist of a title and abstract, so no PDF submission is required (though it is also welcomed).
+
+(We will adjust the length of the time slots according the number of accepted papers.)
+
+As suggested by the list of topics, we encourage the submission of position papers as well as other submissions that do not fit the mold of a typical conference paper.
+
+Paper submissions will be handled in OpenReview (we will post the link soon). The review process will be single blind for reviewers and double blind for the general public. All reviews of accepted papers will be made public via the OpenReview system.
+
+
+# Organization
+
+- [Florian Pommerening](https://ai.cs.unibas.ch/people/pommeren/)
+  (florian.pommerening@unibas.ch)
+  Florian is a postdoctoral researcher in the AI group at the University of Basel, Switzerland, where he completed his PhD from 2012 to 2017. He was co-organizer of the classical IPC tracks in 2018 and 2023.
+- [Jendrik Seipp](https://jendrikseipp.com)
+  (jendrik.seipp@liu.se)
+  Jendrik is an Associate Professor at Linköping University, Sweden. He co-organized the IPC Learning Track 2023.
+- [Javier Segovia-Aguas](https://jsego.github.io/) (javier.segovia@upf.edu)
+  Javier is a postdoctoral researcher in the AI\&ML group at Universitat Pompeu Fabra, Spain. He co-organized the IPC Learning Track 2023.
+- [Ayal Taitler](https://sites.google.com/view/ataitler/home) (ataitler@gmail.com)
+  Ayal is a postdoctoral researcher in the Data Driven Decision Making group at University of Toronto, Ontario, Canada. He co-organized the IPC Probabilistic Planning and RL Track 2023.
+- [Enrico Scala](https://www.hstairs.com) (enricos83@gmail.com)
+Enrico is a researcher at the University of Brescia, Italy. He co-organized the Numeric Planning track at the IPC 2023.
+ - [Joan Espasa](https://joanespasa.github.io/) (jea20@st-andrews.ac.uk}{jea20@st-andrews.ac.uk}) 
+Joan is a Lecturer at the University of St Andrews, Scotland. He co-organized the Numeric Planning track at the IPC 2023.
+- [Ron Alford](https://volus.net/) (ronwalf@volus.net)
+Ron is a research at The MITRE Corporation, USA. He co-organized the Hierarchical Planning track at the IPC 2023.
+- [Daniel Fišer](https://danfis.cz) (danfis@danfis.cz)
+Daniel is a postdoctoral researcher at Saarland University, Germany. He co-organized the Classical Planning track at the IPC 2023.
