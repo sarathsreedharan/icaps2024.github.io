@@ -51,10 +51,10 @@ Topics of interests include but are not limited to:
 
 # Submissions
 
-We encourage submissions in three formats. All submissions should be accompanied by a paper in AAAI style (https://www.aaai.org/Publications/Templates/AuthorKit23.zip). In all tracks you can chose the length of your submission freely between 1-8 pages + one page for references. Please choose a length appropriate for the format of your submission.
+We encourage submissions in three formats. All submissions should be accompanied by a paper in [AAAI style](https://www.aaai.org/Publications/Templates/AuthorKit23.zip). In all tracks you can chose the length of your submission freely between 1-8 pages + one page for references. Please choose a length appropriate for the format of your submission.
 - long presentations have a ~20 minute slot, including discussions. We expect most papers for this format will make use of all 8 pages.
 - short presentations have a ~10 minute slot, including discussions. We expect the average paper in this format will have around 4 pages.
-- super-short presentations have a ~5 minute slot, including discussion.  We expect submissions to consist of an idea that can be presented on 1-2 slides but lead to some discussion, like a suggestion for a new track or metric. Submissions in this track should consist of a title and abstract, so no PDF submission is required (though it is also welcomed).
+- very-short presentations have a ~5 minute slot, including discussion.  We expect submissions to consist of an idea that can be presented on 1-2 slides but lead to some discussion, like a suggestion for a new track or metric. Submissions in this track should consist of a title and abstract, so no PDF submission is required (though it is also welcomed).
 
 (We will adjust the length of the time slots according the number of accepted papers.)
 
@@ -64,7 +64,7 @@ Paper submissions will be handled in OpenReview (we will post the link soon). Th
 
 
 # Organization
-You can contact us at wipc2024@googlegroups.com.
+You can contact us at [wipc2024@googlegroups.com](wipc2024@googlegroups.com).
 
 - [Florian Pommerening](https://ai.cs.unibas.ch/people/pommeren/)
   Florian is a postdoctoral researcher in the AI group at the University of Basel, Switzerland, where he completed his PhD from 2012 to 2017. He was co-organizer of the classical IPC tracks in 2018 and 2023.
