@@ -75,7 +75,6 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 **Clemens Büchner**, University of Basel, Switzerland  
 **Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Sofia Lemons**, 2U, Maryland, USA
 
 Contact: <hsdip@googlegroups.com>  
