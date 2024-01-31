@@ -1,7 +1,7 @@
 ---
 title: "IPC"
 date: 2023-02-03T23:10:17+01:00
-draft: true
+draft: false
 ---
 
 # Workshop on the International Planning Competition (WIPC 2024)
