@@ -4,11 +4,11 @@ date: 2024-01-31
 draft: true
 ---
 
-# Heuristics and Search for Domain-independent Planning (HSDIP 2023)
+# Heuristics and Search for Domain-independent Planning (HSDIP 2024)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
-July 9-10, 2023
+ICAPS'24 Workshop \
+Banff, Canada \
+June 2-3, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -34,24 +34,24 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-~~31 March 2023 (UTC-12 timezone)~~ April 7, 2023 (UTC-12 timezone)
+28 March 2024 (UTC-12 timezone)
 
 **Open discussion:**  
-~~20-27 April 2023~~ April 27 - May 4, 2023
+15-21 April 2024
 
 **Notification:**  
-May 5 2023
+April 26 2024
 
 **Workshop:**  
-July 9/10 2023
+June 2-3 2024
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit23.zip) and keep them to  at most 9 pages including references. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
+Please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit24.zip) and keep them to  at most 9 pages including references. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
 Submissions will be made through OpenReview:
 
-https://openreview.net/group?id=icaps-conference.org/ICAPS/2023/Workshop/HSDIP
+https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Workshop/HSDIP
 
 The following conditions apply:
 
@@ -71,58 +71,12 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 
 ### Organizing Committee
 
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Clemens Büchner**, University of Basel, Switzerland  
+**Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Thorsten Klößner**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
+**Sofia Lemons**, 2U, Maryland, USA
 
-Contact: <hsdip@googlegroups.com>
-
-### Program Committee
-
-**Clemens Büchner**, University of Basel, Switzerland  
-**Rebecca Eifler**, Saarland University, Germany  
-**Salomé Eriksson**, University of Basel, Switzerland  
-**Daniel Fišer**, Saarland University, Germany  
-**Daniel Gnad**, Linköping University, Sweden  
-**Michael Katz**, IBM T.J. Watson Research Center, USA  
-**Thorsten Klößner**, Saarland University, Germany  
-**Pascal Lauer**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA  
-**David Speck**, Linköping University, Sweden  
-**Marcel Steinmetz**, Saarland University, Germany  
-**Silvan Sievers**, University of Basel, Switzerland  
-
-## List of Accepted Papers
-* **On Reducing Action Labels in Planning Domains**  
-  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
-* **Novelty and Lifted Helpful Actions in Generalized Planning**  
-  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
-* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
-  Stephen Wissow, Masataro Asai
-* **K\* and Partial Order Reduction for Top-quality Planning**  
-  Michael Katz, Junkyu Lee
-* **Any-Start-Time Planning for SIPP**  
-  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
-* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
-  Oriel Uzan, Guy Shani
-* **K\* Search Over Orbit Space for Top-k Planning**  
-  Michael Katz, Junkyu Lee
-* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
-  Alice Petrov, Christian Muise
-* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
-  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
-* **Action Schema Networks for Numerical Planning**  
-  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
-* **Triangle Search: An Anytime Beam Search**  
-  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
-* **On K\* Search for Top-k Planning**  
-  Junkyu Lee, Michael Katz, Shirin Sohrabi
-  
-## Workshop Schedule
-
-We are not ready to communicate a schedule yet.
-
-### Invited Talk
-We are excited to announce **Álvaro Torralba** as invited speaker.
+Contact: <hsdip@googlegroups.com>  
 
