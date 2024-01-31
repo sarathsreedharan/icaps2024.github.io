@@ -1,7 +1,7 @@
 ---
 title: "HSDIP"
-date: 2023-02-02T19:30:17+01:00
-draft: false
+date: 2024-01-31
+draft: true
 ---
 
 # Heuristics and Search for Domain-independent Planning (HSDIP 2023)
