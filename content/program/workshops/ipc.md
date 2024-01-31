@@ -8,7 +8,7 @@ draft: true
 
 6th ICAPS Workshop on the International Planning Competition (WIPC 2024) \
 Banff, Alberta, Canada \
-June x-x, 2024
+June 2-3, 2024
 
 
 ## Aim and Scope of the Workshop
