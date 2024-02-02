@@ -6,7 +6,7 @@ draft: false
 
 # Workshop on Reliable Data-Driven Planning and Scheduling 
 
-ICAPS'23 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) \
+ICAPS'24 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) \
 Banff, Alberta, Canada \
 June 2-3, 2024
 
