@@ -4,7 +4,7 @@ date: 2024-01-31
 draft: true
 ---
 
-# Heuristics and Search for Domain-independent Planning (HSDIP 2024)
+# Heuristics and Search for Domain-Independent Planning (HSDIP 2024)
 
 ICAPS'24 Workshop \
 Banff, Canada \
@@ -36,7 +36,7 @@ Examples of typical topics for submissions to this workshop are:
 **Submission deadline:**  
 28 March 2024 (UTC-12 timezone)
 
-**Open discussion:**  
+**Author feedback period:**
 15-21 April 2024
 
 **Notification:**  
@@ -47,25 +47,25 @@ June 2-3 2024
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit24.zip) and keep them to  at most 9 pages including references. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
+The workshop will adopt a **two-track submission system** to better distinguish papers previously published at other venues (with formal proceedings) and unpublished work. Previously published papers can be submitted non-anonymously in the exact same format in which it appeared before. For unpublished work, please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit24.zip) and keep them to  at most 9 pages including references. The track should be indicated at submission time. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
-Submissions will be made through OpenReview:
+Submissions will be made through CMT:
 
 https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Workshop/HSDIP
 
 The following conditions apply:
 
 - Submissions will be double blind in general and single blind to the area chair.
-- The submitted papers, reviews and discussion between authors and reviewers will be public, and all anonymous.
-- Discussions between reviewers and organizers will be private.
+- Accepted papers will be published as PDFs on the workshop webpage.
+- Reviews and discussions between reviewers and organizers will be private.
 
-Every submission will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be a brief discussion phase where author and reviewers can interactively engage and discuss the submission and the reviews.
+Previously published papers are only assessed based on their relevance to the workshop by a member of the organizing committee and will not receive a full review. Unpublished work will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be an opportunity for a rebuttal where authors can clarify questions of the reviewers.
 
 At least one author of each accepted paper must attend the workshop in order to present the paper.
 
-### Policy on Previously Published Materials
+### Policy on Previously Published Materials and Papers under Review
 
-Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference.
+Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference, and we aim to have the workshop submission deadline after SoCS notification.
 
 ## Workshop Committee
 
