@@ -233,24 +233,24 @@ theme = 'mainroad'
 #    url = "/program/tutorials/up"
 #    weight = "50"
 ## WORKSHOPS
-#  [[menu.main]]
-#    identifier = "keps"
-#    name = "KEPS"
-#    parent = "ws"
-#    url = "/program/workshops/keps"
-#    weight = 10
+ [[menu.main]]
+   identifier = "keps"
+   name = "KEPS"
+   parent = "ws"
+   url = "/program/workshops/keps"
+   weight = 10
 #  [[menu.main]]
 #    identifier = "hplan"
 #    name = "HPlan"
 #    url = "/program/workshops/hplan"
 #    parent = "ws"
 #    weight = 20
-#  [[menu.main]]
-#    identifier = "ipc"
-#    name = "IPC"
-#    url = "/program/workshops/ipc"
-#    parent = "ws"
-#    weight = 30
+ [[menu.main]]
+   identifier = "wipc"
+   name = "WIPC"
+   url = "/program/workshops/wipc"
+   parent = "ws"
+   weight = 30
 #  [[menu.main]]
 #    identifier = "prl"
 #    name = "PRL"
@@ -275,24 +275,24 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/weep"
 #    weight = 70
-#  [[menu.main]]
-#    identifier = "rddps"
-#    name = "RDDPS"
-#    parent = "ws"
-#    url = "/program/workshops/rddps"
-#    weight = 80
+ [[menu.main]]
+   identifier = "rddps"
+   name = "RDDPS"
+   parent = "ws"
+   url = "/program/workshops/rddps"
+   weight = 80
 #  [[menu.main]]
 #    identifier = "hsdip"
 #    name = "HSDIP"
 #    parent = "ws"
 #    url = "/program/workshops/hsdip"
 #    weight = 90
-#  [[menu.main]]
-#    identifier = "planrob"
-#    name = "PlanRob"
-#    parent = "ws"
-#    url = "/program/workshops/planrob"
-#    weight = 100
+ [[menu.main]]
+   identifier = "planrob"
+   name = "PlanRob"
+   parent = "ws"
+   url = "/program/workshops/planrob"
+   weight = 100
 
 # COMMITTEES
   [[menu.main]]

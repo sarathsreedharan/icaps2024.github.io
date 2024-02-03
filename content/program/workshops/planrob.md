@@ -79,7 +79,7 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 <andrea.orlandini@istc.cnr.it>
 
 
-[//]: # (## Program Committee\)
+<!-- [//]: # (## Program Committee\)
 
 [//]: # (Zlatan Ajanovic TU Delft, Netherlands\)
 
@@ -107,7 +107,7 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 [//]: # (Mohan Sridharan University of Birmingham, UK\)
 
-[//]: # (Charlie Street University of Birmingham, UK\)
+[//]: # (Charlie Street University of Birmingham, UK\) -->
 
 
 
