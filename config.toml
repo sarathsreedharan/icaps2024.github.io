@@ -239,12 +239,12 @@ theme = 'mainroad'
    parent = "ws"
    url = "/program/workshops/keps"
    weight = 10
-#  [[menu.main]]
-#    identifier = "hplan"
-#    name = "HPlan"
-#    url = "/program/workshops/hplan"
-#    parent = "ws"
-#    weight = 20
+  [[menu.main]]
+    identifier = "hplan"
+    name = "HPlan"
+    url = "/program/workshops/hplan"
+    parent = "ws"
+    weight = 20
  [[menu.main]]
    identifier = "wipc"
    name = "WIPC"
