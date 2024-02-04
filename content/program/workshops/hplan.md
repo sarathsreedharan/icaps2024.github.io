@@ -35,12 +35,13 @@ Topics of interests include but are not limited to:
  
 ## Important Dates
 
-- Submission Deadline:   tba
-- Author Notification:   tba
-- Camera-Ready Deadline: tba
+- Submission Deadline:   Monday, 25 March 2024
+- Author Notification:   Friday, 26 April 2024
+- Camera-Ready Deadline: Friday 24 May 2024
 - ICAPS 2024 Workshops:  June 2-3, 2024
 
-We understand that for some, our notification date might come too late in order to plan travel accordingly, in particular if visa needs to be obtained. Should you require an earlier notification, please reach out to the organizers via email with your request and we check whether we can arrange an earlier review and notification. Note that this would most likely require a much earlier submission of your work as well. Therefore, if you believe you require reviewing outside our standard timeline, please contact the organizers at your earliest convenience.
+We understand that for some, our notification date might come too late in order to plan travel accordingly, in particular if visa needs to be obtained. So in case you want to make your travel plans dependent on paper acceptance and thus require an earlier notification, please reach out to us to see whether submission and notification dates can be moved forward for your individual paper.
+
 
 <!--
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
@@ -49,7 +50,7 @@ Note that at the date of the submission deadline, all papers need to be register
 
 ## Submission Details
 
-The formatting guidelines (author kit, etc.) are the same as for ICAPS 2024. There will be a high quality double-blind review process against the standard criteria of significance, soundness, scholarship, clarity, and reproducibility. However, submissions may be less evolved than at the main conference. We have two categories:
+The formatting guidelines ([author kit](https://icaps24.icaps-conference.org/files/icaps-author-kit.zip), etc.) are the same as for ICAPS 2024. There will be a high quality double-blind review process against the standard criteria of significance, soundness, scholarship, clarity, and reproducibility. However, submissions may be less evolved than at the main conference. We have two categories:
 
 We have two categories:
 
@@ -57,26 +58,26 @@ We have two categories:
  2. Challenge papers (short).
 
 Technical research papers correspond to standard conference papers, but may be less evolved or groundbreaking. The purpose of challenge papers is to make aware of interesting/important problems in Hierarchical Planning and to encourage discussion at the workshop -- not to present some significant contribution.
-ß
+
 Authors may submit *long papers* (up to 8 pages plus up to one page of references) or *short papers* (up to 4 pages plus up to one page of references). The purpose of short papers is to encourage publications of more preliminary results; challenge papers need to be short papers.
 
 In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
 <!--[easychair](https://easychair.org/conferences/?conf=hplan2024). -->
-Submissions will be done via easychair, link to be provided in time. As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
+Submissions will be done via **easychair**, link will be provided in time. As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
 
 
 
 
 ### Workshop Proceedings
 
-Please be aware that we put all accepted papers into a single proceedings that we will make publicly available (check out previous years' editions if interested: [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)).
+On top of making all papers available for download individually, we also collect them in a single proceedings that we will also make publicly available (check out previous years' editions if interested: [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)).
 
-Our proceedings are non-archival meaning that you will keep all copyrights. 
+Our proceedings are non-archival meaning that authors keep all copyrights. 
 
 
 
-### Policy on Previously Published Materials
+### Policy on Previously Published Material
 
 Despite our proceedings being non-archival we will strictly not include any paper where at the time of putting the proceedings online, portions of that paper are under the copyright of some publisher. The reason is that normally the rights granted to the authors are rather restricted; they might be allowed to upload the specific entire paper on their own institution's webpage, but this does not include allowing others (like us workshop organizers) to distribute that material or parts of it. This means that all submitted work must be entirely original -- just as at any conference. If in doubt, contact the organizers.
 
@@ -111,32 +112,21 @@ If you'd like to be part of our team this year or in any of the future years, pl
 
 ## List of Accepted Papers
 
-#### Accepted at HPlan and included in proceedings
-The following publications will be included in the proceedings once it's ready.
-<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
-
-<hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
-
-#### Accepted at HPlan and another venue
-The following publications will be excluded from the proceedings to preven copyright issues. We will provide a link instead.
-<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
-
+tba
 
 <br>
 
 ## Workshop Schedule
 
+tba
+
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
 
-The actual schedule is TBA.
+
 
 
 
 ## Further Information
 
-- On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find (among other things) a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2022.hierarchical-task.net](https://hplan2022.hierarchical-task.net) for last year's edition.
-- Note that this year the second IPC on Hierarchical Planning will take place! See [ipc2023.hierarchical-task.net](https://ipc2023.hierarchical-task.net). The link to the first IPC as well as any future ones can be found on [ipc.hierarchical-task.net](https://ipc.hierarchical-task.net).
-- We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic, moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email. 
-
-
-
+- On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find, among others, a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2023.hierarchical-task.net](https://hplan2023.hierarchical-task.net) for last year's edition (or 2024 for this very page).
+- We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic, moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email.
