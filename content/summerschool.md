@@ -34,7 +34,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
   gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
-- [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
+- [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion,  
   gives a talk on *Introduction to integrated task and motion planning*
 - [Jane Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
   gives a talk on *Applications of Planning*
@@ -43,9 +43,11 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 - [Wheeler Ruml](https://www.cs.unh.edu/~ruml/), University of New Hampshire,  
   gives a talk on *Suboptimal search and motion planning*
 - [Nathan Sturtevant](https://apps.ualberta.ca/directory/person/nathanst), University of Alberta,  
-  gives a talk on *Classical Planning and A**
+  gives a talk on *The Foundation of Best-First Search*
 - [Brian C. Williams](https://groups.csail.mit.edu/mers/), MIT,  
   gives a talk on *Risk-aware planning and scheduling*
+
+Abstracts of the talks will be provided soon (likely before February 12).
 
 <!--
 - [student 1](URL?), Technion (undergrad student),  
@@ -82,12 +84,12 @@ The registration fees include:
 
 ### Important Dates & Application
 
-- Applications open:   tba (but very close after ICAPS notifications, i.e., after 12 February)
-- Applications close:  tba (but roughly two weeks after it opens)
-- Notifications sent:          tba (but roughly one week after closing date)
-- Summer school:               Monday, 27 May to Friday, 31 May 2024.
+- Applications open:   12 February
+- Applications close:  26 February
+- Notifications sent:  4 March
+- Summer school:       Monday, 27 May to Friday, 31 May 2024.
 
-Application data will be uploaded via easychair. Required documents will be published very soon. Link will be provided when applications open.
+Applications will be made via a google form. Required documents will be provided soon. Link will be provided when applications open.
 
 Application data required:
 - Application form (to be provided soon).
@@ -104,7 +106,7 @@ Please merge the documents in the order provided into one single PDF. You will t
 The organizing team, sorted alphabetically by last name, consists of:
 
 - Pascal Bercher from the Australian National University, Australia -- pascal.bercher at anu.edu.au, [webpage](https://comp.anu.edu.au/people/pascal-bercher/)
-- Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahkeren.wixsite.com/sarahkeren-academics)
+- Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahk.cs.technion.ac.il)
 - Jane Jean Kiam from University of the Bundeswehr Munich, Germany -- jane.kiam at unibw.de [webpage](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam)
 
 
