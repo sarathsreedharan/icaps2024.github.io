@@ -269,12 +269,12 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/haxp"
 #    weight = 60
-#  [[menu.main]]
-#    identifier = "weep"
-#    name = "WEEP"
-#    parent = "ws"
-#    url = "/program/workshops/weep"
-#    weight = 70
+  [[menu.main]]
+    identifier = "weep"
+    name = "WEEP"
+    parent = "ws"
+    url = "/program/workshops/weep"
+    weight = 70
  [[menu.main]]
    identifier = "rddps"
    name = "RDDPS"
