@@ -251,24 +251,24 @@ theme = 'mainroad'
    url = "/program/workshops/wipc"
    parent = "ws"
    weight = 30
-#  [[menu.main]]
-#    identifier = "prl"
-#    name = "PRL"
-#    parent = "ws"
-#    url = "/program/workshops/prl"
-#    weight = 40
+  [[menu.main]]
+    identifier = "prl"
+    name = "PRL"
+    parent = "ws"
+    url = "/program/workshops/prl"
+    weight = 40
   [[menu.main]]
     identifier = "haxp"
     name = "HAXP"
     url = "/program/workshops/haxp"
     parent = "ws"
     weight = 50
-#  [[menu.main]]
-#    identifier = "haxp"
-#    name = "HAXP"
-#    parent = "ws"
-#    url = "/program/workshops/haxp"
-#    weight = 60
+  [[menu.main]]
+    identifier = "haxp"
+    name = "HAXP"
+    parent = "ws"
+    url = "/program/workshops/haxp"
+    weight = 60
   [[menu.main]]
     identifier = "weep"
     name = "WEEP"
