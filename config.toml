@@ -257,12 +257,12 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/prl"
 #    weight = 40
-#  [[menu.main]]
-#    identifier = "haxp"
-#    name = "HAXP"
-#    url = "/program/workshops/haxp"
-#    parent = "ws"
-#    weight = 50
+  [[menu.main]]
+    identifier = "haxp"
+    name = "HAXP"
+    url = "/program/workshops/haxp"
+    parent = "ws"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "haxp"
 #    name = "HAXP"
