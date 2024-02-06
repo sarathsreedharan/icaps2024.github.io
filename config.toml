@@ -281,12 +281,12 @@ theme = 'mainroad'
    parent = "ws"
    url = "/program/workshops/rddps"
    weight = 80
-#  [[menu.main]]
-#    identifier = "hsdip"
-#    name = "HSDIP"
-#    parent = "ws"
-#    url = "/program/workshops/hsdip"
-#    weight = 90
+  [[menu.main]]
+    identifier = "hsdip"
+    name = "HSDIP"
+    parent = "ws"
+    url = "/program/workshops/hsdip"
+    weight = 90
  [[menu.main]]
    identifier = "planrob"
    name = "PlanRob"
