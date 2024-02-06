@@ -1,7 +1,7 @@
 ---
 title: "HSDIP"
 date: 2024-01-31
-draft: true
+draft: false
 ---
 
 # Heuristics and Search for Domain-Independent Planning (HSDIP 2024)
