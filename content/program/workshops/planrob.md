@@ -37,12 +37,12 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-- Paper submission: **March 10, 2024**
-- Notification of acceptance: **March 24, 2023**
-- Camera-ready version due: **April 21**
-- Workshop Date: **June 2-3**
+- Paper submission: ***Monday, 25 March 2024*** (AoE)
+- Notification of acceptance: Friday, 26 April 2024
+- Camera-ready version due: Friday 24 May 2024 (AoE)
+- Workshop Date: June 2-3, 2024
 
-The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
+The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still any place on Earth where the deadline has not yet passed.
 
 ## Submission Details
 
