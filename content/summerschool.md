@@ -96,10 +96,10 @@ The registration fees include:
 Applications will be made via a google form. Required documents will be provided soon. Link will be provided when applications open.
 
 Application data required:
-- Application form (to be provided soon).
+- Basic information to be provided in the google document (made available soon).
 - A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
 - A CV.
-- A consent form by your supervisor, confirming the applicant's identity and consent to attend the summer school (to be provided soon).
+- Our [consent form by your supervisor](https://icaps24.icaps-conference.org/files/AdvisorForm.pdf), confirming the applicant's identity and consent to attend the summer school.
 - If you request financial aid, provide a letter of recommendation by your supervisor, which should also lay out the necessity for this aid.
 
 Please merge the documents in the order provided into one single PDF. You will then have to upload it via google forms (link will be provided once applications open). Note that google forms strictly requires a google account because of the file upload. We apologize for this.
