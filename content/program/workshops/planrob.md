@@ -64,7 +64,7 @@ The organisers are investigating the availability of journal editors in order to
 
 [//]: # (## Workshop Committee)
 
-### Organizing Committee
+## Organizing Committee
 
 Iman Awaad, \
 Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
@@ -112,11 +112,11 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 
 
-### List of Accepted Papers
+## List of Accepted Papers
 
 You can find them here in April...
 
-### Workshop Schedule
+## Workshop Schedule
 
 TBD...
 
