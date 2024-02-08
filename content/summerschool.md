@@ -102,7 +102,9 @@ Application data required:
 - A consent form by your supervisor, confirming the applicant's identity and consent to attend the summer school (to be provided soon).
 - If you request financial aid, provide a letter of recommendation by your supervisor, which should also lay out the necessity for this aid.
 
-Please merge the documents in the order provided into one single PDF. You will then have to upload it to easychair (link will be provided once applications open).  Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
+Please merge the documents in the order provided into one single PDF. You will then have to upload it via google forms (link will be provided once applications open). Note that google forms strictly requires a google account because of the file upload. We apologize for this.
+
+Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
 
 
 ### Organizing Team
