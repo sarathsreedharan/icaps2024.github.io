@@ -6,37 +6,14 @@ draft: false
 
 # HAXP: Human-Aware and Explainable Planning
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
-July 9-10, 2023
-
-**We merged with the Plan, Activity, and Intent Recognition ([PAIR](../pair)) Workshop**
+ICAPS'24 Workshop
+Banff, Alberta, Canada
+June 2-3, 2024
 
 ## Aim and Scope of the Workshop
 
 As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](http://xaip.mybluemix.net)
 
-## List of Accepted Papers
-
-* **Explanation Framework for Optimization-Based Scheduling: Evaluating Contributions of Constraints and Parameters by Shapley Values** | 
-    Yuta Tsuchiya, Masaki Hamamoto 
-* **Comparing AI planning algorithms with humans on the Tower of London task** | Chenyuan Zhang, Nir Lipovetzky, Charles Kemp 
-* **TIPs: Transparency Information Pacts** | Phillip Walker, Ugur Kuter, Christopher A Miller, Helen Wauck, Matthew DeHaven, Christopher Geib 
-* **Specifying Goals to Deep Neural Networks with Answer Set Programming** | Forest Agostinelli 
-* **DR-HAI: Argumentation-based Dialectical Reconciliation in Human-AI Interactions** | Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh 
-* **Action Policy Explanations in Oversubscription Planning** | Aleena Siji, Rebecca Eifler, Daniel Fišer, Jörg Hoffmann 
-* **Learning and Recognizing Human Behaviour with Relational Decision Trees** | Stanislav Sitanskiy, Laura Sebastia, Eva Onaindia 
-* **Formal Explanations of Neural Network Policies for Planning** | Renee Selvey, Alban Grastien, Sylvie Thiebaux 
-* **Towards Human-Aware AI via Planning with Epistemic Preferences** | Toryn Q. Klassen, Christian Muise, Sheila A. McIlraith 
-* **Outcome Prediction and Explainability for Mission Operations of Autonomous Spacecraft** | Alberto Candela, Tiago Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi, Rebecca Castano 
-* **Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning** | Juan Carlos Saborío and Joachim Hertzberg
-* **Recognizing Hierarchical Plans via Earley Parsing** | Kristýna Pantůčková and Roman Barták
-* **Bridging the Gap between Structural and Semantic Similarity in Diverse Planning** | Joan Espasa Arxer, Ian Gent, Alice Toniolo and Mustafa Abdelwahed
-
-
-## Workshop Schedule
-
-You can find the schedule here: [HAXP Schedule](http://xaip.mybluemix.net/2023)
 
 
 ## Topics of Interest
@@ -60,14 +37,15 @@ The workshop includes - but is not limited to - the following topics:
 * Theories and applications of human behavior models.
 * Trust, communication, and collaboration in human-AI teams.
 * Benchmarking planning/scheduling domains for human-AI interaction.
+* Large language models in human-aware planning & scheduling.
  
 
 ## Important Dates
 
-* Paper submission deadline: **March 31 UTC-12 (EXTENDED)**
-* Notification of acceptance: May 01 UTC-12
-* Camera-ready paper submissions: TBD 
-* Workshop date: TBD (July 8-13)
+* Paper submission deadline: **March 25, 2024 UTC-12**
+* Notification of acceptance: April 30, 2024 UTC-12
+* Camera-ready paper submissions: TBD (after the workshop)
+* Workshop date: TBD (June 2-3, 2024)
 
 ## Submission Details
 
@@ -77,29 +55,33 @@ We invite submissions of the following types:
 * Short technical papers making an original contribution; up to 5 pages including references. 
 * Position papers proposing HAXP challenges, outlining HAXP ideas, debating issues relevant to HAXP; up to 5 pages including references. 
 
-Submissions will be hosted on [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2023/Workshop/HAXP)
+Submissions will be hosted on [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Workshop/HAXP)
+Please ensure that you have registered with OpenReview. New profiles with an institutional email will be activated immediately. However, new profiles without an institutional email may take up to two weeks to be activated.
 
-Papers must be prepared according to the instructions for ICAPS 2023 (in AAAI format) available at: [Paper template](https://www.aaai.org/Publications/Templates/AuthorKit23.zip)
+We are pleased to announce that an extended version of the accepted papers may be considered for publication in the [Topical Collection on Explainable Sequential Decision-Making at the journal Neural Computing and Applications](https://link.springer.com/journal/521/updates/26316146).
 
-Authors who are considering submitting to the workshop papers rejected from the main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop. 
+Papers must be prepared according to the instructions for ICAPS 2024 (in AAAI format) available at: [Paper template](https://icaps24.icaps-conference.org/files/icaps-author-kit.zip)
 
-Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, the significance of the contribution, and technical quality. Authors can select if they want their submissions to be single-blind or double-blind.
 
-The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. 
+Authors who are considering submitting to the workshop papers rejected from the main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
-At least one author of each accepted paper must attend the workshop in order to present the paper. All participants need to register to the main ICAPS conference. There will be no separate registration required. 
+Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, the significance of the contribution, and technical quality. *Submissions are double-blind*.
 
-We are excited that ICAPS is going to be a physical conference this year. However, we understand that not everyone will be able to travel to Prague, due to factors such as personal health or travel restrictions. Although not guaranteed yet, there might be limited support for remote presentations for those who cannot attend the in-person event.
+The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper.
+
+At least one author of each accepted paper must attend the workshop in order to present the paper. All participants need to register to the main ICAPS conference. There will be no separate registration required.
+
+We are excited that ICAPS is going to be a physical conference this year. However, we understand that not everyone will be able to travel to Banff, due to factors such as personal health or travel restrictions. Although not guaranteed yet, there might be limited support for remote presentations for those who cannot attend the in-person event.
+
 
 
 ## Organizing Committee
 
-* [Rebecca Eifler](http://fai.cs.uni-saarland.de/eifler/) | Saarland University
+* [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS
 * [Benjamin Krarup](https://uk.linkedin.com/in/benjamin-krarup) | King’s College London 
 * [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University
-* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | King’s College London 
-* [Sarath Sreedharan](http://sarathsreedharan.com/) | Colorado State University
-* [Silvia Tulli](https://silviatulli.com/) | Técnico
+* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | MIT 
+* [Silvia Tulli](https://silviatulli.com/) | Sorbonne University
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | Washington University in St. Louis
 
 ## Steering Committee
