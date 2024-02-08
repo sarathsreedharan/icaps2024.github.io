@@ -93,8 +93,6 @@ The registration fees include:
 - Notifications sent:  4 March
 - Summer school:       Monday, 27 May to Friday, 31 May 2024.
 
-Applications will be made via a google form. Required documents will be provided soon. Link will be provided when applications open.
-
 Application data required:
 - Basic information to be provided in the google document (made available soon).
 - A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
