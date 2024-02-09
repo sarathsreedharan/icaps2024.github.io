@@ -31,7 +31,7 @@ ICKEPS is organized by [Lukáš Chrpa](https://sites.google.com/view/lukaschrpa/
 
 
 The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
-- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
+- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), the Australian National University (ANU),  
   **An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving**  
   In this introductory tutorial, we explore the basics of HTN planning, designed to enable anybody without prior knowledge of this field to easily follow current research papers. Starting with a simplistic formalization of the problem -- as used in scientific papers -- we show how this relates to non-hierarchical (STRIPS) planning both in terms of computational complexity and a more fine-grained measure of expressivity, before providing a broad overview of useful extensions of the core formalism. We explain the most commonly known solution technique -- progression search -- but also provide pointers to others such as compilation techniques.
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
@@ -50,7 +50,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   **Suboptimal heuristic search and motion planning**  
   Many interesting problems are too hard to solve optimally.  We'll talk about alternative problem settings in which optimality is sacrificed for lower search time, such as greedy search, bounded-suboptimal search, contract search, and real-time search.  When planning under time pressure, additional sources of heuristic information beyond cost-to-go become relevant, so there is lots of room for creativity here.  We'll also discuss motion planning, where we'll see how ideas from suboptimal graph search can be very useful in searching continuous spaces.
 - [Nathan Sturtevant](https://apps.ualberta.ca/directory/person/nathanst), University of Alberta,  
-  **The Foundation of Best-First Search**:
+  **The Foundation of Best-First Search**  
   This session will cover the foundations of best-first search algorithms, which are broadly used for planning, including A*, WA*, GBFS, and many others. We will cover the theoretical foundations of best-first search, and then use this foundation to introduce a variety of algorithms that tackle challenges that arise when solving practical problems. This includes things like the worst-case performance of A* and how it is fixed with BGS, suboptimal algorithms (focal search, WA* and variants such as XDP), as well as ideas like partial-expansion. The goal of this talk is to give a foundational knowledge of best-first search that can be used for designing new algorithms to handle novel applications with unique problem constraints.
 - [Brian C. Williams](https://groups.csail.mit.edu/mers/), MIT,  
   **Risk-bounded Task and Motion Planning in the Real World**  
