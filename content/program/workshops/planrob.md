@@ -37,12 +37,12 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-- Paper submission: **March 10, 2024**
-- Notification of acceptance: **March 24, 2023**
-- Camera-ready version due: **April 21**
-- Workshop Date: **June 2-3**
+- Paper submission: ***Monday, 25 March 2024*** (AoE)
+- Notification of acceptance: Friday, 26 April 2024
+- Camera-ready version due: Friday 24 May 2024 (AoE)
+- Workshop Date: June 2-3, 2024
 
-The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
+The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still any place on Earth where the deadline has not yet passed.
 
 ## Submission Details
 
@@ -64,7 +64,7 @@ The organisers are investigating the availability of journal editors in order to
 
 [//]: # (## Workshop Committee)
 
-### Organizing Committee
+## Organizing Committee
 
 Iman Awaad, \
 Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
@@ -112,11 +112,11 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 
 
-### List of Accepted Papers
+## List of Accepted Papers
 
 You can find them here in April...
 
-### Workshop Schedule
+## Workshop Schedule
 
 TBD...
 
