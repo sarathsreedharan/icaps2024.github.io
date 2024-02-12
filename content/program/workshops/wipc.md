@@ -71,7 +71,7 @@ Paper submissions will be handled in OpenReview (https://openreview.net/group?id
 
 
 # Organization
-You can contact us at [wipc2024@googlegroups.com](wipc2024@googlegroups.com).
+You can contact us at [wipc2024@googlegroups.com](mailto:wipc2024@googlegroups.com).
 
 - [Florian Pommerening](https://ai.cs.unibas.ch/people/pommeren/)
   Florian is a postdoctoral researcher in the AI group at the University of Basel, Switzerland, where he completed his PhD from 2012 to 2017. He was co-organizer of the classical IPC tracks in 2018 and 2023.
