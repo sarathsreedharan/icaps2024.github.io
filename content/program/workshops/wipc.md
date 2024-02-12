@@ -11,12 +11,12 @@ Banff, Alberta, Canada \
 June 2-3, 2024
 
 
-|                              |          |
-|------------------------------|----------|
-| Abstract Submission deadline | March 18 |
-| Submission deadline          | March 25 |
-| Notification                 | April 8  |
-| Camera Ready                 | April 22 |
+| Schedule            |          |
+|---------------------|----------|
+| Abstract Submission | March 18 |
+| Submission          | March 25 |
+| Notification        | April 8  |
+| Camera Ready        | April 22 |
 
 ## Aim and Scope of the Workshop
 
@@ -67,7 +67,7 @@ We encourage submissions in three formats. All submissions should be accompanied
 
 As suggested by the list of topics, we encourage the submission of position papers as well as other submissions that do not fit the mold of a typical conference paper.
 
-Paper submissions will be handled in OpenReview (we will post the link soon). The review process will be single blind for reviewers and double blind for the general public. All reviews of accepted papers will be made public via the OpenReview system.
+Paper submissions will be handled in OpenReview (https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Workshop/WIPC). The review process will be single blind for reviewers and double blind for the general public. All reviews of accepted papers will be made public via the OpenReview system.
 
 
 # Organization
