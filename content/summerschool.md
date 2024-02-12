@@ -73,7 +73,7 @@ As of now, we have 40 (in-person) spots for participants. We would have loved to
 
 ### Costs and Financial Aid
 
-We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are *not* part of the registration fees, so you will have to finance this on your own.
+The registration fees are 950 CAD. They include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are *not* part of the registration fees, so you will have to finance this on your own.
 
 We will provide a small number of financial aids, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). 
 
@@ -94,13 +94,13 @@ The registration fees include:
 - Summer school:       Monday, 27 May to Friday, 31 May 2024.
 
 Application data required:
-- Basic information to be provided in the google document (made available soon).
+- Basic information to be provided in the [google document](https://docs.google.com/forms/d/e/1FAIpQLSetvlhWIMTFmrIYhpjSv53Nu6lE1xk4WD3WJT2-jNysQVlHcw/viewform?usp=sf_link).
 - A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
 - A CV.
 - Our [consent form by your supervisor](https://icaps24.icaps-conference.org/files/AdvisorForm.pdf), confirming the applicant's identity and consent to attend the summer school.
 - If you request financial aid, provide a letter of recommendation by your supervisor, which should also lay out the necessity for this aid.
 
-Please merge the documents in the order provided into one single PDF. You will then have to upload it via google forms (link will be provided once applications open). Note that google forms strictly requires a google account because of the file upload. We apologize for this.
+Please merge the documents in the order provided into one single PDF. You will then have to upload it via [google forms](https://docs.google.com/forms/d/e/1FAIpQLSetvlhWIMTFmrIYhpjSv53Nu6lE1xk4WD3WJT2-jNysQVlHcw/viewform?usp=sf_link). Note that google forms strictly requires a google account because of the file upload. We apologize for this.
 
 Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
 
