@@ -1,5 +1,5 @@
 ---
-title: "IPC"
+title: "WIPC"
 date: 2023-02-03T23:10:17+01:00
 draft: false
 ---
@@ -10,6 +10,13 @@ draft: false
 Banff, Alberta, Canada \
 June 2-3, 2024
 
+
+| Schedule            |          |
+|---------------------|----------|
+| Abstract Submission | March 18 |
+| Submission          | March 25 |
+| Notification        | April 8  |
+| Camera Ready        | April 22 |
 
 ## Aim and Scope of the Workshop
 
@@ -51,16 +58,16 @@ Topics of interests include but are not limited to:
 
 # Submissions
 
-We encourage submissions in three formats. All submissions should be accompanied by a paper in [AAAI style](https://www.aaai.org/Publications/Templates/AuthorKit23.zip). In all tracks you can chose the length of your submission freely between 1-8 pages + one page for references. Please choose a length appropriate for the format of your submission.
+We encourage submissions in three formats. All submissions should be accompanied by a paper in [AAAI style](https://www.aaai.org/Publications/Templates/AuthorKit23.zip). In all tracks you can choose the length of your submission freely between 1-8 pages + one page for references. Please choose a length appropriate for the format of your submission.
 - long presentations have a ~20 minute slot, including discussions. We expect most papers for this format will make use of all 8 pages.
 - short presentations have a ~10 minute slot, including discussions. We expect the average paper in this format will have around 4 pages.
 - very short presentations have a ~5 minute slot, including discussion.  We expect submissions to consist of an idea that can be presented on 1-2 slides but lead to some discussion, like a suggestion for a new track or metric. Submissions in this track should consist of a title and abstract, so no PDF submission is required (though it is also welcomed).
 
-(We will adjust the length of the time slots according the number of accepted papers.)
+(We will adjust the length of the time slots according to the number of accepted papers.)
 
 As suggested by the list of topics, we encourage the submission of position papers as well as other submissions that do not fit the mold of a typical conference paper.
 
-Paper submissions will be handled in OpenReview (we will post the link soon). The review process will be single blind for reviewers and double blind for the general public. All reviews of accepted papers will be made public via the OpenReview system.
+Paper submissions will be handled in OpenReview (https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Workshop/WIPC). The review process will be single blind for reviewers and double blind for the general public. All reviews of accepted papers will be made public via the OpenReview system.
 
 
 # Organization
