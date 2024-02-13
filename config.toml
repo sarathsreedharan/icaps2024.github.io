@@ -317,12 +317,12 @@ theme = 'mainroad'
     url = "/committees/organizers"
     parent = "committees"
     weight = 100
-#  [[menu.main]]
-#    identifier = "pc"
-#    name = "Program Committee"
-#    url = "/committees/program_committees"
-#    parent = "committees"
-#    weight = 200
+  [[menu.main]]
+    identifier = "pc"
+    name = "Program Committee"
+    url = "/committees/program_committees"
+    parent = "committees"
+    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
