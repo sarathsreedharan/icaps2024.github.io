@@ -49,7 +49,7 @@ June 2-3 2024
 
 The workshop will adopt a **two-track submission system** to better distinguish papers previously published at other venues (with formal proceedings) and unpublished work. Previously published papers can be submitted non-anonymously in the exact same format in which it appeared before. For unpublished work, please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit24.zip) and keep them to  at most 9 pages including references. The track should be indicated at submission time. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
-Submissions will be made through CMT: **Submission link will be announced soon**
+Submissions will be made through CMT: https://cmt3.research.microsoft.com/HSDIP2024/
 
 The following conditions apply:
 
