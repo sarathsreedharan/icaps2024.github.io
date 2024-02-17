@@ -12,6 +12,10 @@ theme = 'mainroad'
 [Params.style.vars]
      highlightColor = "#f5821f"
 
+[Params]
+  customJS = ["https://code.jquery.com/jquery-3.7.1.min.js"]
+
+
 [menu]
 # HOME
   [[menu.main]]
