@@ -70,9 +70,10 @@ If all applications cannot be supported, selection will be based on the above ma
 ## Important Dates for the Mentoring Program
 
 - Submission website opens: January 30, 2024 
-- Submission deadline: February 19, 2024
-- Notification date: Early March 2024
+- Submission deadline: ~~February 19, 2024~~ March 1, 2024
+- Notification date: March 2024
 - Doctoral Consortium: June 1, 2024
+\* Students who require an early decision due to visa application are encouraged to reach out to the DC chairs by email (dc@icaps2024.com) after submitting their application.
 
 ## Student Support
 
