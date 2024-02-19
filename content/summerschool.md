@@ -66,7 +66,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 
 ### Who can join? 
 
-The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible.
+The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible. We also do not exclude students who did not start their PhD yet, so encourage them to apply as well.
 
 As of now, we have 40 (in-person) spots for participants. We would have loved to make the event bigger, but given the circumstances, it doesn't look possible. But well, it is not all about numbers! It will be a small and tight-knit group! 
 
