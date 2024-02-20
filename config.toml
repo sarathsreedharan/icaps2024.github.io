@@ -12,6 +12,10 @@ theme = 'mainroad'
 [Params.style.vars]
      highlightColor = "#f5821f"
 
+[Params]
+  customJS = ["https://code.jquery.com/jquery-3.7.1.min.js"]
+
+
 [menu]
 # HOME
   [[menu.main]]
@@ -183,12 +187,12 @@ theme = 'mainroad'
 #    url = "/program/overview"
 #    parent = "program"
 #    weight = 10
-#  [[menu.main]]
-#    identifier = "accepted-papers"
-#    name = "Accepted Papers"
-#    url = "/program/accepted"
-#    parent = "program"
-#    weight = "15"
+ [[menu.main]]
+   identifier = "accepted-papers"
+   name = "Accepted Papers"
+   url = "/program/accepted"
+   parent = "program"
+   weight = "15"
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"
