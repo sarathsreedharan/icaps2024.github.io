@@ -2,7 +2,7 @@
     "tracks": [
         {
             "number": 1,
-            "name": "Long Papers",
+            "name": "Long Paper",
             "papers": [
                 {
                     "number": 164,
@@ -919,7 +919,7 @@
         },
         {
             "number": 2,
-            "name": "Short Papers",
+            "name": "Short Paper",
             "papers": [
                 {
                     "number": 173,
