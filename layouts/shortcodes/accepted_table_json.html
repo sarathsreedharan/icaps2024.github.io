@@ -97,7 +97,6 @@
 
 <div>
 	<button class="btn" onclick="$('.category-btn').addClass('selected'); update_categories(this)">All</button>
-	<button class="btn" onclick="$('.category-btn').removeClass('selected'); update_categories(this)">None</button>
 </div>
 <br />
 <div>
@@ -109,6 +108,7 @@
 	<button class="btn category-btn selected" data-category="robotics" onclick="update_categories(this)">Robotics</button>
 	<button class="btn category-btn selected" data-category="temporal-planning" onclick="update_categories(this)">Temporal Planning</button>
 	<button class="btn category-btn selected" data-category="theory" onclick="update_categories(this)">Theory</button>
+	<button class="btn category-btn selected" data-category="no-category" onclick="update_categories(this)">No Keyword</button>
 </div>
 <br />
 
@@ -179,7 +179,6 @@
 			selectedCategories.forEach(function(cat) {
 				$('.' + cat).show();
 			});
-			$('.no-category').show();
 		}
 	};
 </script>
