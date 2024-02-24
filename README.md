@@ -19,7 +19,7 @@ You only need to do this once for your local repository.
 Use git-fetch to update the remote repository, and then create a new branch for the pull request you plan to make:
 ```
 $ git fetch icaps
-$ git checkout -b <branch-name> icaps/main
+$ git checkout -b <branch-name> icaps/master
 ```
 Edit your files normally.
 
