@@ -17,10 +17,11 @@ The extended abstract must include a link to a video file no more than 10 minute
 The extended abstracts and videos for accepted demonstrations will be available to conference participants and will be archived on the conference website.
 
 ## Summary of Important Dates
-Submission Deadline: TBD.
-Notification of demo acceptance: TBD.
+- Submission Deadline: TBD.
+- Notification of demo acceptance: TBD.
 
 ## System Demo Program Chairs
-Jiaoyang Li, Carnegie Mellon University (jiaoyangli@cmu.edu)
-Sarath Sreedharan, Colorado State University (ssreedh3@colostate.edu)
+- Jiaoyang Li, Carnegie Mellon University (jiaoyangli@cmu.edu)
+- Sarath Sreedharan, Colorado State University (ssreedh3@colostate.edu)
+
 Please direct all questions about the demonstrations program to the system demonstrations chairs.
