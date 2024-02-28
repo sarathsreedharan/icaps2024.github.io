@@ -8,8 +8,7 @@ draft: false
 
 The registration for the **34th International Conference on Automated Planning and Scheduling (ICAPS) 2024** will be handled directly by the Banff Centre for Arts and Creativity.
 
-
-To register, you are kindly asked to complete
+You can use the registration form to both (1) register for the conference and (2) request accommodation at the conference venue. To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
@@ -17,14 +16,13 @@ To register, you are kindly asked to complete
 
 </div>
 
-
-and pay the registration fee (and optionally accommodation at the conference venue). Registering early will save you money, and also it will help us to organize things better!
+Registering early will save you money, and also it will help us to organize things better!
 
 The deadline for **early registration is March 15, 2024** and the **late registration deadline is May 22, 2024**.
 
 ## Information for Authors
 
-Each paper accepted to the main conference program (AAAI proceedings) must be accompanied by registration and payment of either regular fee or student fee. It is up to the authors to decide who will be the presenter and will pay the registration fee. **One registration fee includes up to 2 papers**.
+Each paper accepted to the main conference program (AAAI proceedings) must be accompanied by registration and payment of either regular fee or student fee. It is up to the authors to decide who will be the presenter and will pay the registration fee. **One author registration fee may cover up to 2 of their papers**.
 
 Physical attendance and in-person presentation is expected for each paper. In extraordinary cases, on-line presentation will be allowed. In such a case, the author needs to provide a valid reason and get approval from conference chairs. This still requires regular/student registration fee for the paper.
 
@@ -34,12 +32,12 @@ Physical attendance and in-person presentation is expected for each paper. In ex
 {{< registration_options >}}
 
 
-All fees will be charged in Canadian Dollars (CAD).
+All fees will be charged in Canadian Dollars (CAD). At the time of writing, 1.00 CAD = 0.68 EUR = 0.74 USD.
 
 **Regular and Student Fees** include:
 
 * attendance at ICAPS 2024 conference - admission to workshops and tutorials, invited talks, technical sessions, community meeting
-* up to 2 papers in AAAI conference proceedings
+* up to 2 papers in ICAPS conference proceedings (published by AAAI)
 * conference package
 * workshop coffee breaks
 * conference coffee breaks
@@ -49,11 +47,11 @@ All fees will be charged in Canadian Dollars (CAD).
 * poster session – Tue, June 4, 2024
 * conference dinner – Wed, June 5, 2024
 
-A copy of a valid student card or a student confirmation (in English) can be requested by organizers upon the arrival at the registration desk.
+A copy of a valid student card or a student confirmation (in English) may be requested by the organizers upon arrival.
 
 ## Confirmation
 
-Once you have completed the online [**REGISTRATION FORM**](https://banffcentreforartsandcreativity-qwlyf.formstack.com/forms/ica2405) you will receive the email confirmation.
+You will receive email confirmation immediately after completing the online [**REGISTRATION FORM**](https://banffcentreforartsandcreativity-qwlyf.formstack.com/forms/ica2405).
 
 ## Cancellation Policy & Refund
 
@@ -68,18 +66,5 @@ If you cannot attend, your registration is transferable to another participant (
 
 ## Invitation Letter & Questions?
 
-If you need a Letter of Invitation to obtain a visa, please contact local arrangements chair **Ms. Milena Zeithamlová** (<milena@action-m.com>) with the following recommended information:
-
-Title of your paper: \
-Work: \
-Work address: \
-Home address: \
-Passport No: \
-Date of birth: \
-Nationality:
-
-
-Once you have registered for the conference and paid the registration fee, invitation letter will be sent.
-
-
+If you need a Letter of Invitation to obtain a visa, please contact <immigration@icaps2024.com>. For all other inquiries, please contact the local arrangements chair at <info@icaps2024.com>.
 
