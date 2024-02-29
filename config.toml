@@ -59,10 +59,10 @@ theme = 'mainroad'
     parent = "students"
     weight = 200
 # ATTENDING
-#  [[menu.main]]
-#    identifier = "attending"
-#    name = "Attending"
-#    weight = 3000
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 3000
 #  [[menu.main]]
 #    identifier = "venue"
 #    name = "Venue"
@@ -75,12 +75,12 @@ theme = 'mainroad'
 #    url = "/attending/travel"
 #    parent = "attending"
 #    weight = 20
-#  [[menu.main]]
-#    identifier = "registration"
-#    name = "Registration"
-#    url = "/attending/registration"
-#    parent = "attending"
-#    weight = "30"
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/attending/registration"
+    parent = "attending"
+    weight = "30"
 #  [[menu.main]]
 #    identifier = "accommodation"
 #    name = "Accommodation"

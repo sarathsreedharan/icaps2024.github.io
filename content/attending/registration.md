@@ -18,7 +18,7 @@ You can use the registration form to both (1) register for the conference and (2
 
 Registering early will save you money, and also it will help us to organize things better!
 
-The deadline for **early registration is March 15, 2024** and the **late registration deadline is May 22, 2024**.
+The deadline for **early registration is March 31, 2024** and the **late registration deadline is May 22, 2024**.
 
 ## Information for Authors
 
@@ -26,11 +26,9 @@ Each paper accepted to the main conference program (AAAI proceedings) must be ac
 
 Physical attendance and in-person presentation is expected for each paper. In extraordinary cases, on-line presentation will be allowed. In such a case, the author needs to provide a valid reason and get approval from conference chairs. This still requires regular/student registration fee for the paper.
 
-
 ## Registration Fees
 
 {{< registration_options >}}
-
 
 All fees will be charged in Canadian Dollars (CAD). At the time of writing, 1.00 CAD = 0.68 EUR = 0.74 USD.
 
@@ -55,12 +53,11 @@ You will receive email confirmation immediately after completing the online [**R
 
 ## Cancellation Policy & Refund
 
-All refund requests must be made in writing by email to the ICAPS 2024 local arrangements chair.
+For cancellation requests received by the Banff Centre on or before 5:00PM Mountain Time on April 30, 2024, the registration fee will be refunded less an administration charge of $100 CAD.
 
-* if the cancellation of the conference is made before **June 8, 2023**, the registration fee reduced by CZK 1 500 will be refunded
-* if the cancellation of the conference is made **after June 8, 2023** and before June 20, 2023, the registration fee reduced by CZK 4 000 will be refunded
-* after **June 20, 2023**, however, no fees can be refunded
-* all refunds will be processed after the conference
+For cancellation requests received by the Banff Centre after 5:00PM Mountain Time on April 30, 2024 and on or before 5:00PM Mountain Time on May 22, 2024, the registration fee will be refunded 50% less an administration charge of $100 CAD.
+
+Registration fees will not be refunded in any portion if cancellation is received after 5:00PM Mountain Time on May 22, 2024.
 
 If you cannot attend, your registration is transferable to another participant (the same type of registration fee). Please inform the local arrangements chair as soon as possible, but no later than **May 25, 2024**, to whom your registration should be transferred.
 
