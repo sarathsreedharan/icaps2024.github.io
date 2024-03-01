@@ -146,12 +146,12 @@ theme = 'mainroad'
     url = "/calls/tutorial_call"
     parent = "calls"
     weight = 50
-#  [[menu.main]]
-#    identifier = "demo_track"
-#    name = "System Demonstrations"
-#    url = "/calls/demo_track"
-#    parent = "calls"
-#    weight = 70
+  [[menu.main]]
+    identifier = "demos"
+    name = "Call for System Demonstrations"
+    url = "/calls/demos"
+    parent = "calls"
+    weight = 70
  [[menu.main]]
    identifier = "dc_call"
    name = "Call for Doctoral Consortium"
