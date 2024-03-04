@@ -4,7 +4,7 @@ date: 2024-02-02T09:00:17+01:00
 draft: false
 ---
 
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)
+# [Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://prl-theworkshop.github.io/prl2024-icaps/)
 
 ICAPS'24 Workshop \
 Banff, Alberta, Canada  \
@@ -66,8 +66,7 @@ might help bridge the gap.
 As the main purpose of this workshop is to solicit discussion, the authors are
 invited to use the appendix of their submissions for that purpose.
 
-
-Paper submission website coming soon.
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS). 
 
 
 ### Organizing Committee
