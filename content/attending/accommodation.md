@@ -1,6 +1,6 @@
 ---
 title: "Accommodation"
-date: 2023-01-31T17:53:41+01:00
+date: 2024-03-04T17:53:41+01:00
 draft: false
 ---
 
@@ -10,16 +10,18 @@ draft: false
 
  <div style="display: inline-block; width: 60%; padding: 1%; border-right: 1px solid orange; vertical-align: middle;">
    
-   <p><span style="font-size: 23px; font-weight: bold;"><a href="https://mamashelter.com/prague" target="_blank">MAMA Shelter Prague</a></span><br />Conference Hotel</p> 
+   <p><span style="font-size: 23px; font-weight: bold;"><a href="" target="_blank">XXXX</a></span><br />Conference Hotel</p> 
    
-   <p>Mama Shelter Prague offers a unique experience of a ten floors hotel situated close to the main attractions, to a large park and to the Prague Holešovice exhibition grounds. The hotel offers 238 rooms designed by Jalil Amor; rooms are as comfortable as they are smart, featuring Mama Skin organic solid amenities, free movies, and smart screens. There are also two large restaurants, two lively bars, and a lot of space for informal meetings.</p>
+   <p>Banff is a tourist town and accommodations fill up quickly. We encourage conference attendees to make your accommodation arrangements as soon as possible to avoid disappointment or high prices.</p>
 
-  <p>Conference venue is 15-minutes by public transportation.</p>
+  <p>We have reserved a limited number of accommodations at the Banff Centre, the location of the conference.  You can access these accommodations when you register for the conference.</p>
+
+  <p>In addition to accommodations at the Banff Centre, there are accommodations of varying sorts and prices both in the town of Banff and in the adjacent town of Canmore, which is just outside Banff National Park. If you stay in Canmore, you may need to drive to the Banff Centre.</p>
 
  </div>
  
  <div style="display: inline-block; width: 38%; padding: 1%; border-radius: 5px; vertical-align: middle;">
- 	<a href="https://mamashelter.com/prague" target="_blank"><img style="border-radius: 5px;" src="/img/accommodation/hotel-mama.png" /></a>
+ 	<a href="" target="_blank"><img style="border-radius: 5px;" src="/img/accommodation/hotel-mama.png" /></a>
  </div>
 
 </div>
@@ -27,12 +29,10 @@ draft: false
 <hr style="margin-top: 1%; margin-bottom: 1%;" />
 
 
-
-
 ## Reservations
 
 
-Individual reservations are due by **May 19, 2023**. There is a LIMITED number of rooms at the ICAPS discount rate that is available for stays on July 6–15, 2023 (a fewer rooms are available outside the conference days).
+<!-- Individual reservations are due by **May 19, 2023**. There is a LIMITED number of rooms at the ICAPS discount rate that is available for stays on July 6–15, 2023 (a fewer rooms are available outside the conference days).
 
 To reserve the room at the conference hotel use
 
@@ -74,10 +74,10 @@ Your Name and Last name, Country, Dates of arrival and departure, Number of nigh
    
    <p>A 5* bedding, plushy and cozy for a restful and peaceful sleep. Toiletries are organic and solid, better for the planet and for your skin. Large screens to watch movies for free.</p>
    
-   <p>The room rate includes a <strong>continental breakfast</strong>.</p>
+   <p>The room rate includes a <strong>continental breakfast</strong>.</p> -->
    
    <!-- header -->
-   <div style="width: 100%; text-align: center; background: orange;">
+   <!-- <div style="width: 100%; text-align: center; background: orange;">
    	<div style="display: inline-block; width: 30%; padding: 1%; margin-left: 2%"><span style="font-size: 14px; font-weight:bold;">Room Category</span></div>
    	<div style="display: inline-block; width: 30%; padding: 1%; margin-left: 2%"><span style="font-size: 14px; font-weight:bold;">1 person</span></div>
    	<div style="display: inline-block; width: 30%; padding: 1%; margin-left: 2%"><span style="font-size: 14px; font-weight:bold;">2 persons</span></div>
@@ -142,7 +142,7 @@ Your Name and Last name, Country, Dates of arrival and departure, Number of nigh
  <div style="display: inline-block; width: 58%; padding: 1%; border-radius: 5px; vertical-align: middle;">
  	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.1246824943396!2d14.429519215718821!3d50.10267317942887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94c8cf78bd83%3A0x5b2444d0a8ec298d!2sMama%20Shelter%20Praha!5e0!3m2!1sit!2sit!4v1680006543498!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
- </div>
+ </div> -->
 
 </div>
 
