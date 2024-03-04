@@ -41,6 +41,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 ## Important Dates
 
+Please refer to the [PRL workshop website](https://prl-theworkshop.github.io/prl2024-icaps/) for the latest information.
 * Paper submission deadline: March 22th, AOE
 * Paper acceptance notification: April 28th, AOE 
 
@@ -66,8 +67,7 @@ might help bridge the gap.
 As the main purpose of this workshop is to solicit discussion, the authors are
 invited to use the appendix of their submissions for that purpose.
 
-
-Paper submission website coming soon.
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS). 
 
 
 ### Organizing Committee
