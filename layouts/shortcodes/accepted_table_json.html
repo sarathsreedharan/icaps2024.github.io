@@ -137,7 +137,7 @@
 
 		<div class="paper">
 
-			<div><strong>{{ print $paper.title }}</strong></div>
+			<div><strong><a href="{{ print $paper.url }}" target="_blank">{{ print $paper.title }}</a></strong></div>
 			<div style="padding: 1%">{{ print $paper.authors }}</div>
 
 			{{ with $paper.journal }}
