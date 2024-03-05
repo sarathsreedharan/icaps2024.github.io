@@ -5,12 +5,12 @@
 {{ range $keynote := $data.keynotes }}
 
 <div style="display: inline-block; width: 20%; vertical-align: top; border-style: solid; border-radius: 5%; border-color: orange; margin-top: 1%; margin-bottom: 1%;">
-	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="{{ print $keynote.img }}" />		
+	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="{{ print $keynote.img }}" />
 </div>
 
 <div style="display: inline-block; width: 70%;  padding-left: 2%;">
 	<div>
-		<h2 style="color: orange">{{ print $keynote.name }} </h2>
+		<h2 style="color: orange"><a href="{{ print $keynote.webpage }}">{{ print $keynote.name }}</a></h2>
 	</div>
 	<div style="padding-left: 1%">
 	 	<h3>{{ print $keynote.title }}</h3>
@@ -18,7 +18,7 @@
 	<div style="padding-left: 1%; margin-bottom: 1%;">
 		{{ print $keynote.abstract }}
 	</div>
-	
+
 	<hr />
 </div>
 
