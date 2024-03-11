@@ -63,18 +63,18 @@ theme = 'mainroad'
     identifier = "attending"
     name = "Attending"
     weight = 3000
-#  [[menu.main]]
-#    identifier = "venue"
-#    name = "Venue"
-#    url = "/attending/venue"
-#    parent = "attending"
-#    weight = 10
-#  [[menu.main]]
-#    identifier = "travel"
-#    name = "Travel Information"
-#    url = "/attending/travel"
-#    parent = "attending"
-#    weight = 20
+  [[menu.main]]
+    identifier = "venue"
+    name = "Venue"
+    url = "/attending/venue"
+    parent = "attending"
+    weight = 10
+  [[menu.main]]
+    identifier = "travel"
+    name = "Travel Information"
+    url = "/attending/travel"
+    parent = "attending"
+    weight = 20
   [[menu.main]]
     identifier = "registration"
     name = "Registration"
@@ -87,12 +87,12 @@ theme = 'mainroad'
     url = "/attending/info"
     parent = "attending"
     weight = "40"
-#  [[menu.main]]
-#    identifier = "accommodation"
-#    name = "Accommodation"
-#    url = "/attending/accommodation"
-#    parent = "attending"
-#    weight = "40"
+  [[menu.main]]
+    identifier = "accommodation"
+    name = "Accommodation"
+    url = "/attending/accommodation"
+    parent = "attending"
+    weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
