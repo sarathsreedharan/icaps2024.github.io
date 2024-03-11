@@ -86,5 +86,5 @@ We are looking into ways to provide student support partly covering travel and/o
 For any questions or concerns, please contact the DC chairs:
 
 
-- Eldan Cohen, eldan.cohen[at]utoronot[dot]ca
+- Eldan Cohen, eldan.cohen[at]utoronto[dot]ca
 - Sandhya Saisubramanian, sandhya.sai[at]oregonstate[dot]edu
