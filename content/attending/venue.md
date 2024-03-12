@@ -34,10 +34,11 @@ ICAPS 2024 is being held at the Banff Centre for Arts and Creativity in beautifu
   src="/img/venue/baff_centre.png"
   alt="Town of Banff. The Banff Centre is #2 on the map [Banff.ca].">
   <figcaption>Town of Banff. The Banff Centre is #2 on the map [Banff.ca].</figcaption>
-</figure>
 </div>
+</figure>
 
-See the Banff Centre’s page of Frequently Asked Questions: [http://www.banffcentre.ca/frequently-asked-questions-about-banff-centre](http://www.banffcentre.ca/frequently-asked-questions-about-banff-centre)
+
+[The Banff Centre](https://www.banffcentre.ca/conferences/destination) has a great deal of information online as well as a [FAQ](https://www.banffcentre.ca/frequently-asked-questions-about-banff-centre). What follows augments and highlights information on the Banff Centre web page.
 
 The Banff Centre is located on the east side of Banff, four blocks from Banff Avenue, the main street of town. It is a 10-minute walk downhill to town. The return trip is slightly longer as it is uphill. Downtown Banff can be reached by taxi for less than $10 each way. There is no shuttle bus that runs from Banff Centre to downtown Banff.
 
@@ -62,9 +63,12 @@ Via St. Julien Road
   src="/img/venue/baff_centre_map.png"
   alt="Banff Centre. Conference events are in the Max Bell Building (10) and the Kinnear Centre (6).">
   <figcaption> Banff Centre. Conference events are in the Max Bell Building (10) and the Kinnear Centre (6).</figcaption>
-</figure>
 </div>
+</figure>
 
+
+## Weather
+The weather in Banff at the end of May/beginning of June can range from beautiful sunny and warm to snowy. It's shoulder season. Skiing is over and hiking has started, but in a regular season higher elevations will still be snowy and possibly inaccessible.  We'll post weather forecasts closer to the date, but further information is available on the web.
 
 
 

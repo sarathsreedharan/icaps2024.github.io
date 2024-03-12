@@ -45,8 +45,29 @@ Youth (age 17 and under): free
 
 Family/group (up to seven people arriving in a single vehicle): $22
 
-# Getting Around in Banff
+## Getting Around in Banff
 Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
+
+
+# BANFF NATIONAL PARK
+
+## Visitor Information
+
+[Banff Lake Louise Tourism](https://www.banfflakelouise.com/)
+
+[Travel Alberta](https://www.travelalberta.com/)
+
+## Wildlife
+As the Banff Centre and the town of Banff are in Banff National Park, various types of wildlife are often observed. Sightings range from different bird species to the most frequently encountered large mammals: elk, mountain goats, bears, and mountain lions.
+
+Keep in mind that the wildlife you may encounter is just that — wild! Please ensure that you respect the animals’ spaces and habitats while in the park. That perfect picture can sometimes lead to a compromising situation for both the subject and the photographer. For your safety and theirs, please treat them with respect and keep your distance. Please do not feed any of the animals, including the squirrels, as they are protected by law.
+
+**Please do not feed any animals, this can result in animals becoming habituated to humans and could lead to them being put down.**
+
+Elk can be fast and dangerous, especially during spring calving (May 15-July 1). If you encounter any elk, keep your distance. You must always stay at least three bus lengths away from elk. Do not use headphones on trails. It is always best to travel in groups and to be always aware of your surroundings. **If you see wildlife on the Banff Centre campus, please contact Security Services via the main switchboard by dialling '0' or calling 1.403.760.0098**.
+
+It is your responsibility to educate yourself on the topic of wildlife and how to prepare for wildlife encounters.
+Mountains can be dangerous. If you are planning an excursion, contact the Parks Canada Information Centre at **403.762.1550** for up-to-date weather and avalanche information, reports on trail conditions, and wildlife activity. Visit [https://parks.canada.ca/pn-np/ab/banff](https://parks.canada.ca/pn-np/ab/banff) for more information.
 
 
 

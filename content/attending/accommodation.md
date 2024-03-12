@@ -18,6 +18,3 @@ The town of Canmore is a short distance from Banff. There is a regular bus servi
 
 
 
-
-
-
