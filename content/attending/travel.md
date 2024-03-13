@@ -11,12 +11,12 @@ The town of Banff is west of Calgary, Alberta. Most attendees will fly into Calg
 Note: Banff is in Banff National Park. The Park has an entry fee. See below.
 
 ## Bus from YYC to Banff
+
 A two-hour drive away, the Calgary International Airport (YYC) is the closest airport to Banff. The Calgary International Airport maintains a website with up-to-date information on transportation and accommodation information. Visit [https://yyc.com/](https://yyc.com/).
 
-The Banff Airporter is the official airport shuttle provider of Banff Centre. The trip from YYC to the Banff Centre is approximately two hours (the bus drops you off at the Banff Centre’s hotel front desk). Phone **403.762.3330** or **1.888.449.2901** (toll-free within North America) or visit [https://banffairporter.com/](https://banffairporter.com/).
+[Banff Airporter](https://banffairporter.com/rates/) is the official transportation partner for ICAPS 2024. ICAPS attendees enjoy 15% off the cost of travel to/from Banff when you use the code "ICAPS2024". The trip from YYC to the Banff Centre is approximately two hours (the bus drops you off at the Banff Centre’s hotel front desk). Phone **403.762.3330** or **1.888.449.2901** (toll-free within North America) or visit [https://banffairporter.com/](https://banffairporter.com/).
 
 Brewster Travel Canada offers daily motor coach shuttles from YYC to Banff. Reservations are required. Visit [https://www.banffjaspercollection.com/brewster-express/](https://www.banffjaspercollection.com/brewster-express/). The bus stops at the Banff bus station, a five-minute drive or 30 minute walk to the Banff Centre. Call Taxi Taxi at **403.762.0000**.
-
 
 ## Drive from YYC to Banff
 

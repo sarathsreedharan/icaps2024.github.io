@@ -8,7 +8,7 @@ draft: false
 
 The registration for the **34th International Conference on Automated Planning and Scheduling (ICAPS) 2024** will be handled directly by the Banff Centre for Arts and Creativity.
 
-You can use the registration form to both (1) register for the conference and (2) request accommodation at the conference venue. To register, you are kindly asked to complete
+You can use the registration form to both (1) register for the conference and (2) request accommodation at the conference venue ($230 CAD for a single bed and $250 for a two-bed room). To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
