@@ -63,8 +63,9 @@ Authors may submit *long papers* (up to 8 pages plus up to one page of reference
 
 In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
-<!--[easychair](https://easychair.org/conferences/?conf=hplan2024). -->
-Submissions will be done via **easychair**, link will be provided in time. As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
+Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2024).
+
+As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
 
 
 
