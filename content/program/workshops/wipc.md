@@ -13,8 +13,7 @@ June 2-3, 2024
 
 | Schedule            |          |
 |---------------------|----------|
-| Abstract Submission | March 18 |
-| Submission          | March 25 |
+| Submission          | April 2  |
 | Notification        | April 8  |
 | Camera Ready        | April 22 |
 
@@ -73,19 +72,11 @@ Paper submissions will be handled in OpenReview ([https://openreview.net/group?i
 # Organization
 You can contact us at [wipc2024@googlegroups.com](mailto:wipc2024@googlegroups.com).
 
-- [Florian Pommerening](https://ai.cs.unibas.ch/people/pommeren/)
-  Florian is a postdoctoral researcher in the AI group at the University of Basel, Switzerland, where he completed his PhD from 2012 to 2017. He was co-organizer of the classical IPC tracks in 2018 and 2023.
-- [Jendrik Seipp](https://jendrikseipp.com)
-  Jendrik is an Associate Professor at Linköping University, Sweden. He co-organized the IPC Learning Track 2023.
-- [Javier Segovia-Aguas](https://jsego.github.io/)
-  Javier is a postdoctoral researcher in the AI\&ML group at Universitat Pompeu Fabra, Spain. He co-organized the IPC Learning Track 2023.
-- [Ayal Taitler](https://sites.google.com/view/ataitler/home)
-  Ayal is a postdoctoral researcher in the Data Driven Decision Making group at University of Toronto, Ontario, Canada. He co-organized the IPC Probabilistic Planning and RL Track 2023.
-- [Enrico Scala](https://www.hstairs.com)
-Enrico is a researcher at the University of Brescia, Italy. He co-organized the Numeric Planning track at the IPC 2023.
- - [Joan Espasa](https://joanespasa.github.io/)
-Joan is a Lecturer at the University of St Andrews, Scotland. He co-organized the Numeric Planning track at the IPC 2023.
-- [Ron Alford](https://volus.net/)
-Ron is a research at The MITRE Corporation, USA. He co-organized the Hierarchical Planning track at the IPC 2023.
-- [Daniel Fišer](https://danfis.cz)
-Daniel is a postdoctoral researcher at Saarland University, Germany. He co-organized the Classical Planning track at the IPC 2023.
+- [Florian Pommerening](https://ai.cs.unibas.ch/people/pommeren/) is a postdoctoral researcher in the AI group at the University of Basel, Switzerland, where he completed his PhD from 2012 to 2017. He was co-organizer of the classical IPC tracks in 2018 and 2023.
+- [Jendrik Seipp](https://jendrikseipp.com) is an Associate Professor at Linköping University, Sweden. He co-organized the IPC Learning Track 2023.
+- [Javier Segovia-Aguas](https://jsego.github.io/) is a postdoctoral researcher in the AI\&ML group at Universitat Pompeu Fabra, Spain. He co-organized the IPC Learning Track 2023.
+- [Ayal Taitler](https://sites.google.com/view/ataitler/home) is a postdoctoral researcher in the Data Driven Decision Making group at University of Toronto, Ontario, Canada. He co-organized the IPC Probabilistic Planning and RL Track 2023.
+- [Enrico Scala](https://www.hstairs.com) is a researcher at the University of Brescia, Italy. He co-organized the Numeric Planning track at the IPC 2023.
+ - [Joan Espasa](https://joanespasa.github.io/) is a Lecturer at the University of St Andrews, Scotland. He co-organized the Numeric Planning track at the IPC 2023.
+- [Ron Alford](https://volus.net/) is a research at The MITRE Corporation, USA. He co-organized the Hierarchical Planning track at the IPC 2023.
+- [Daniel Fišer](https://danfis.cz) is a postdoctoral researcher at Saarland University, Germany. He co-organized the Classical Planning track at the IPC 2023.
