@@ -42,8 +42,8 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-* Paper submission deadline: **March 25, 2024 UTC-12**
-* Notification of acceptance: April 30, 2024 UTC-12
+* Paper submission deadline: ~~March 25, 2024 UTC-12~~  **April 7th, 2024 UTC-12**
+* Notification of acceptance: April 29, 2024 UTC-12
 * Camera-ready paper submissions: TBD (after the workshop)
 * Workshop date: TBD (June 2-3, 2024)
 
