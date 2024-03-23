@@ -37,7 +37,7 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-- Paper submission: ***Monday, 25 March 2024*** (AoE)
+- Paper submission: ~~ Monday, 25 March ~~ *** Wednesday, April 3 *** (AoE)
 - Notification of acceptance: Friday, 26 April 2024
 - Camera-ready version due: Friday 24 May 2024 (AoE)
 - Workshop Date: June 2-3, 2024
