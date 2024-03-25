@@ -48,7 +48,7 @@ We seek papers with negative results or limiting factors in any topics related t
 
 ## Important Dates
 
-- Submission deadline: 28 March 2024 (UTC-12 timezone)
+- Submission deadline: 7 April 2024 (UTC-12 timezone)
 - Notification: 28 April 2024
 - Workshop: June 2-3 2024
 
@@ -66,9 +66,14 @@ Submissions will be done via [easychair](https://easychair.org/conferences/?conf
 - **Fernando Fernández**, Universidad Carlos III de Madrid, ffernand@inf.uc3m.es
 
 #### Program Committee
-TBA
-
-If you want to join the WEEPer team this year, don't hesitate to reach out to the organizers.
+- **Antonio Garrido**, Universitat Politècnica de València
+- **Alberto Pozanco**, J.P. Morgan Chase
+- **Mauro Vallati**, University of Huddersfield
+- **Blai Bonet**, Universidad Simon Bolivar
+- **Susana Fernández**, Universidad Carlos III de Madrid
+- **Sergio Jiménez Celorrio**, Universitat Politècnica de València
+- **Connor Little**, Queen's University
+- **Victoria Jane**, Queen's University
 
 ## List of Accepted Papers
 TBA
