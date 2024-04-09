@@ -34,10 +34,10 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-28 March 2024 (UTC-12 timezone)
+~~March 28~~ April 4, 2024 (UTC-12 timezone)
 
-**Author feedback period:**
-15-21 April 2024
+**Author feedback period:**  
+~~April 15-21~~ April 22-24, 2024
 
 **Notification:**  
 April 26 2024
