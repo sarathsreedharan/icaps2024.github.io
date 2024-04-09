@@ -198,6 +198,21 @@
                     "country": "Italy"
                 }
             ]
+        },
+        {
+            "position": "ICAPS 2024 Advocates",
+            "people": [
+                {
+                    "name": "Jonathan Schaeffer",
+                    "institution": "University of Alberta",
+                    "country": "Canada"
+                },
+                {
+                    "name": "Iman Awaad",
+                    "institution": "Bonn-Rhein-Sieg University",
+                    "country": "Germany"
+                }
+            ]
         }
     ]
 }
