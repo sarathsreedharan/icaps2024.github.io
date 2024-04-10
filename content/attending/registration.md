@@ -65,3 +65,6 @@ If you cannot attend, your registration is transferable to another participant (
 
 If you need a Letter of Invitation to obtain a visa, please contact <immigration@icaps2024.com>. For all other inquiries, please contact the local arrangements chair at <info@icaps2024.com>.
 
+## Support
+
+ICAPS 2024 invites individuals from underrepresented groups or regions to apply for support to attend our conference in Banff, Alberta, Canada. This support initiative is open to all, beyond students or specific demographics, and applications will be evaluated individually. Our aim is to diversify participation and enrich the ICAPS experience by enabling a variety of automated planning and scheduling researchers and practitioners to attend. To apply, email us at <conference@icaps2024.com> with your specific situation and needs. Funding is limited, but may increased over time.
