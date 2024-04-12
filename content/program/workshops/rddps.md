@@ -63,7 +63,15 @@ Please do not submit papers that are already accepted for the ICAPS main confere
 
 ## Program Committee
 
-TBA
+ - Jesse Davis, KU Leuven, Belgium
+ - Timo P. Gros, German Research Center for Artificial Intelligence, Germany
+ - Daniel Höller, Saarland University, Germany
+ - Jörg Hoffmann, Saarland University, Germany
+ - Michael Katz, IBM Research, USA
+ - Scott Sanner, University of Toronto, Canada
+ - Marcel Steinmetz, University of Toulouse, France
+ - Sylvie Thiebaux, University of Toulouse, France, and Australian National University, Australia
+ - Eyal Weiss, Bar-Ilan University, Israel
 
 ## List of Accepted Papers
 
