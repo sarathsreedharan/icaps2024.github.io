@@ -217,43 +217,43 @@ theme = 'mainroad'
    parent = "program"
    url = "/program/ws_overview"
    weight = 40
-#  [[menu.main]]
-#    identifier = "tutorials"
-#    parent = "program"
-#    name = "Tutorials"
-#    url = "/program/tutorial_overview"
-#    weight = "50"
+[[menu.main]]
+   identifier = "tutorials"
+   parent = "program"
+   name = "Tutorials"
+   url = "/program/tutorial_overview"
+   weight = "50"
 # TUTORIALS
-#  [[menu.main]]
-#    identifier = "mdp_modeling"
-#    name = "Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym"
-#    parent = "tutorials"
-#    url = "/program/tutorials/mdp_modeling"
-#    weight = "10"
-#  [[menu.main]]
-#    identifier = "hard"
-#    name = "How hard can it be? The computational complexity of planning"
-#    parent = "tutorials"
-#    url = "/program/tutorials/hard"
-#    weight = "20"
-#  [[menu.main]]
-#    identifier = "tnetworks"
-#    name = "Recent Advances in Temporal Networks for Planning and Scheduling"
-#    parent = "tutorials"
-#    url = "/program/tutorials/tnetworks"
-#    weight = "30"
-#  [[menu.main]]
-#    identifier = "model"
-#    name = "Model Acquisition in the Modern Era"
-#    parent = "tutorials"
-#    url = "/program/tutorials/model"
-#    weight = "40"
-#  [[menu.main]]
-#    identifier = "up"
-#    name = "Unified Planning: A Python Library Making Planning Technology Accessible"
-#    parent = "tutorials"
-#    url = "/program/tutorials/up"
-#    weight = "50"
+[[menu.main]]
+   identifier = "2024_T01_aiopt_scheduling"
+   name = "T01 - AI and Optimization Techniques for Scheduling Problems"
+   parent = "tutorials"
+   url = "/program/tutorials/2024_T01_aiopt_scheduling"
+   weight = "10"
+[[menu.main]]
+   identifier = "2024_T02_finding_multiple_plans"
+   name = "T02 - Finding Multiple Plans for Classical Planning Problems"
+   parent = "tutorials"
+   url = "/program/tutorials/2024_T02_finding_multiple_plans"
+   weight = "20"
+[[menu.main]]
+  identifier = "2024_T03_scikit_decide"
+  name = "T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for Planning, Scheduling and Reinforcement Learning"
+  parent = "tutorials"
+  url = "/program/tutorials/2024_T03_scikit_decide"
+  weight = "30"
+[[menu.main]]
+  identifier = "2024_T04_storytelling"
+  name = "T04 - Planning for Storytelling"
+  parent = "tutorials"
+  url = "/program/tutorials/2024_T04_storytelling"
+  weight = "40"
+[[menu.main]]
+  identifier = "2024_T05_rl_coach"
+  name = "T05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH"
+  parent = "tutorials"
+  url = "/program/tutorials/2024_T05_rl_coach"
+  weight = "50"
 ## WORKSHOPS
  [[menu.main]]
    identifier = "keps"
