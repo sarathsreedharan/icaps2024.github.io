@@ -71,9 +71,16 @@ Via St. Julien Road
 The weather in Banff at the end of May/beginning of June can range from beautiful sunny and warm to snowy. It's shoulder season. Skiing is over and hiking has started, but in a regular season higher elevations will still be snowy and possibly inaccessible.  We'll post weather forecasts closer to the date, but further information is available on the web.
 
 
+## Poster Printing Options
+If you are unable to bring a poster with you, there are some places nearby that may work. It is important that you call in advance to confirm.
 
+### Banff
+There may be two places that could print posters ():
+* Pro Image Signs and Printing. Their phone number is +1-403-763-2010
+* The Source may have a printing service.
 
-
-
-
+### Canmore
+Canmore is not far from Banff (there is a shuttle bus between Banff and Canmore). In Canmore there is:
+* UPS Store -- they print posters
+* Canmore Printcraft
 
