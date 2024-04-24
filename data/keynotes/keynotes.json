@@ -19,9 +19,9 @@
 		{
 			"name": "Dale Schuurmans",
 			"img" : "/img/keynotes/dale.schuurmans.jpg",
-			"title": "Talk: TBD",
+			"title": "Computing and Planning with Large Generative Models",
 			"webpage": "https://webdocs.cs.ualberta.ca/~dale/",
-			"abstract": "",
+			"abstract": "The ability of large generative models to respond naturally to text, image and audio inputs has created significant excitement.  Particularly interesting is the ability of such models to generate outputs that resemble coherent reasoning and computational sequences.  I will first discuss the inherent computational properties of large language models, showing how they can be proved Turing complete in natural deployments.  The co-existence of informal and formal computational systems in the same model does not change what is computable, but does provide new means for eliciting desired behaviour.  I will then consider non-deterministic computation, which captures planning and theorem proving as special cases.  Finally, I will discuss some recent progress in leveraging large text-video models as real world simulators that enable planning for real environments. Leveraging large generative models jointly as simulators and agents has led to advances in several application areas.",
 			"bio": "Dale Schuurmans is a Research Director at Google DeepMind, Professor of Computing Science at the University of Alberta, a Canada CIFAR AI Chair, and a Fellow of AAAI.  He has served as an Associate Editor-in-Chief for IEEE TPAMI, an Associate Editor for JMLR, AIJ, JAIR and MLJ, and as a Program Co-chair for AAAI-2016, NeurIPS-2008 and ICML-2004. He has published over 250 papers in machine learning and artificial intelligence, and received paper awards at NeurIPS, ICML, IJCAI, and AAAI."
 		}
 	]
