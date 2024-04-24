@@ -104,12 +104,27 @@ TBA
  - Ron Alford, ronwalf at volus.net, [webpage](https://www.volus.net/)
 
 
-
 ### Program Committee
 
-TBA
-
 If you'd like to be part of our team this year or in any of the future years, please reach out to the organizers!
+
+- Ron Alford, The MITRE Corporation
+- Gregor Behnke, University of Amsterdam
+- Pascal Bercher, The Australian National University
+- Maurice Dekker, University of Amsterdam
+- Humbert Fiorino, Université Grenoble Alpes
+- Christopher Geib, SIFT LLC
+- Daniel Höller, Saarland University, Saarland Informatics Campus
+- Prakash Jamakatel, University of Bundeswehr München
+- Jane Jean Kiam, Universität der Bundeswehr München
+- Pascal Lauer, Saarland University
+- Songtuan Lin, The Australian National University
+- Kristýna Pantucková, Charles University
+- Simona Ondrčková, Charles University
+- Mark Roberts, The US Naval Research Laboratory
+- Enrico Scala, Universita' di Brescia
+- Dominik Schreiber, Karlsruhe Institute of Technology
+- Mohammad Yousefi, The Australian National University
 
 
 
@@ -118,6 +133,7 @@ If you'd like to be part of our team this year or in any of the future years, pl
 tba
 
 <br>
+
 
 ## Workshop Schedule
 
