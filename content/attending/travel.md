@@ -8,6 +8,8 @@ draft: false
 
 The town of Banff is west of Calgary, Alberta. Most attendees will fly into Calgary International Airport (YYC) and drive or take a bus to Banff.
 
+[Porter Airlines](https://www.flyporter.com/en-ca/) is the official airline partner for ICAPS 2024. ICAPS attendees hoping to fly with Porter are invited to reach out to [porter@icaps2024.com](mailto:porter@icaps2024.com) for a discount code on flights to/from Calgary on Porter Airlines.
+
 Note: Banff is in Banff National Park. The Park has an entry fee. See below.
 
 ## Bus from YYC to Banff
