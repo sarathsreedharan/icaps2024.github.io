@@ -22,7 +22,7 @@ Here is the list of the tutorials accepted to ICAPS 2024
  
   <div style="width: 95%; padding: 2%; text-align: center; vertical-align: middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/2024_T01_aiopt_scheduling" target="_blank">T01 - AI and Optimization Techniques for Scheduling Problems</a></p>
+ 		<p><a href="/program/tutorials/2024_t01_aiopt_scheduling" target="_blank">T01 - AI and Optimization Techniques for Scheduling Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
  		<p>Nysret Musliu, Lucas Kletzander and Florian Mischek</p>
@@ -31,7 +31,7 @@ Here is the list of the tutorials accepted to ICAPS 2024
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="https://mp-tutorial.github.io" target="_blank">T02 - Finding Multiple Plans for Classical Planning Problems</a></p>
+ 		<p><a href="/program/tutorials/2024_T02_finding_multiple_plans" target="_blank">T02 - Finding Multiple Plans for Classical Planning Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
  		<p>Shirin Sohrabi, Michael Katz, Junkyu Lee, David Speck</p>
@@ -40,7 +40,7 @@ Here is the list of the tutorials accepted to ICAPS 2024
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/2024_T03_scikit_decide" target="_blank">T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for
+ 		<p><a href="/program/tutorials/2024_t03_scikit_decide" target="_blank">T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for
 Planning, Scheduling and Reinforcement Learning</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
@@ -50,7 +50,7 @@ Planning, Scheduling and Reinforcement Learning</a></p>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/2024_T04_storytelling" target="_blank">T04 - Planning for Storytelling</a></p>
+ 		<p><a href="/program/tutorials/2024_t04_storytelling" target="_blank">T04 - Planning for Storytelling</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
  		<p>Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera, Arnav Jhala, Julie Porteous, R. Michael Young and Patrik Haslum</p>
@@ -59,7 +59,7 @@ Planning, Scheduling and Reinforcement Learning</a></p>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/2024_T05_rl_coach" target="_blank">T05 - Orchestrating autonomous agents: Reinforcement Learning
+ 		<p><a href="/program/tutorials/2024_t05_rl_coach" target="_blank">T05 - Orchestrating autonomous agents: Reinforcement Learning
 To Hierarchical Planning with COACH</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
