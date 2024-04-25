@@ -31,7 +31,7 @@ Here is the list of the tutorials accepted to ICAPS 2024
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="https://mp-tutorial.github.io" target="_blank">T02 - Finding Multiple Plans for Classical Planning Problems</a></p>
+ 		<p><a href="/program/tutorials/2024_t02_finding_multiple_plans" target="_blank">T02 - Finding Multiple Plans for Classical Planning Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
  		<p>Shirin Sohrabi, Michael Katz, Junkyu Lee, David Speck</p>
