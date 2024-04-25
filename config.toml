@@ -234,7 +234,7 @@ theme = 'mainroad'
    identifier = "2024_T02_finding_multiple_plans"
    name = "T02 - Finding Multiple Plans for Classical Planning Problems"
    parent = "tutorials"
-   url = "https://mp-tutorial.github.io/"
+   url = "/program/tutorials/2024_t02_finding_multiple_plans"
    weight = "20"
 [[menu.main]]
   identifier = "2024_T03_scikit_decide"
