@@ -8,7 +8,7 @@ draft: false
 
 7th ICAPS Workshop on Hierarchical Planning (HPlan 2024) \
 Banff, Alberta, Canada \
-June 2/3 (tba), 2024
+Monday, June 3, 2024
 
 
 
@@ -80,6 +80,8 @@ Our proceedings are non-archival meaning that authors keep all copyrights.
 
 ### Policy on Previously Published Material
 
+If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
+
 Despite our proceedings being non-archival we will strictly not include any paper where at the time of putting the proceedings online, portions of that paper are under the copyright of some publisher. The reason is that normally the rights granted to the authors are rather restricted; they might be allowed to upload the specific entire paper on their own institution's webpage, but this does not include allowing others (like us workshop organizers) to distribute that material or parts of it. This means that all submitted work must be entirely original -- just as at any conference. If in doubt, contact the organizers.
 
 We do allow and also explicitly encourage the submission of papers that at the time of submission are under review at another conference. Note that other conferences usually allow material that is under review at a workshop in parallel, but do not allow papers currently being under review at another archival conference or journal (HPlan is non-archival). If however the paper is also accepted at the respective conference, it will not be included in our proceedings to prevent any possible copyright infringements. Note that even for ECAI (which does not take copyrights as papers are put under a creative commons license) we will not include the paper in our proceedings. We will still mention the paper as being accepted at the workshop and expect the paper be part of the program (and thus presented like all other papers), but no final paper can be submitted for our workshop/proceedings. Instead, the proceedings will include links to the respective conference paper version. Please check out websites and proceedings of the previous years ([hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)) to see examples of how this is done.
@@ -102,12 +104,27 @@ TBA
  - Ron Alford, ronwalf at volus.net, [webpage](https://www.volus.net/)
 
 
-
 ### Program Committee
 
-TBA
-
 If you'd like to be part of our team this year or in any of the future years, please reach out to the organizers!
+
+- Ron Alford, The MITRE Corporation
+- Gregor Behnke, University of Amsterdam
+- Pascal Bercher, The Australian National University
+- Maurice Dekker, University of Amsterdam
+- Humbert Fiorino, Université Grenoble Alpes
+- Christopher Geib, SIFT LLC
+- Daniel Höller, Saarland University, Saarland Informatics Campus
+- Prakash Jamakatel, University of Bundeswehr München
+- Jane Jean Kiam, Universität der Bundeswehr München
+- Pascal Lauer, Saarland University
+- Songtuan Lin, The Australian National University
+- Kristýna Pantucková, Charles University
+- Simona Ondrčková, Charles University
+- Mark Roberts, The US Naval Research Laboratory
+- Enrico Scala, Universita' di Brescia
+- Dominik Schreiber, Karlsruhe Institute of Technology
+- Mohammad Yousefi, The Australian National University
 
 
 
@@ -117,11 +134,13 @@ tba
 
 <br>
 
+
 ## Workshop Schedule
 
-tba
+Our workshop is scheduled for Monday, June 3, 2024. A detailed schedule will be released soon.
 
-If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
+
+
 
 
 
