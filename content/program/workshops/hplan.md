@@ -38,7 +38,7 @@ Topics of interests include but are not limited to:
 - Submission Deadline:   Monday, 25 March 2024 (AoE)
 - Author Notification:   Friday, 26 April 2024
 - Camera-Ready Deadline: Friday 24 May 2024 (AoE)
-- ICAPS 2024 Workshops:  June 2-3, 2024
+- Workshop:              Monday, June 3, 2024
 
 We understand that for some, our notification date might come too late in order to plan travel accordingly, in particular if visa needs to be obtained. So in case you want to make your travel plans dependent on paper acceptance and thus require an earlier notification, please reach out to us to see whether submission and notification dates can be moved forward for your individual paper.
 
