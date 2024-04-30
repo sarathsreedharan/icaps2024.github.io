@@ -63,6 +63,7 @@ Please do not submit papers that are already accepted for the ICAPS main confere
 
 ## Program Committee
 
+ - Pascal Bercher, The Australian National University, Australia
  - Jesse Davis, KU Leuven, Belgium
  - Timo P. Gros, German Research Center for Artificial Intelligence, Germany
  - Daniel Höller, Saarland University, Germany
@@ -75,7 +76,13 @@ Please do not submit papers that are already accepted for the ICAPS main confere
 
 ## List of Accepted Papers
 
-TBA
+ - Bruce Chidley and Christian Muise: **Using Probabilistic Planning to Model the Spread of COVID-19**
+ - Alba Gragera and Christian Muise: **One Repair to Rule Them All: Repairing a Broken Planning Domain Using Multiple Instances**
+ - Timo P. Gros, Nicola Müller, Daniel Höller and Verena Wolf: **Safe Reinforcement Learning Through Regret and State Restorations in Evaluation Stages**
+ - Mingyu Hao, Felipe Trevizan, Sylvie Thiebaux, Patrick Ferber and Jörg Hoffmann: **Learned Pairwise Rankings for Greedy Best-First Search**
+ - Chaahat Jain, Lorenzo Cascioli, Laurens Devos, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Jörg Hoffmann: **Safety Verification of Tree-Ensemble Policies via Predicate Abstraction**
+ - Alison Paredes, J. Benton, Jeremy Frank and Christian Muise: **Bias in Planning Algorithms**
+ - Alison Paredes, J. Benton, Jeremy Frank and Christian Muise: **Planning Bias: Planning as a Source of Sampling Bias**
 
 ## Workshop Schedule
 
