@@ -18,6 +18,40 @@ The HSDIP workshop has always been welcoming of multidisciplinary work, for exam
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
 
+## List of Accepted Papers
+* **The Bench Transition System and Stochastic Exploration**  
+  Dawson Tomasz, Richard A. Valenzano
+* **Crafting a Pogo Stick in Minecraft with Heuristic Search**  
+  Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
+* **A Lifted Backward Computation of hAdd**  
+  Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann
+* **Consolidating LAMA with Best-First Width Search**  
+  Augusto B. Corrêa, Jendrik Seipp
+* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning**  
+  Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
+* **Separate Generation and Evaluation for Parallel Greedy Best-First Search**  
+  Takumi Shimoda, Alex Fukunaga
+* **Cost Partitioning For Multiple Sequence Alignment**  
+  Mika Skjelnes, Daniel Gnad, Jendrik Seipp
+* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning**  
+  Clemens Büchner, Remo Christen, Salomé Eriksson, Thomas Keller
+* **Metareasoning Needs Distributions: Put Up or Shut Up Games**  
+  Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+* **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations**  
+  Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
+* **Reasonable Landmark Orderings for Lifted Classical Planning**  
+  Marcel Schubert, Julia Wichlacz, Daniel Höller
+* **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning**  
+  Alexander Shleyfman, Daniel Gnad, Eyal Weiss, Lee-or Alon
+* **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**  
+  Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
+* **Choosing a Classical Planner with Graph Neural Networks**  
+  Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
+* **Expected Runtime Comparisons Between Breadth-First Search and Constant-Depth Restarting Random Walks**  
+  Daniel Platnick, Richard A. Valenzano
+* **Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning**  
+  Martín Pozo, Carlos Linares Lopez, Alvaro Torralba
+
 ## Topics of Interest
 
 Examples of typical topics for submissions to this workshop are:
@@ -76,4 +110,20 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 **Sofia Lemons**, 2U, Maryland, USA
 
 Contact: <hsdip@googlegroups.com>  
+
+### Program Committee
+
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
+**Clemens Büchner**, University of Basel, Switzerland  
+**Remo Christen**, University of Basel, Switzerland  
+**Simon Dold**, University of Basel, Switzerland  
+**Salomé Eriksson**, University of Basel, Switzerland  
+**Roy Fox**, University of California, Irvine, USA  
+**Daniel Gnad**, Linköping University, Sweden  
+**Thorsten Klößner**, Saarland University, Germany  
+**Pascal Lauer**, Saarland University, Germany  
+**Sofia Lemons**, 2U, Maryland, USA  
+**Florian Pommerening**, University of Basel, Switzerland  
+**David Speck**, Linköping University, Sweden  
+**Alvaro Torralba**, Aalborg University, Denmark  
 
