@@ -90,7 +90,9 @@ We do allow and also explicitly encourage the submission of papers that at the t
 
 ## Invited Talk
 
-TBA
+Our speaker at this year's workshop is [Dr. Daniel Hoeller](http://fai.cs.uni-saarland.de/hoeller/index.html).
+
+More details will be provided soon.
 
 
 
@@ -135,12 +137,20 @@ If you'd like to be part of our team this year or in any of the future years, pl
 The following publications will be included in the proceedings once they are ready.
 <script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Yousefi2024FONDHTNSolver$).*$"></script>
 
-<hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
+<br>
 
 #### Accepted at HPlan and another venue
 The following publications will be excluded from the proceedings to prevent copyright issues. We will provide a link instead.
-<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Yousefi2024FONDHTNSolver"></script>
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&hide=year&filter=key:Yousefi2024FONDHTNSolver"></script>
 
+<br>
+
+#### Presentations of papers from other venues
+
+The following previously published papers are presented in the program but were not submitted to HPlan. (See "Policy on Previously Published Material", where we offer to give you a forum to present work that was accepted at another venue already.)
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan-ext.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+
+<br>
 
 ## Workshop Schedule
 
