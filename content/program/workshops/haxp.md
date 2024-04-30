@@ -8,12 +8,29 @@ draft: false
 
 ICAPS'24 Workshop
 Banff, Alberta, Canada
-June 2-3, 2024
+June 3, 2024
 
 ## Aim and Scope of the Workshop
 
 As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](http://xaip.mybluemix.net)
 
+
+## Accepted Papers
+
+* **On Computing Plans with Uniform Action Costs** by  Alberto Pozanco, Daniel Borrajo and Manuela Veloso
+* **Initial Steps in Planning under Qualitative Uncertainty** by Brandon Rozek and Selmer Bringsjord
+* **Maintaining, Monitoring, and Managing User Engagement in Social Robotics for Short-Term Interactions** by Alan Lindsay, Andres A. Ramirez-Duque, Mary Ellen Foster and Ron Petrick
+* **A Conflict-Driven Approach for Reaching Goals Specified with Negation as Failure** by Forest Agostinelli
+* **Reducing Human-Robot Goal State Divergence with Environment Design** by Kelsey Sikes, Sarah Keren and Sarath Sreedharan
+* **Human-Aware Epistemic Task Planning for Human-Robot Collaboration** by Shashank Shekhar, Anthony Favier, Rachid Alami
+* **Increased Plan Stability in Cooperative Electric Vehicles Path-Planning** by Jaël Champagne Gareau, Guillaume Gosset, Marc-André Lavoie, Éric Beaudry and Vladimir Makarenkov
+* **Human-Modeling in Sequential Decision-Making: An Analysis through the Lens of Human-Aware AI** by Silvia Tulli, Stylianos Loukas Vasileiou, Sarath Sreedharan
+* **Approximating Human Models During Argumentation-based Dialogues** by Yinxu Tang, Stylianos Loukas Vasileiou, William Yeoh
+* **Towards Robust LLM-Driven Planning from Minimal Text Descriptions** by Elliot Gestrin, Marco Kuhlmann, Jendrik Seipp
+
+## Schedule
+
+Coming soon!
 
 
 ## Topics of Interest
@@ -45,7 +62,7 @@ The workshop includes - but is not limited to - the following topics:
 * Paper submission deadline: ~~March 25, 2024 UTC-12~~  **April 7th, 2024 UTC-12**
 * Notification of acceptance: April 29, 2024 UTC-12
 * Camera-ready paper submissions: TBD (after the workshop)
-* Workshop date: TBD (June 2-3, 2024)
+* Workshop date: June 3, 2024
 
 ## Submission Details
 

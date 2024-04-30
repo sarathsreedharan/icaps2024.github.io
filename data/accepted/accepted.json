@@ -2,7 +2,7 @@
     "tracks": [
         {
             "number": 1,
-            "name": "Long Paper",
+            "name": "Long Papers",
             "papers": [
                 {
                     "number": 164,
@@ -221,7 +221,7 @@
                 },
                 {
                     "number": 89,
-                    "title": "Exact Multi-objective Path Finding with Negative Weights and Negative  Cycles",
+                    "title": "Exact Multi-objective Path Finding with Negative Weights and Negative Cycles",
                     "abstract": "The point-to-point Multi-objective Shortest Path (MOSP) problem is a classic yet challenging task that involves finding all Pareto-optimal paths between two points in a graph with multiple edge costs. Recent studies have shown that employing A* search can lead to state-of-the-art performance in solving point-to-point MOSP instances with non-negative costs. In this paper, we propose a novel A*-based multi-objective search framework that not only handles graphs with negative costs and even negative cycles but also incorporates multiple speed-up techniques to enhance the efficiency of exhaustive search with A*. Through extensive experiments on large realistic test cases, our algorithm demonstrates remarkable success in solving difficult MOSP instances, outperforming the state of the art by up to an order of magnitude.",
                     "authors": "Saman Ahmadi, Daniel Harabor, Nathan R. Sturtevant, Mahdi Jalili",
                     "url": "https://openreview.net/forum?id=sBHklMlq0c",
@@ -919,7 +919,7 @@
         },
         {
             "number": 2,
-            "name": "Short Paper",
+            "name": "Short Papers",
             "papers": [
                 {
                     "number": 173,
@@ -1048,6 +1048,108 @@
                     "url": "https://openreview.net/forum?id=GZrgOvNGJx",
                     "pdf": "https://openreview.net//pdf/abaa4de774819bc07600640e44287065544d964a.pdf",
                     "primary_keywords": "",
+                    "long": false,
+                    "tldr": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "name": "Previously Published Papers",
+            "papers" : [
+                {
+                    "number": 1001,
+                    "title": "Effort Level Search in Infinite Completion Trees with Application to Task-and-Motion Planning",
+                    "abstract": "Solving a Task-and-Motion Planning (TAMP) problem can be represented as a sequential (meta-) decision process, where early decisions concern the skeleton (sequence of logic actions) and later decisions concern what to compute for such skeletons (e.g., action parameters, bounds, RRT paths, or full optimal manipulation trajectories). We consider the general problem of how to schedule compute effort in such hierarchical solution processes. More specifically, we introduce infinite completion trees as a problem formalization, where before we can expand or evaluate a node, we have to solve a preemptible computational sub-problem of a priori unknown compute effort. Infinite branchings represent an infinite choice of random initializations of computational sub-problems. Decision making in such trees means to decide on where to invest compute or where to widen a branch. We propose a heuristic to balance branching width and compute depth using polynomial level sets. We show completeness of the resulting solver and that a round robin baseline strategy used previously for TAMP becomes a special case. Experiments confirm the robustness and efficiency of the method on problems including stochastic bandits and a suite of TAMP problems, and compare our approach to a round robin baseline. An appendix comparing the framework to bandit methods and proposing a corresponding tree policy version is found on the supplementary webpage: https://www.user.tu-berlin.de/mtoussai/24-CompletionTrees/.",
+                    "authors": "Marc Toussaint, Joaquim Ortiz-Haro, Valentin N. Hartmann, Erez Karpas, Wolfgang Hönig",
+                    "venue": "ICRA",
+                    "url": "https://www.user.tu-berlin.de/mtoussai/24-CompletionTrees/",
+                    "pdf": "https://www.user.tu-berlin.de/mtoussai/24-CompletionTrees/24-toussaint-ICRA.pdf",
+                    "primary_keywords": ["Robotics"],
+                    "long": false,
+                    "tldr": "TAMP problems are typically solved in steps, by solving a series of sub-problems. We to address the decision problem of where to invest compute when searching over possible sequences of sub-problems."
+                },
+                {
+                    "number": 1002,
+                    "title": "When Prolog Meets Generative Models: a New Approach for Managing Knowledge and Planning in Robotic Applications",
+                    "abstract": "In this paper, we propose a robot oriented knowledge representation system based on the use of the Prolog language. Our framework hinges on a special organisation of Knowledge Base (KB) that enables: 1) its efficient population from natural language texts using semi-automated procedures based on Large Language Models (LLMs); 2) the seamless generation of temporal parallel plans for multi-robot systems through a sequence of transformations; 3) the automated translation of the plan into an executable formalism. The framework is supported by a set of open source tools and its functionality is shown with a realistic application.",
+                    "authors": "Enrico Saccon, Ahmet Tikna, Davide De Martini, Edoardo Lamon, Luigi Palopoli, Marco Roveri",
+                    "venue": "ICRA",
+                    "url": "https://arxiv.org/abs/2309.15049",
+                    "pdf": "https://arxiv.org/pdf/2309.15049.pdf",
+                    "primary_keywords": ["Knowledge Representation/Engineering"],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1003,
+                    "title": "Dynamic Targeting to Improve Earth Science Missions",
+                    "abstract": "Dynamic targeting (DT) is an emerging concept in which data from a lookahead instrument are used to intelligently reconfigure and point a primary instrument to enhance science return. For example, in the smart ice hunting radar (Smart Ice Cloud Sensing project), a forward-looking radiometer is used to detect deep convective ice storms, which are then targeted using a radar. In other concepts, forward-looking sensors are used to detect clouds so that a primary sensor can avoid them. To this end, we have developed several algorithms from operations research and an artificial intelligence/heuristic search to point/reconfigure the dynamic instrument. We present simulation studies of DT for these concepts and benchmark these algorithms to show that DT is a powerful tool with the potential to significantly improve instrument science yield.",
+                    "authors": "Alberto Candela, Jason Swope, Steve A. Chien",
+                    "venue": "Aerospace Research Central",
+                    "url": "https://arc.aiaa.org/doi/10.2514/1.I011233",
+                    "pdf": "candela.pdf",
+                    "primary_keywords": ["Applications"],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1004,
+                    "title": "Integrating Action Knowledge and LLMs for Task Planning and Situation Handling in Open Worlds",
+                    "abstract": "Task planning systems have been developed to help robots use human knowledge (about actions) to complete long-horizon tasks. Most of them have been developed for “closed worlds” while assuming the robot is provided with complete world knowledge. However, the real world is generally open, and the robots frequently encounter unforeseen situations that can potentially break theplanner’s completeness. Could we leverage the recent advances on pre-trained Large Language Models (LLMs) to enable classical planning systems to deal with novel situations? This paper introduces a novel framework, called COWP, for open-world task planning and situation handling. COWP dynamically augments the robot’s action knowledge, including the preconditions and effects of actions, with task-oriented commonsense knowledge. COWP embraces the openness from LLMs, and is grounded to specific domains via action knowledge. For systematic evaluations, we collected a dataset that includes 1085 execution-time situations. Each situation corresponds to a state instance wherein a robot is potentially unable to complete a task using a solution that normally works. Experimental results show that our approach outperforms competitive baselines from the literature in the success rate of service tasks. Additionally, we have demonstrated COWP using a mobile manipulator. Supplementary materials are available at: https://cowplanning.github.io/",
+                    "authors": "Yan Ding, Xiaohan Zhang, Saeid Amiri, Nieqing Cao, Hao Yang, Andy Kaminski, Chad Esselink, Shiqi Zhang",
+                    "venue": "Autonomous Robotics",
+                    "url": "https://link.springer.com/article/10.1007/s10514-023-10133-5",
+                    "pdf": "https://arxiv.org/abs/2305.17590.pdf",
+                    "primary_keywords": [],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1005,
+                    "title": "Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs",
+                    "abstract": "We describe AOS, the first general-purpose system for model-based control of autonomous robots using AI planning that fully supports partial observability and noisy sensing. The AOS provides a code-based language for specifying a generative model of the system, making",
+                    "authors": "Or Wertheim, Dan R. Suissa, Ronen I. Brafman",
+                    "venue": "IEEE Robotics and Automation",
+                    "url": "https://arxiv.org/abs/2207.09713",
+                    "pdf": "https://arxiv.org/abs/2207.09713.pdf",
+                    "primary_keywords": [],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1006,
+                    "title": "Right Place, Right Time: Proactive Multi-Robot Task Allocation Under Spatiotemporal Uncertainty",
+                    "abstract": "For many multi-robot problems, tasks are announced during execution, where task announcement times and locations are uncertain. To synthesise multi-robot behaviour that is robust to early announcements and unexpected delays, multi-robot task allocation methods must explicitly model the stochastic processes that govern task announcement. In this paper, we model task announcement using continuous-time Markov chains which predict when and where tasks will be announced. We then present a task allocation framework which uses the continuous-time Markov chains to allocate tasks proactively, such that robots are near or at the task location upon its announcement. Our method seeks to minimise the expected total waiting duration for each task, ie the duration between task announcement and a robot beginning to service the task. Our framework can be applied to any multi-robot task allocation problem where robots complete spatiotemporal tasks which are announced stochastically. We demonstrate the efficacy of our approach in simulation, where we outperform baselines which do not allocate tasks proactively, or do not fully exploit our task announcement models.",
+                    "authors": "Charlie Street, Bruno Lacerda, Manual Mühlig, Nick Hawes",
+                    "venue": "JAIR",
+                    "url": "https://www.jair.org/index.php/jair/article/view/15057",
+                    "pdf": "https://dl.acm.org/doi/pdf/10.1613/jair.1.15057",
+                    "primary_keywords": ["Temporal Planning"],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1007,
+                    "title": "EELS: Autonomous snake-like robot with task and motion planning capabilities for ice world exploration",
+                    "abstract": "Ice worlds are at the forefront of astrobiological interest because of the evidence of subsurface oceans. Enceladus in particular is unique among the icy moons because there are known vent systems that are likely connected to a subsurface ocean, through which the ocean water is ejected to space. An existing study has shown that sending small robots into the vents and directly sampling the ocean water is likely possible. To enable such a mission, NASA’s Jet Propulsion Laboratory is developing a snake-like robot called Exobiology Extant Life Surveyor (EELS) that can navigate Enceladus’ extreme surface and descend an erupting vent to capture unaltered liquid samples and potentially reach the ocean. However, navigating to and through Enceladus’ environment is challenging: Because of the limitations of existing orbital reconnaissance, there is substantial uncertainty with respect to its geometry and the physical properties of the surface/vents; communication is limited, which requires highly autonomous robots to execute the mission with limited human supervision. Here, we provide an overview of the EELS project and its development effort to create a risk-aware autonomous robot to navigate these extreme ice terrains/environments. We describe the robot’s architecture and the technical challenges to navigate and sense the icy environment safely and effectively. We focus on the challenges related to surface mobility, task and motion planning under uncertainty, and risk quantification. We provide initial results on mobility and risk-aware task and motion planning from field tests and simulated scenarios.",
+                    "authors": "T. S. Vaquero, G. Daddi, R. Thakker, M. Paton, A. Jasour, M. P. Strub, R. M. Swan, R. Royce, M. Gildner, P. Tosi, M. Veismann, P. Gavrilov, E. Marteau, J. Bowkett, D. Loret de Mola Lemus, Y. Nakka, B. Hockman, A. Orekhov, T. D. Hasseler, C. Leake, B. Nuernberger, P. Proença, W. Reid, W. Talbot,  N. Georgiev, T. Pailevanian, A. Archanian, E. Ambrose, J. Jasper, R. Etheredge, C. Roman, D. Levine, K. Otsu, S. Yearicks, H. Melikyan, R. R. Rieber, K. Carpenter, J. Nash, A. Jain, L. Shiraishi, M. Robinson, M. Travers, H. Choset, J. Burdick, A. Gardner, M. Cable, M. Ingham, M. Ono",
+                    "venue": "Science Robotics Journal",
+                    "url": "https://www.science.org/doi/10.1126/scirobotics.adh8332",
+                    "pdf": "https://www.science.org/doi/epdf/10.1126/scirobotics.adh8332",
+                    "primary_keywords": ["Applications"],
+                    "long": false,
+                    "tldr": ""
+                },
+                {
+                    "number": 1008,
+                    "title": "Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree",
+                    "abstract": "The Combined Target-Assignment and Path- Finding (TAPF) problem requires simultaneously assigning targets to agents and planning collision-free paths for them from their start locations to their assigned targets. As a leading approach to addressing TAPF, Conflict-Based Search with Target Assignment (CBS-TA) leverages K-best target assignments to create multiple search trees and Conflict-Based Search (CBS) to resolve collisions in each tree. While CBS- TA finds optimal solutions, it faces scalability challenges due to the duplicated collision resolution in multiple trees and the expensive computation of K-best assignments. We introduce Incremental Target Assignment CBS (ITA-CBS) to bypass these two computational bottlenecks. ITA-CBS generates only a single search tree and avoids computing K-best assignments by incrementally computing new 1-best assignments during the search. We show that ITA-CBS, in theory, is guaranteed to find optimal solutions and, in practice, runs faster than CBS-TA in 96.1% of 6,334 test cases.",
+                    "authors": "Yimin Tang, Zhongqiang Ren, Jiaoyang Li, Katia Sycara",
+                    "venue": "MRS",
+                    "url": "https://arxiv.org/abs/2307.00663",
+                    "pdf": "https://arxiv.org/abs/2307.00663.pdf",
+                    "primary_keywords": [],
                     "long": false,
                     "tldr": ""
                 }
