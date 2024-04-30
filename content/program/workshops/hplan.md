@@ -38,7 +38,7 @@ Topics of interests include but are not limited to:
 - Submission Deadline:   Monday, 25 March 2024 (AoE)
 - Author Notification:   Friday, 26 April 2024
 - Camera-Ready Deadline: Friday 24 May 2024 (AoE)
-- ICAPS 2024 Workshops:  June 2-3, 2024
+- Workshop:              Monday, June 3, 2024
 
 We understand that for some, our notification date might come too late in order to plan travel accordingly, in particular if visa needs to be obtained. So in case you want to make your travel plans dependent on paper acceptance and thus require an earlier notification, please reach out to us to see whether submission and notification dates can be moved forward for your individual paper.
 
@@ -130,19 +130,34 @@ If you'd like to be part of our team this year or in any of the future years, pl
 
 ## List of Accepted Papers
 
-tba
 
-<br>
+#### Accepted at HPlan and included in proceedings
+The following publications will be included in the proceedings once they are ready.
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Yousefi2024FONDHTNSolver$).*$"></script>
+
+<hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
+
+#### Accepted at HPlan and another venue
+The following publications will be excluded from the proceedings to prevent copyright issues. We will provide a link instead.
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Yousefi2024FONDHTNSolver"></script>
 
 
 ## Workshop Schedule
 
-Our workshop is scheduled for Monday, June 3, 2024. A detailed schedule will be released soon.
+Our workshop is scheduled for Monday, June 3, 2024.
 
+This is our *preliminary* schedule:
 
+- &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
+- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
+- &nbsp;&nbsp;9:40 -- 10:00 &nbsp; &nbsp; &nbsp;  tba
+- 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
+- 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (6 talks)
+- 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 1 (6 posters)
+- 13:30 -- 13:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (5 talks)
+- 13:50 -- 15:00 &nbsp; &nbsp; &nbsp;  poster session 2 (5 posters)
 
-
-
+Please note that we expect that all posters will be available during both sessions, but we only expect presenters to be available in those sessions in which the respective teaser talks were presented. Also note that we will present the list of which papers get presented in which session in time.
 
 
 
