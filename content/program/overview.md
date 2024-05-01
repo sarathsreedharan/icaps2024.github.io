@@ -17,9 +17,9 @@ draft: false
 
 - A total of 9 **Workshops** have been accepted to ICAPS 2024. Check the [workshop page](https://icaps24.icaps-conference.org/program/ws_overview) for additional information about their organization.
 
-- ICAPS 2024 will host 3 **Keynotes**. Check the [keynote page](https://icaps23.icaps-conference.org/program/keynotes) for additional information about their talks.
+- ICAPS 2024 will host 3 **Keynotes**. Check the [keynote page](https://icaps24.icaps-conference.org/program/keynotes) for additional information about their talks.
 
-- Check the list **Accepted Papers** on the [conference webpage](https://icaps23.icaps-conference.org/program/accepted).
+- Check the list **Accepted Papers** on the [conference webpage](https://icaps24.icaps-conference.org/program/accepted).
 
 ## Program At a Glance
 
