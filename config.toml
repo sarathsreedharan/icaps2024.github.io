@@ -187,12 +187,12 @@ theme = 'mainroad'
    identifier = "program"
    name = "Program"
    weight = 7000
-#  [[menu.main]]
-#    identifier = "overview"
-#    name = "Program Overview"
-#    url = "/program/overview"
-#    parent = "program"
-#    weight = 10
+ [[menu.main]]
+   identifier = "overview"
+   name = "Overview"
+   url = "/program/overview"
+   parent = "program"
+   weight = 10
  [[menu.main]]
    identifier = "accepted-papers"
    name = "Accepted Papers"
