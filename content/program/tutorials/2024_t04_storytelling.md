@@ -102,7 +102,7 @@ Using constraints in the narrative domain to encode narrative phenomena and guid
 
 
 
-***Module 5 : PLANNING FROM A FOCALIZED PERSPECTIVE*** 
+***Module 5 : PLANNING FROM A FOCALIZED PERSPECTIVE - INTENTIONALITY*** 
 
 
 ***Presenter*** : Nisha Simon
@@ -111,7 +111,7 @@ Using constraints in the narrative domain to encode narrative phenomena and guid
 ***Contributor*** : Patrik Haslum
 
 
-Theory of mind in Narrative generation.
+Theory of mind in Narrative generation. Creating a story often involves taking another's perspective: The story author plans from the point of view of characters in the story, to ensure their actions are consistent with their beliefs and motivations. Because stories often center on characters' interactions, characters sometimes plan from the point of view of other characters. Consequently, a key question in narrative planning is how to represent multiple view points within a plan.
 
 
 
