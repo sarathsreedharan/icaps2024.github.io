@@ -27,7 +27,7 @@ code. It will alternate presentations and live Python coding sessions
 
 ## Official Website and Auxiliary Materials
 
-- [Tutorial Website](xxxx)
+- [Tutorial Website](https://fteicht.github.io/icaps24-skdecide-tutorial/)
 
 ## About the authors
 
