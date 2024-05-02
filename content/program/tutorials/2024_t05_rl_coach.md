@@ -3,8 +3,9 @@ title: "Tutorial 05 - Orchestrating autonomous agents: Reinforcement Learning To
 date: 2024-04-16
 draft: false
 ---
+# Tutorial 05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH
 
-# Abstract
+## Abstract
 
 In many actual applications, semi-autonomous multi-agent systems need to be controlled and
 evaluated by human operators. Consider the routing of autonomous vehicles with potential communication
@@ -35,11 +36,11 @@ tackles high level scheduling, policy selection, or coordination for generating 
 plans. COACH was created in association with the US Air Force Research Laboratory’s Autonomy
 Capability Team (ACT3).
 
-# Resources
+## Resources
 
 - [Tutorial Website](xxxx)
 
-# About the authors
+## About the authors
 
 **Nate Bade** is an award-winning educator and former teaching professor and program director of the MS in Applied 
 Mathematics (MSAM) program at Northeastern University. He specialized in project based education and designed the

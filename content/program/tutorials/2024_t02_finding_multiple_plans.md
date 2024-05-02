@@ -4,9 +4,11 @@ date: 2024-04-16
 draft: false
 ---
 
-# Abstract
+# Tutorial 02 - Finding Multiple Plans for Classical Planning Problems
 
-The goal of the tutorial is to familiarise the audience with the theorethical and practical
+## Abstract
+
+The goal of the tutorial is to familiarise the audience with the theoretical and practical
 aspects of devising multiple plans for classical planning problems. We will motivate the need
 for such planners from application perspective, formally define the respective computational
 problems, as well as describe the existing approaches to solving these problems. We will
@@ -19,7 +21,7 @@ practitioners who want to use these tools in applications and the tools builders
 
 - [Tutorial Website](https://mp-tutorial.github.io/)
 
-# About the authors
+## About the authors
 
 **Shirin Sohrabi** is a principal research scientist and research manager at IBM T.J. Watson
 Research Center in New York, USA. She has over 12 years of research experience
@@ -34,7 +36,7 @@ also serves as the diversity and inclusion chair.
 
 **Michael Katz** is a principal researcher at IBM T.J.Watson Research Center, NY, USA.
 His primary research interest is in domain-independent planning and in the integration
-of planning and RL. He received his PhD for a dissertation on heuristics for domainindependent
+of planning and RL. He received his PhD for a dissertation on heuristics for domain independent
 planning from Technion in 2010. He was a co-organizer of the 2011,
 2013, 2014, 2015, 2016, 2018, and 2022 H(S)DIP workshops, as well as of five of the
 six editions (including the first) of PRL workshop 2020-2023. He was a program chair
