@@ -3,7 +3,7 @@ title: "Tutorial 05 - Orchestrating autonomous agents: Reinforcement Learning To
 date: 2024-04-16
 draft: false
 ---
-# Tutorial 05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH
+# Tutorial 05 - Orchestrating Autonomous Agents: Reinforcement Learning for Hierarchical Planning with COACH
 
 ## Abstract
 
