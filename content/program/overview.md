@@ -8,14 +8,14 @@ draft: false
 ## ICAPS 2024 Schedule at a Glance
 
 - May 27-31, 2024	[Summer School](https://icaps24.icaps-conference.org/summerschool/)
-- June 1, 2024		Doctoral Consortium
-- June 2-3, 2024	Workshops and Tutorials
+- June 1, 2024		[Doctoral Consortium](https://icaps24.icaps-conference.org/calls/dc/)
+- June 2-3, 2024	[Workshops](https://icaps24.icaps-conference.org/program/ws_overview/) and [Tutorials](https://icaps24.icaps-conference.org/program/tutorial_overview/)
 - June 4-6, 2024	Main Conference
 - June 6-8, 2024	[Symposium on Combinatorial Search](https://socs24.search-conference.org/) (SoCS)
 
 ## Additional Information about the Program
 
-- A total of 9 **Workshops** have been accepted to ICAPS 2024. Check the [workshop page](https://icaps24.icaps-conference.org/program/ws_overview) for additional information about their organization.
+- A total of 9 **[Workshops](https://icaps24.icaps-conference.org/program/ws_overview/)** and 5 **[Tutorials](https://icaps24.icaps-conference.org/program/tutorial_overview/)** have been accepted to ICAPS 2024.
 
 - ICAPS 2024 will host 3 **Keynotes**. Check the [keynote page](https://icaps24.icaps-conference.org/program/keynotes) for additional information about their talks.
 

@@ -1,7 +1,9 @@
-# Abstract
+# Tutorial Title
 
-# Resources
+## Abstract
+
+## Resources
 
 - [Tutorial Website](xxxx)
 
-# About the authors
+## About the authors
