@@ -4,7 +4,9 @@ date: 2024-04-16
 draft: false
 ---
 
-# Abstract
+# Tutorial 03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for Planning, Scheduling and Reinforcement Learning 
+
+## Abstract
 
 Scikit-decide is an open-source library for modeling and solving planning, scheduling and
 reinforcement learning problems within a common API which helps break technical silos between different
@@ -23,11 +25,11 @@ The half-day tutorial will show how to model and solve the same problems using a
 different communities, and how to extend the libraries with new domains and solvers in a few lines of
 code. It will alternate presentations and live Python coding sessions
 
-# Official Website and Auxiliary Materials
+## Official Website and Auxiliary Materials
 
-- [Tutorial Website](xxxx)
+- [Tutorial Website](https://fteicht.github.io/icaps24-skdecide-tutorial/)
 
-# About the authors
+## About the authors
 
 **Florent Teichteil-K&ouml;nigsbuch** is an expert in AI Decision-Making and Combinatorial Optimization
 in Airbus Central Research and Technology. After graduating as a PhD in Artificial

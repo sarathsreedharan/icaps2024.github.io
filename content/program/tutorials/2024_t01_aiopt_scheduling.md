@@ -3,8 +3,9 @@ title: "Tutorial 01 - AI and Optimization for Scheduling"
 date: 2024-04-16
 draft: false
 ---
+# Tutorial 01 - AI and Optimization for Scheduling
 
-# Abstract
+## Abstract
 
 Scheduling problems arise in various areas, including business, engineering, healthcare, and others. In this tutorial, 
 we will first present several scheduling problems and case studies from various application domains, such as project 
@@ -18,7 +19,7 @@ demonstrate the application of these techniques in several real-world domains.
 
 - [Tutorial Website](xxxx)
 
-# About the Presenters
+## About the Presenters
 
 **Nysret Musliu** is an Associate Professor and the Head of the Christian Doppler Laboratory for AI and Optimization 
 for Planning and Scheduling at TU Wien. His research focuses on problem solving and search in artificial intelligence, 

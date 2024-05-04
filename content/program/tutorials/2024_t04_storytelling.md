@@ -4,7 +4,9 @@ date: 2024-04-16
 draft: false
 ---
 
-# Abstract
+# Tutorial 04 - Planning for Storytelling
+
+## Abstract
 
 In this tutorial we will demonstrate the role that planning, or planning-based representations, can play in narrative 
 generation methods. The plan becomes the representation of the story and also that of the story world, and thus we use 
@@ -12,11 +14,11 @@ Planning to create logical, believable, and coherent stories (narratives) in a v
 techniques, including modern approaches that make use of Large Language Models (LLMs) and provide the opportunity for 
 attendees to play with the technology themselves live.
 
-# Official Website and Auxiliary Materials
+## Official Website and Auxiliary Materials
 
 - [Tutorial Website](xxxx)
 
-# About the authors
+## About the authors
 
 **Nisha Simon** is a PhD candidate at Queen’s University under the supervision of Prof. Christian Muise, and a Teaching 
 Assistant with the School of Computing. Her interests are in researching structured learning from unstructured 
