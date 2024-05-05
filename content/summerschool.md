@@ -67,7 +67,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 
 <b>On Monday, the program starts at 9 am with a 30 minute opening session before the first talk.</b>
 
-Also, in the schedule below, all labs are organized and executed by Sarah Keren and our Teaching Assistants.
+Also, in the schedule below, all labs are organized and executed by Sarah Keren and our two Teaching Assistants (TAs) Guy Azran and Yuval Goshen.
 
 <!--Is there an easy way to make all cells centered without adding arguments to all the cells?-->
 <table>
@@ -139,11 +139,11 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
     </tr>
     <tr style="background-color: #f2f2f2;">
         <td><b>Break (time)</b></td>
-        <td>(13:00-14:00)</td>
-        <td>(13:00-14:00)</td>
-        <td>(13:00-14:00)</td>
-        <td>(13:00-14:00)</td>
-        <td>(13:00-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
     </tr>
     <tr>
         <td><b>Topic & time</b></td>
