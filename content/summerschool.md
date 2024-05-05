@@ -63,6 +63,122 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   helps out with the lab sessions
 -->
 
+### Program
+
+<b>On Monday, the program starts at 9 am with a 30 minute opening session before the first talk.</b>
+
+Also, in the schedule below, all labs are organized and executed by Sarah Keren and our two Teaching Assistants (TAs) Guy Azran and Yuval Goshen.
+
+<!--Is there an easy way to make all cells centered without adding arguments to all the cells?-->
+<table>
+<!--
+    <tr>
+        <th></th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+    </tr>
+-->
+    <tr>
+        <td style="min-width: 150px;"></th>
+        <td style="min-width: 150px;"><b>Monday</b></th>
+        <td style="min-width: 150px;"><b>Tuesday</b></th>
+        <td style="min-width: 150px;"><b>Wednesday</b></th>
+        <td style="min-width: 150px;"><b>Thursday</b></th>
+        <td style="min-width: 150px;"><b>Friday</b></th>
+    </tr>
+    <tr>
+        <td><b>speaker</b></td>
+        <td style="background-color: #ffa500;">Nathan Sturtevant</td>
+        <td style="background-color: #ffa500;">Wheeler Ruml</td>
+        <td style="background-color: #ffa500;">Jane Jean Kiam</td>
+        <td style="background-color: #ffa500;">Brian C. Williams</td>
+        <td style="background-color: #ffa500;">Hanna Kurniawati</td>
+    </tr>
+    <tr>
+        <td><b>topic & time</b></td>
+        <td style="background-color: #ffa500;">The Foundation of<br>Best-First Search<br>(09:30-11:00)</td>
+        <td style="background-color: #ffa500;">Suboptimal Search and Motion Planning<br>(08:30-10:30)</td>
+        <td style="background-color: #ffa500;">Automated planning for airborne applications: feasibility and challenges<br>(09:00-10:30)</td>
+        <td style="background-color: #ffa500;">Risk-bounded Task and Motion Planning in the Real World<br>(08:30-10:30)</td>
+        <td style="background-color: #ffa500;">Planning under Uncertainty, RL and Task and Motion Planning<br>(09:00-10:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Coffee Break (time)</b></td>
+        <td>(11:00-11:30)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+    </tr>
+    <tr>
+        <td><b>speaker</b></td>
+        <td style="background-color: #ffa500;">Sarah Keren</td>
+        <td style="background-color: #ffa500;">Pascal Bercher</td>
+        <td style="background-color: #add8e6">Lukáš Chrpa, Ron Petrick, Mauro Vallati (organizers)</td>
+        <td style="background-color: #ffa500;">Jeremy Frank</td>
+        <td style="background-color: #ff0">Sarah Keren and TAs</td>
+    </tr>
+    <tr>
+        <td><b>topic & time</b></td>
+        <td style="background-color: #ffa500;">Introduction to Integrated Task and Motion Planning<br>(11:30-12:30)</td>
+        <td style="background-color: #ffa500;">An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving<br>(11:00-12:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(11:00-12:30)</td>
+        <td style="background-color: #ffa500;">The Distributed Spacecraft Autonomy (DSA) Project<br>(11:00-12:30)</td>
+        <td style="background-color: #ff0">Lab: Final session<br>(11:00-12:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Lunch (time)</b></td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Break (time)</b></td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+    </tr>
+    <tr>
+        <td><b>Topic & time</b></td>
+        <td style="background-color: #ff0">Lab: Task Planning<br>(14:00-15:30)</td>
+        <td style="background-color: #ff0">Lab: Motion Planning<br>(14:00-15:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(14:00-15:30)</td>
+        <td style="background-color: #ff0">Lab: Task and motion planning<br>(14:00-15:30)</td>
+        <td>Panel - All speakers<br>(14:00-16:00)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Coffee Break (time)</b></td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+    </tr>
+    <tr>
+        <td><b>Topic & time</b></td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(16:00-17:30)</td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td>Summer school wrap-up<br>(16:00-17:30)</td>
+    </tr>
+    <tr>
+        <td><b>Evening (time)</b></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Dinner<br>(18:00-19:30)</td>
+        <td></td>
+    </tr>
+</table>
+<br>
 
 ### Who can join? 
 
