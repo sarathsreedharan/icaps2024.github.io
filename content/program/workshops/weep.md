@@ -84,6 +84,8 @@ Submissions will be done via [easychair](https://easychair.org/conferences/?conf
 - **Sergio Jiménez Celorrio**, Universitat Politècnica de València
 - **Connor Little**, Queen's University
 - **Victoria Jane**, Queen's University
+- **Martin Funkquist**, Linköping University
+- **Markus Fritzsche**, Linköping University
 
 ## Invited Talk
 <div style="width: 100%; margin: 0; padding: 3%;">
@@ -109,6 +111,13 @@ Serendipity is an unplanned fortunate discovery. In this talk, I will describe h
 Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.
 </p>
 </div>
+
+## Panel Discussion
+ **Topic:** Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.
+### Panelists
+- **Sarah Keren**, Israel Institute of Technology
+- **Malte Helmert**, University of Basel
+- **Daniel Fišer**, Saarland University
 
 ## Workshop Schedule
 TBA
