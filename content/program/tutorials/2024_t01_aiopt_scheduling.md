@@ -3,23 +3,23 @@ title: "Tutorial 01 - AI and Optimization for Scheduling"
 date: 2024-04-16
 draft: false
 ---
-# Tutorial 01 - AI and Optimization for Scheduling
+# Tutorial 01 - AI Techniques for Solving Scheduling Problems
 
 ## Abstract
 
 Scheduling problems arise in various areas, including business, engineering, healthcare, and others. In this tutorial, 
 we will first present several scheduling problems and case studies from various application domains, such as project 
 scheduling, production planning and scheduling, employee scheduling, and timetabling. We will then provide an overview 
-of different methods for solving such problems. The topics covered will include solver-independent modeling, constraint 
-programming, metaheuristic methods, and hybrid techniques. In the second part of the tutorial, we will discuss methods 
-that use machine learning techniques for automatic algorithm selection and heuristic algorithm design. We will 
-demonstrate the application of these techniques in several real-world domains.
+of different AI methods for solving such problems. The topics covered will include solver-independent modeling, 
+constraint programming, metaheuristic methods, and hybrid techniques. In the second part of the tutorial, we will 
+discuss methods that use machine learning techniques for automatic algorithm selection and heuristic algorithm design. 
+We will demonstrate the application of these techniques in several real-world domains.
 
 # Official Website and Auxiliary Materials
 
-- [Tutorial Website](xxxx)
+- [Tutorial Website](https://cdlab-artis.dbai.tuwien.ac.at/tutorials/icaps24/)
 
-## About the Presenters
+## Presenters
 
 **Nysret Musliu** is an Associate Professor and the Head of the Christian Doppler Laboratory for AI and Optimization 
 for Planning and Scheduling at TU Wien. His research focuses on problem solving and search in artificial intelligence, 

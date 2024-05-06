@@ -22,7 +22,7 @@ Here is the list of the tutorials accepted to ICAPS 2024
  
   <div style="width: 95%; padding: 2%; text-align: center; vertical-align: middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/2024_t01_aiopt_scheduling" target="_blank">T01 - AI and Optimization Techniques for Scheduling Problems</a></p>
+ 		<p><a href="/program/tutorials/2024_t01_aiopt_scheduling" target="_blank">T01 -AI Techniques for Solving Scheduling Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
  		<p>Nysret Musliu, Lucas Kletzander and Florian Mischek</p>

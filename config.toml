@@ -232,7 +232,7 @@ theme = 'mainroad'
 # TUTORIALS
 [[menu.main]]
    identifier = "2024_T01_aiopt_scheduling"
-   name = "T01 - AI and Optimization Techniques for Scheduling Problems"
+   name = "T01 - AI Techniques for Solving Scheduling Problems"
    parent = "tutorials"
    url = "/program/tutorials/2024_t01_aiopt_scheduling"
    weight = "10"
