@@ -17,7 +17,7 @@ We will demonstrate the application of these techniques in several real-world do
 
 # Official Website and Auxiliary Materials
 
-- [Tutorial Website](https://url.au.m.mimecastprotect.com/s/XJ_dCNLwzjFNkQkO4Hmu9hj?domain=cdlab-artis.dbai.tuwien.ac.at)
+- [Tutorial Website](https://cdlab-artis.dbai.tuwien.ac.at/tutorials/icaps24/)
 
 ## Presenters
 
