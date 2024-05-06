@@ -95,16 +95,14 @@ We do allow and also explicitly encourage the submission of papers that at the t
 <div style="width: 100%; margin: 0; padding: 3%;">
 <h3 style="color:orange;"><strong>Daniel Höller</strong></h3>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan-invitedSpeaker-daniel-hoeller.jpg" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan-invitedSpeaker-daniel-hoeller-02.jpg" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
 <p>
-Daniel Höller has been a post-doctoral researcher in Jörg Hoffmann's Foundations of AI Group at Saarland University since 2020. Before that, he was at the Institute of Artificial Intelligence at Ulm University, where he did this PhD on hierarchical planning (mainly HTN planning), supervised by Susanne Biundo. Besides HTN planning, his work is concerned with lifted planning, and with the combination of machine learning and planning.
+Daniel Höller has been a post-doctoral researcher in Jörg Hoffmann's Foundations of AI Group at Saarland University since 2020. Before that, he was at the Institute of Artificial Intelligence at Ulm University, where he did this PhD on hierarchical planning (mainly HTN planning), supervised by Susanne Biundo. His PhD thesis on hierarchical planning won the ICAPS Best Dissertation Award in 2024. Besides HTN planning, his work is concerned with lifted planning, and with the combination of machine learning and planning. 
 
 He is interested in many aspects of HTN planning like the expressivity of different formalisms, translations of related problems like plan and goal recognition and plan verification, and especially solving techniques. He has worked on grounding, heuristic plan space and progression search, translations to classical planning, and to propositional logic. He is a main developer of the planning systems PANDA, TOAD, and LiSAT. At the 2023 International Planning Competition, the winners of all 6 tracks on HTN planning have been based on PANDA, as well as 5 out of 6 runner-ups.
-
-His PhD thesis on hierarchical planning won the ICAPS Best Dissertation Award in 2024.
 </p>
 </div>
 </div>
