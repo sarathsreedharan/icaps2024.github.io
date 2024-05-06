@@ -4,7 +4,9 @@ date: 2024-05-02
 draft: false
 ---
 
-# Abstract
+# Tutorial 04 - Planning for Storytelling
+
+## Abstract
 
 In this tutorial we will demonstrate the role that planning, or planning-based representations, can play in narrative
 generation methods. The plan becomes the representation of the story and also that of the story world, and thus we use
@@ -13,7 +15,7 @@ techniques, including modern approaches that make use of Large Language Models (
 attendees to play with the technology themselves live.
 
 
-# About the authors
+## About the authors
 
 **Nisha Simon** is a PhD candidate at Queen’s University under the supervision of Prof. Christian Muise, and a Teaching
 Assistant with the School of Computing. Her interests are in researching structured learning from unstructured
@@ -51,11 +53,7 @@ educational and training systems and virtual environments.
 of research in automated planning. Most notably for this tutorial, Dr Haslum has a track record of automated story
 telling through the lens of automated planning, and continues to pursue avenues of research in this area.
 
-
----
-
-
-# Tutorial Structure and Auxiliary Materials (subject to change)
+## Tutorial Structure and Auxiliary Materials (subject to change)
 
 
 **In-person Presenters** : Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera
