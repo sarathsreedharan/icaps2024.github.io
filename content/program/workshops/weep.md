@@ -29,6 +29,16 @@ of the setbacks and will discuss their current findings and suspicions. We also 
 The idea is to allow the planning community to benefit from your experiences, let participants provide insightful comments and even identify specific issues, and foster collaborations among people potentially interested in the work.
 
 
+## List of Accepted Papers
+* **Can Soft Goals be Compiled Away More Efficiently?**  
+  Alberto Pozanco
+* **On an Attempt at Casting Orbit Search as a Task Transformation**  
+  Daniel Gnad and David Speck
+* **On the difficulties for the Evaluation of Learned Planning Models**  
+  Antonio Garrido and Alba Gragera
+* **PbFCEGAR: Pre-refined by Facts Counterexample-Guided Abstraction Refinement**  
+  Martín Pozo, Álvaro Torralba and Carlos Linares López
+
 
 
 ## Topics of Interest
@@ -75,11 +85,30 @@ Submissions will be done via [easychair](https://easychair.org/conferences/?conf
 - **Connor Little**, Queen's University
 - **Victoria Jane**, Queen's University
 
-## List of Accepted Papers
-TBA
-
 ## Invited Talk
-TBA
+<div style="width: 100%; margin: 0; padding: 3%;">
+<h3 style="color:orange;"><strong>Erez Karpas</strong></h3>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://karpase.net.technion.ac.il/files/2015/10/erez_karpas-239x300.jpg" />
+</div>
+<div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
+<div style="margin:0; padding: 0; padding-left: 2%">
+<p>
+
+### Looking for Serendipity – Where (Some) Research Questions Come From?
+Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.
+
+</p>
+
+</div>
+</div>
+<p>
+
+### Short Bio
+
+Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.
+</p>
+</div>
 
 ## Workshop Schedule
 TBA
