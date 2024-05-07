@@ -62,31 +62,18 @@ The organisers are investigating the availability of journal editors in order to
 
 ## Invited Talk
 
-<div style="width: 100%; margin: 0; padding: 3%;">
-<h3 style="color:orange;"><strong>Tiago Stegun Vaquero</strong></h3>
-<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg" />
-</div>
-<div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
-<div style="margin:0; padding: 0; padding-left: 2%">
-<p>
-Tiago S. Vaquero is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
+**Tiago Stegun Vaquero**
 
-Tiago holds a B.Sc., M.Sc., and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
+![Tiago Stegun Vaquero](https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg)
+
+Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
+
+Tiago holds a bachelor's, master's, and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
 
 Tiago works on multi-agent coordination methods for multi-rover cave exploration and for surface site characterization.
-</p>
-</div>
-</div>
-<hr/>
-[//]: # <div style="width: 100%; padding: 2%; margin: 0;">
-[//]: # <h6>TIAGO TITLE</h6>
-[//]: #<p>
-[//]: #ABSTRACT
-[//]: #</p>
-[//]: #</div>
-[//]: #</div>
-[//]: # (## Workshop Committee)
+
+*Title & Abstract coming soon!*
+
 
 ## Organizing Committee
 
@@ -105,47 +92,36 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 
 ## Program Committee
 
-Alessandro Umbrico, National Research Council of Italy CNR-ISTC, Italy\
+Alessandro Umbrico, National Research Council of Italy CNR-ISTC, Italy
 
-Arthur Bit-Monnot, LAAS/CNRS, France\
+Arthur Bit-Monnot, LAAS/CNRS, France
 
-Elisa Tosello, Fondazione Bruno Kessler - FBK, Italy\
+Elisa Tosello, Fondazione Bruno Kessler - FBK, Italy
 
-Erez Karpas, Technion, Israel\
+Erez Karpas, Technion, Israel
 
-Felix Ingrand, LAAS/CNRS, France\
+Felix Ingrand, LAAS/CNRS, France
 
-Jared Swift, King's College London, UK\
+Jared Swift, King's College London, UK
 
-Marco Roveri, University of Trento, Italy\
+Marco Roveri, University of Trento, Italy
 
-Masoumeh Mansouri, University of Birmingham, UK\
+Masoumeh Mansouri, University of Birmingham, UK
 
-Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany\
+Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Universitˆ degli studi di Napoli Federico II, Italy\
+Riccardo Caccavale, Universitˆ degli studi di Napoli Federico II, Italy
 
-Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy\
+Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Bart‡k, Charles University, Czech Republic\
+Roman Bart‡k, Charles University, Czech Republic
 
-Ron Petrick, Heriot-Watt University, UK\
+Ron Petrick, Heriot-Watt University, UK
 
-Ronen Brafman, Ben Gurion University, Israel\
+Ronen Brafman, Ben Gurion University, Israel
 
-Tim Niemueller, Intrinsic Innovation GmbH, Germany\
+Tim Niemueller, Intrinsic Innovation GmbH, Germany
 
-[//]: # (Tom Silver Massachusetts Institute of Technology, USA\)
-
-[//]: # (Mohan Sridharan University of Birmingham, UK\)
-
-[//]: # (Charlie Street University of Birmingham, UK\)
-
-[//]: # (Zlatan Ajanovic TU Delft, Netherlands\)
-
-[//]: # (Gerard Canal King's College London, UK\)
-
-[//]: # (Nick Hawes University of Oxford, UK\)
 
 ## List of Accepted Papers
 
