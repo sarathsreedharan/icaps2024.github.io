@@ -6,7 +6,7 @@
 				{
 					"logo": "/img/partners/aij.jpeg",
 					"height": "-1",
-					"width": "140",
+					"width": "200",
 					"link": "https://aij.ijcai.org"
 				}
 			]
@@ -31,6 +31,12 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://www.flyporter.com"
+				},
+				{
+					"logo": "/img/partners/levio.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://levioconsulting.com/menya/"
 				}
 			]
 		},
@@ -60,6 +66,12 @@
 					"height": "-1",
 					"width": "140",
 					"link": "https://filuta.ai"
+				},
+				{
+					"logo": "/img/partners/amazon.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.amazon.jobs/en/teams/amazon-robotics"
 				}
 			]
 		}
