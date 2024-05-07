@@ -176,16 +176,28 @@ The following previously published papers are presented in the program but were 
 
 Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 305.
 
-This is our *preliminary* schedule:
+*UPDATE!* We moved the invited talk to the afternoon session! This is our (still) *preliminary* schedule:
 
 - &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
-- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
+- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:00 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (5 talks)
+- &nbsp;&nbsp;9:00 -- 10:00 &nbsp; &nbsp; &nbsp;  poster session 1 (5 posters)
+- 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
+- 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (6 talks)
+- 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 2 (6 posters)
+- 12:00 -- 13:30 &nbsp; &nbsp; &nbsp;  *BREAK*
+- 13:30 -- 14:30 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
+- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  tba
+
+<!--
+- &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
+- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  
 - &nbsp;&nbsp;9:40 -- 10:00 &nbsp; &nbsp; &nbsp;  tba
 - 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
 - 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (6 talks)
 - 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 1 (6 posters)
 - 13:30 -- 13:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (5 talks)
 - 13:50 -- 15:00 &nbsp; &nbsp; &nbsp;  poster session 2 (5 posters)
+-->
 
 Please note that we expect that all posters will be available during both sessions (though isn't confirmed yet), but we only expect presenters to be available in those sessions in which the respective teaser talks were presented. Also note that we will present the list of which papers get presented in which session in time.
 
