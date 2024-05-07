@@ -95,16 +95,14 @@ We do allow and also explicitly encourage the submission of papers that at the t
 <div style="width: 100%; margin: 0; padding: 3%;">
 <h3 style="color:orange;"><strong>Daniel Höller</strong></h3>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan-invitedSpeaker-daniel-hoeller.jpg" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan-invitedSpeaker-daniel-hoeller-02.jpg" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
 <p>
-Daniel Höller has been a post-doctoral researcher in Jörg Hoffmann's Foundations of AI Group at Saarland University since 2020. Before that, he was at the Institute of Artificial Intelligence at Ulm University, where he did this PhD on hierarchical planning (mainly HTN planning), supervised by Susanne Biundo. Besides HTN planning, his work is concerned with lifted planning, and with the combination of machine learning and planning.
+Daniel Höller has been a post-doctoral researcher in Jörg Hoffmann's Foundations of AI Group at Saarland University since 2020. Before that, he was at the Institute of Artificial Intelligence at Ulm University, where he did this PhD on hierarchical planning (mainly HTN planning), supervised by Susanne Biundo. His PhD thesis on hierarchical planning won the ICAPS Best Dissertation Award in 2024. Besides HTN planning, his work is concerned with lifted planning, and with the combination of machine learning and planning. 
 
 He is interested in many aspects of HTN planning like the expressivity of different formalisms, translations of related problems like plan and goal recognition and plan verification, and especially solving techniques. He has worked on grounding, heuristic plan space and progression search, translations to classical planning, and to propositional logic. He is a main developer of the planning systems PANDA, TOAD, and LiSAT. At the 2023 International Planning Competition, the winners of all 6 tracks on HTN planning have been based on PANDA, as well as 5 out of 6 runner-ups.
-
-His PhD thesis on hierarchical planning won the ICAPS Best Dissertation Award in 2024.
 </p>
 </div>
 </div>
@@ -178,16 +176,28 @@ The following previously published papers are presented in the program but were 
 
 Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 305.
 
-This is our *preliminary* schedule:
+*UPDATE!* We moved the invited talk to the afternoon session! This is our (still) *preliminary* schedule:
 
 - &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
-- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
+- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:00 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (5 talks)
+- &nbsp;&nbsp;9:00 -- 10:00 &nbsp; &nbsp; &nbsp;  poster session 1 (5 posters)
+- 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
+- 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (6 talks)
+- 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 2 (6 posters)
+- 12:00 -- 13:30 &nbsp; &nbsp; &nbsp;  *BREAK*
+- 13:30 -- 14:30 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
+- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  tba
+
+<!--
+- &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
+- &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  
 - &nbsp;&nbsp;9:40 -- 10:00 &nbsp; &nbsp; &nbsp;  tba
 - 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
 - 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (6 talks)
 - 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 1 (6 posters)
 - 13:30 -- 13:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (5 talks)
 - 13:50 -- 15:00 &nbsp; &nbsp; &nbsp;  poster session 2 (5 posters)
+-->
 
 Please note that we expect that all posters will be available during both sessions (though isn't confirmed yet), but we only expect presenters to be available in those sessions in which the respective teaser talks were presented. Also note that we will present the list of which papers get presented in which session in time.
 
