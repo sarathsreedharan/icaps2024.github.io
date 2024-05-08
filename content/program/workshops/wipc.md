@@ -80,3 +80,20 @@ You can contact us at [wipc2024@googlegroups.com](mailto:wipc2024@googlegroups.c
  - [Joan Espasa](https://joanespasa.github.io/) is a Lecturer at the University of St Andrews, Scotland. He co-organized the Numeric Planning track at the IPC 2023.
 - [Ron Alford](https://volus.net/) is a research at The MITRE Corporation, USA. He co-organized the Hierarchical Planning track at the IPC 2023.
 - [Daniel Fišer](https://danfis.cz) is a postdoctoral researcher at Saarland University, Germany. He co-organized the Classical Planning track at the IPC 2023.
+
+
+# List of Accepted Papers
+- *MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds*
+by William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James
+- *Airlift Challenge: A Competition for Optimizing Cargo Delivery*
+by Adis Delanovic, Carmen Chiu, Andre Beckus
+- *Envisioning a Domain Learning Track for the IPC*
+by Gregor Behnke, Pascal Tobias Bercher
+- *Comparing Planners: Beyond Coverage Tables*
+by Caleb K Hill, Stephen Wissow, Wheeler Ruml
+- *Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL*
+by Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang
+- *Planning Domain Modelling Competition*
+by Simon Dold
+- *Online Submission and Evaluation System Design for Competition Operations*
+by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
