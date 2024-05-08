@@ -8,11 +8,11 @@ draft: false
 
 ICAPS'24 Workshop \
 Banff, Alberta, Canada \
-June 2-3, 2024
+**June 3, 2024 in Room KC 105**
 
 ## Aim and Scope of the Workshop
 
-AI Planning & Scheduling (P&S) methods are key to enabling intelligent robots to perform autonomous, flexible, and interactive behaviours. Researchers in the P&S community have continued to develop approaches and produce planners, representations, as well as heuristics that robotics researchers can make use of. However, there remain numerous challenges complicating the uptake, use and successful integration of P&S technology in robotics, many of which have been addressed by robotics researchers with novel solutions. Strong collaboration and synergy between researchers in both communities is vital to the continued growth of the fields in a way that provide mutual benefits to the two communities. To foster this, the PlanRob workshop aims to provide a stable, long-term forum (having been held annually at ICAPS since 2013) where researchers from both the P&S and Robotics communities can openly discuss relevant issues, research and development progress, future directions and open challenges related to P&S when applied to Robotics. In addition to the usual paper submissions, the workshop’s format naturally lends itself to preliminary results, position papers as well as to work focused on challenges in using and integrating planners in robotics systems.
+AI Planning & Scheduling (P&S) methods are key to enabling intelligent robots to perform autonomous, flexible, and interactive behaviours. Researchers in the P&S community have continued to develop approaches and produce planners, representations, as well as heuristics that robotics researchers can make use of. However, there remain numerous challenges complicating the uptake, use and successful integration of P&S technology in robotics, many of which have been addressed by robotics researchers with novel solutions. Strong collaboration and synergy between researchers in both communities is vital to the continued growth of the fields in a way that provide mutual benefits to the two communities. To foster this, the PlanRob workshop aims to provide a stable, long-term forum (having been held annually at ICAPS since 2013) where researchers from both the P&S and Robotics communities can openly discuss relevant issues, research and development progress, future directions and open challenges related to P&S when applied to Robotics. In addition to the usual paper submissions, the workshop's format naturally lends itself to preliminary results, position papers as well as to work focused on challenges in using and integrating planners in robotics systems.
 
 ## Topics of Interest
 
@@ -33,7 +33,6 @@ Topics of interest include (but are not limited to):
 - benchmark planning domains for robots,
 - adversarial action planning in competitive robot domains,
 - mixed-initiative planning and sliding autonomy for robotic systems.
-
 
 ## Important Dates
 
@@ -61,8 +60,20 @@ Accepted papers will be published on the workshop's website.
 
 The organisers are investigating the availability of journal editors in order to invite a selection of accepted papers from the workshop to a special issue or post-proceedings volume.
 
+## Invited Talk
 
-[//]: # (## Workshop Committee)
+**Tiago Stegun Vaquero**
+
+![Tiago Stegun Vaquero](https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg)
+
+Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
+
+Tiago holds a bachelor's, master's, and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
+
+Tiago works on multi-agent coordination methods for multi-rover cave exploration and for surface site characterization.
+
+*Title & Abstract coming soon!*
+
 
 ## Organizing Committee
 
@@ -71,7 +82,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Università di Napoli "Federico II", Italy \
+Universit� di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -79,45 +90,83 @@ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 <andrea.orlandini@istc.cnr.it>
 
 
-<!-- [//]: # (## Program Committee\)
+## Program Committee
 
-[//]: # (Zlatan Ajanovic TU Delft, Netherlands\)
+Alessandro Umbrico, National Research Council of Italy CNR-ISTC, Italy
 
-[//]: # (Roman Barták Charles University, Czech Republic\)
+Arthur Bit-Monnot, LAAS/CNRS, France
 
-[//]: # (Riccardo Caccavale Università degli studi di Napoli Federico II, Italy\)
+Elisa Tosello, Fondazione Bruno Kessler - FBK, Italy
 
-[//]: # (Gerard Canal King's College London, UK\)
+Erez Karpas, Technion, Israel
 
-[//]: # (Nick Hawes University of Oxford, UK\)
+Felix Ingrand, LAAS/CNRS, France
 
-[//]: # (Felix Ingrand LAAS/CNRS, France\)
+Jared Swift, King's College London, UK
 
-[//]: # (Erez Karpas Technion, Israel\)
+Marco Roveri, University of Trento, Italy
 
-[//]: # (Allessandro Umbrico National Research Council of Italy CNR-ISTC, Italy\)
+Masoumeh Mansouri, University of Birmingham, UK
 
-[//]: # (Oscar Lima German Research Center for Artificial Intelligence - DFKI, Germany\)
+Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-[//]: # (Tim Niemueller Intrinsic Innovation GmbH, Germany\)
+Riccardo Caccavale, Universit� degli studi di Napoli Federico II, Italy
 
-[//]: # (Ron Petrick Heriot-Watt University, UK\)
+Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-[//]: # (Tom Silver Massachusetts Institute of Technology, USA\)
+Roman Bart�k, Charles University, Czech Republic
 
-[//]: # (Mohan Sridharan University of Birmingham, UK\)
+Ron Petrick, Heriot-Watt University, UK
 
-[//]: # (Charlie Street University of Birmingham, UK\) -->
+Ronen Brafman, Ben Gurion University, Israel
 
-
+Tim Niemueller, Intrinsic Innovation GmbH, Germany
 
 
 ## List of Accepted Papers
 
-You can find them here in April...
+The workshop proceedings will be made available here once they are ready. 
+
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot�s Six Degrees of Freedom**
+
+Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
+
+Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study**
+
+Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**
+
+Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
+
+Andr�s Kov�cs and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
+
+Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
+
+David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules**
+
+Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement**
+
+Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications**
+
+Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs**
+
+
+
 
 ## Workshop Schedule
 
-TBD...
+Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 105. 
+
+The preliminary schedule is as follows:
+
+- 08:30 �- 08:40   Welcome
+- 08:40 �- 10:00   Session 1 (4 talks)
+- 10:00 �- 10:30   Coffee Break
+- 10:30 �- 12:00   Session 2 (5 talks)
+- 12:00 �- 13:30   Lunch Break
+- 13:30 �- 14:10   Session 3 (2 talks)
+- 14:10 �- 15:10   Invited talk and Discussion
+- 15:00 �- 15:30   Coffee Break
+- 15:30 �- 17:00   Joint Workshops' Panel Session (Location tbd)
+
 
 
