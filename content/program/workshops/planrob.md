@@ -82,7 +82,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Universitˆ di Napoli "Federico II", Italy \
+Universitï¿½ di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -110,11 +110,11 @@ Masoumeh Mansouri, University of Birmingham, UK
 
 Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Universitˆ degli studi di Napoli Federico II, Italy
+Riccardo Caccavale, Universitï¿½ degli studi di Napoli Federico II, Italy
 
 Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Bart‡k, Charles University, Czech Republic
+Roman Bartï¿½k, Charles University, Czech Republic
 
 Ron Petrick, Heriot-Watt University, UK
 
@@ -127,7 +127,7 @@ Tim Niemueller, Intrinsic Innovation GmbH, Germany
 
 The workshop proceedings will be made available here once they are ready. 
 
-Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobotÕs Six Degrees of Freedom**
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobotï¿½s Six Degrees of Freedom**
 
 Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
 
@@ -137,7 +137,7 @@ Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimi
 
 Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
 
-Andr‡s Kov‡cs and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
+Andrï¿½s Kovï¿½cs and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
 
 Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
 
@@ -158,15 +158,15 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 10
 
 The preliminary schedule is as follows:
 
-- 08:30 Ð- 08:40   Welcome
-- 08:40 Ð- 10:00   Session 1 (4 talks)
-- 10:00 Ð- 10:30   Coffee Break
-- 10:30 Ð- 12:00   Session 2 (5 talks)
-- 12:00 Ð- 13:30   Lunch Break
-- 13:30 Ð- 14:10   Session 3 (2 talks)
-- 14:10 Ð- 15:10   Invited talk and Discussion
-- 15:00 Ð- 15:30   Coffee Break
-- 15:30 Ð- 17:00   Joint Workshops' Panel Session (Location tbd)
+- 08:30 ï¿½- 08:40   Welcome
+- 08:40 ï¿½- 10:00   Session 1 (4 talks)
+- 10:00 ï¿½- 10:30   Coffee Break
+- 10:30 ï¿½- 12:00   Session 2 (5 talks)
+- 12:00 ï¿½- 13:30   Lunch Break
+- 13:30 ï¿½- 14:10   Session 3 (2 talks)
+- 14:10 ï¿½- 15:10   Invited talk and Discussion
+- 15:00 ï¿½- 15:30   Coffee Break
+- 15:30 ï¿½- 17:00   Joint Workshops' Panel Session (Location tbd)
 
 
 

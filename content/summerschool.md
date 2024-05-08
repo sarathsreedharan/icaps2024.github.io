@@ -6,6 +6,7 @@ draft: false
 
 <!--  How to test webpage locally? Execute "hugo server" in the root folder -->
 
+
 # The 12th ICAPS Summer School
 
 The Summer School on Automated Planning and Scheduling in 2024 will be the first in-person summer school since 2018 – *after six long years!*
@@ -30,22 +31,30 @@ ICKEPS is organized by [Lukáš Chrpa](https://sites.google.com/view/lukaschrpa/
 
 
 The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
-- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), Australian National University,  
-  gives a talk on *Hierarchical Task Network Planning: Algorithms & Theoretical Foundations*
+- [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), the Australian National University (ANU),  
+  **An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving**  
+  In this introductory tutorial, we explore the basics of HTN planning, designed to enable anybody without prior knowledge of this field to easily follow current research papers. Starting with a simplistic formalization of the problem -- as used in scientific papers -- we show how this relates to non-hierarchical (STRIPS) planning both in terms of computational complexity and a more fine-grained measure of expressivity, before providing a broad overview of useful extensions of the core formalism. We explain the most commonly known solution technique -- progression search -- but also provide pointers to others such as compilation techniques.
 - [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3), NASA,  
-  gives a talk on *The Distributed Spacecraft Autonomy (DSA) Project*
-- [Sarah Keren](https://sarahkeren.wixsite.com/sarahkeren-academics), Technion,  
-  gives a talk on *Introduction to integrated task and motion planning*
+  **The Distributed Spacecraft Autonomy (DSA) Project**  
+  Autonomous decision-making significantly increases mission effectiveness by mitigating the effects of communication constraints, like latency and bandwidth, and mission complexity on multi-spacecraft operations. To advance the state of the art in autonomous Distributed Space Systems (DSS), the Distributed Spacecraft Autonomy (DSA) team at NASA’s Ames Research Center is developing within five relevant technical areas: distributed resource and task management, reactive operations, system modeling and simulation, human- swarm interaction, and ad hoc network communications. DSA is maturing these technologies - critical for future large autonomous DSS - from concept to launch via simulation studies and orbital deployments. A 100-node heterogenous Processor-in-the-Loop (PiL) testbed aids distributed autonomy capability development and verification of multi-spacecraft missions. The DSA software payload deployed to the D-Orbit SCV-004 spacecraft demonstrates multi-agent reconfigurability and reliability as part of an ESA-sponsored in-orbit technology demonstration. Finally, DSA’s primary flight mission showcases collaborative resource allocation for multipoint science data collection with four small spacecraft as a payload on NASA’s Starling 1.0 satellites.
+- [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion,  
+  **Introduction to integrated task and motion planning**  
+  Integrated Task and Motion Planning (ITMP) is the problem of planning for robots that operate in complex environments and need to combine low-level motion planning in a continuous space with a high-level search in a discrete space for a sequence of actions that is predicted to accomplish their assigned task. With the increasing complexity of the tasks autonomous agents and robots are required to achieve in applications such as packing, personal assistance, and cooking, this dichotomous view becomes inefficient. Instead, there is a need for new ways for integrating task-level considerations when planning the robot’s movement, and for propagating motion-planning considerations into the task-level process. This is even more important in settings in which agents are required to share their environment and collaborate with other autonomous agents. I will introduce the rich and active field of integrated task and motion planning, present the key technical challenges that TMP entails, and highlight some of the state-of-the-art approaches towards addressing them. I will end my talk by overviewing some of the major open problems in the field and potential ways of addressing them. 
 - [Jane Jean Kiam](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam), Universität der Bundeswehr München,  
-  gives a talk on *Applications of Planning*
+  **Automated planning for airborne applications: feasibility and challenges**    
+  In this talk, we will delve into some of the examples of how automated planning can be used in aviation. The talk will first focus on our efforts in using automated task and motion planning for coordinating Unmanned Aerial Vehicles (UAVs). Two different types of UAV-related applications will be illustrated, one being the coordination of High-Altitude Pseudo Satellites (HAPS), a completely solar-powered unmanned platform operating in the stratosphere, the other being the deployment of multiple unmanned drones in rescue missions. Besides showcasing the progresses we made, challenges faced in these works will be analysed, together with some insights on our more recent attempts.
 - [Hanna Kurniawati](https://users.cecs.anu.edu.au/~hannakur/), Australian National University,  
-  gives a talk on *Planning under Uncertainty, RL and Task and Motion Planning*
+  **Planning under Uncertainty, RL and Task and Motion Planning**  
+  Uncertainty is ubiquitous. A robot or agent must decide what it should do now to accomplish its tasks, despite not knowing the exact effects of its actions, errors in sensors and sensing, and the lack of information and understanding about itself and its environment. However, the technology for making good decisions in the presence of uncertainty is still lacking. I will present a tutorial on decision-making under uncertainty. We’ll briefly cover decision-making when the effects of actions is uncertain framework, the Markov Decision Processes (MDPs). And, quickly progress to its expansion when the states are also only partially observable, namely the Partially Observable Markov Decision Processes (POMDPs). We will end with Reinforcement Learning. In these discussions, I will use motivating examples from decision-making problems in robotics.
 - [Wheeler Ruml](https://www.cs.unh.edu/~ruml/), University of New Hampshire,  
-  gives a talk on *Suboptimal search and motion planning*
+  **Suboptimal heuristic search and motion planning**  
+  Many interesting problems are too hard to solve optimally.  We'll talk about alternative problem settings in which optimality is sacrificed for lower search time, such as greedy search, bounded-suboptimal search, contract search, and real-time search.  When planning under time pressure, additional sources of heuristic information beyond cost-to-go become relevant, so there is lots of room for creativity here.  We'll also discuss motion planning, where we'll see how ideas from suboptimal graph search can be very useful in searching continuous spaces.
 - [Nathan Sturtevant](https://apps.ualberta.ca/directory/person/nathanst), University of Alberta,  
-  gives a talk on *Classical Planning and A**
+  **The Foundation of Best-First Search**  
+  This session will cover the foundations of best-first search algorithms, which are broadly used for planning, including A*, WA*, GBFS, and many others. We will cover the theoretical foundations of best-first search, and then use this foundation to introduce a variety of algorithms that tackle challenges that arise when solving practical problems. This includes things like the worst-case performance of A* and how it is fixed with BGS, suboptimal algorithms (focal search, WA* and variants such as XDP), as well as ideas like partial-expansion. The goal of this talk is to give a foundational knowledge of best-first search that can be used for designing new algorithms to handle novel applications with unique problem constraints.
 - [Brian C. Williams](https://groups.csail.mit.edu/mers/), MIT,  
-  gives a talk on *Risk-aware planning and scheduling*
+  **Risk-bounded Task and Motion Planning in the Real World**  
+  Robots need to know their limits, lest they recklessly endanger themselves and others. In this tutorial we present paradigms for designing task and motion planners that bound risk of failure, while spending acceptable risk to its greatest effect. Applications range from an autonomous car that maneuvers around reckless drivers to robot assembly and exploration of a deep-sea volcano.
 
 <!--
 - [student 1](URL?), Technion (undergrad student),  
@@ -54,18 +63,133 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   helps out with the lab sessions
 -->
 
+### Program
 
+<b>On Monday, the program starts at 9 am with a 30 minute opening session before the first talk.</b>
+
+Also, in the schedule below, all labs are organized and executed by Sarah Keren and our two Teaching Assistants (TAs) Guy Azran and Yuval Goshen.
+
+<!--Is there an easy way to make all cells centered without adding arguments to all the cells?-->
+<table>
+<!--
+    <tr>
+        <th></th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+    </tr>
+-->
+    <tr>
+        <td style="min-width: 150px;"></th>
+        <td style="min-width: 150px;"><b>Monday</b></th>
+        <td style="min-width: 150px;"><b>Tuesday</b></th>
+        <td style="min-width: 150px;"><b>Wednesday</b></th>
+        <td style="min-width: 150px;"><b>Thursday</b></th>
+        <td style="min-width: 150px;"><b>Friday</b></th>
+    </tr>
+    <tr>
+        <td><b>speaker</b></td>
+        <td style="background-color: #ffa500;">Nathan Sturtevant</td>
+        <td style="background-color: #ffa500;">Wheeler Ruml</td>
+        <td style="background-color: #ffa500;">Jane Jean Kiam</td>
+        <td style="background-color: #ffa500;">Brian C. Williams</td>
+        <td style="background-color: #ffa500;">Hanna Kurniawati</td>
+    </tr>
+    <tr>
+        <td><b>topic & time</b></td>
+        <td style="background-color: #ffa500;">The Foundation of<br>Best-First Search<br>(09:30-11:00)</td>
+        <td style="background-color: #ffa500;">Suboptimal Search and Motion Planning<br>(08:30-10:30)</td>
+        <td style="background-color: #ffa500;">Automated planning for airborne applications: feasibility and challenges<br>(09:00-10:30)</td>
+        <td style="background-color: #ffa500;">Risk-bounded Task and Motion Planning in the Real World<br>(08:30-10:30)</td>
+        <td style="background-color: #ffa500;">Planning under Uncertainty, RL and Task and Motion Planning<br>(09:00-10:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Coffee Break (time)</b></td>
+        <td>(11:00-11:30)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+        <td>(10:30-11:00)</td>
+    </tr>
+    <tr>
+        <td><b>speaker</b></td>
+        <td style="background-color: #ffa500;">Sarah Keren</td>
+        <td style="background-color: #ffa500;">Pascal Bercher</td>
+        <td style="background-color: #add8e6">Lukáš Chrpa, Ron Petrick, Mauro Vallati (organizers)</td>
+        <td style="background-color: #ffa500;">Jeremy Frank</td>
+        <td style="background-color: #ff0">Sarah Keren and TAs</td>
+    </tr>
+    <tr>
+        <td><b>topic & time</b></td>
+        <td style="background-color: #ffa500;">Introduction to Integrated Task and Motion Planning<br>(11:30-12:30)</td>
+        <td style="background-color: #ffa500;">An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving<br>(11:00-12:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(11:00-12:30)</td>
+        <td style="background-color: #ffa500;">The Distributed Spacecraft Autonomy (DSA) Project<br>(11:00-12:30)</td>
+        <td style="background-color: #ff0">Lab: Final session<br>(11:00-12:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Lunch (time)</b></td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+        <td>(12:30-13:30)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Break (time)</b></td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+        <td>(13:30-14:00)</td>
+    </tr>
+    <tr>
+        <td><b>Topic & time</b></td>
+        <td style="background-color: #ff0">Lab: Task Planning<br>(14:00-15:30)</td>
+        <td style="background-color: #ff0">Lab: Motion Planning<br>(14:00-15:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(14:00-15:30)</td>
+        <td style="background-color: #ff0">Lab: Task and motion planning<br>(14:00-15:30)</td>
+        <td>Panel - All speakers<br>(14:00-16:00)</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+        <td><b>Coffee Break (time)</b></td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+        <td>(15:30-16:00)</td>
+    </tr>
+    <tr>
+        <td><b>Topic & time</b></td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td style="background-color: #add8e6">ICKEPS<br>(16:00-17:30)</td>
+        <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
+        <td>Summer school wrap-up<br>(16:00-17:30)</td>
+    </tr>
+    <tr>
+        <td><b>Evening (time)</b></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Dinner<br>(18:00-19:30)</td>
+        <td></td>
+    </tr>
+</table>
+<br>
 
 ### Who can join? 
 
-The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible.
+The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible. We also do not exclude students who did not start their PhD yet, so encourage them to apply as well.
 
 As of now, we have 40 (in-person) spots for participants. We would have loved to make the event bigger, but given the circumstances, it doesn't look possible. But well, it is not all about numbers! It will be a small and tight-knit group! 
 
 
 ### Costs and Financial Aid
 
-We expect that registration fees will be around 950 CAD (subject to change). These do however include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are *not* part of the registration fees, so you will have to finance this on your own.
+The registration fees are 950 CAD. They include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are *not* part of the registration fees, so you will have to finance this on your own.
 
 We will provide a small number of financial aids, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). 
 
@@ -78,25 +202,23 @@ The registration fees include:
 - Dinner on Thursday (30 May).
 
 
-
-
 ### Important Dates & Application
 
-- Applications open:   tba (but very close after ICAPS notifications, i.e., after 12 February)
-- Applications close:  tba (but roughly two weeks after it opens)
-- Notifications sent:          tba (but roughly one week after closing date)
-- Summer school:               Monday, 27 May to Friday, 31 May 2024.
-
-Application data will be uploaded via easychair. Required documents will be published very soon. Link will be provided when applications open.
+- Applications open:   12 February
+- Applications close:  26 February
+- Notifications sent:  4 March
+- Summer school:       Monday, 27 May to Friday, 31 May 2024.
 
 Application data required:
-- Application form (to be provided soon).
+- Basic information to be provided in the [google document](https://docs.google.com/forms/d/e/1FAIpQLSetvlhWIMTFmrIYhpjSv53Nu6lE1xk4WD3WJT2-jNysQVlHcw/viewform?usp=sf_link).
 - A *light-weight* motivation letter describing the relevance of the Summer School and how you would benefit from it. It is perfectly fine if the topics covered are a bit further away from what you do in your research -- after all, it's about learning something new!
 - A CV.
-- A consent form by your supervisor, confirming the applicant's identity and consent to attend the summer school (to be provided soon).
+- Our [consent form by your supervisor](https://icaps24.icaps-conference.org/files/AdvisorForm.pdf), confirming the applicant's identity and consent to attend the summer school.
 - If you request financial aid, provide a letter of recommendation by your supervisor, which should also lay out the necessity for this aid.
 
-Please merge the documents in the order provided into one single PDF. You will then have to upload it to easychair (link will be provided once applications open).  Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
+Please merge the documents in the order provided into one single PDF. You will then have to upload it via [google forms](https://docs.google.com/forms/d/e/1FAIpQLSetvlhWIMTFmrIYhpjSv53Nu6lE1xk4WD3WJT2-jNysQVlHcw/viewform?usp=sf_link). Note that google forms strictly requires a google account because of the file upload. We apologize for this.
+
+Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
 
 
 ### Organizing Team
@@ -104,9 +226,8 @@ Please merge the documents in the order provided into one single PDF. You will t
 The organizing team, sorted alphabetically by last name, consists of:
 
 - Pascal Bercher from the Australian National University, Australia -- pascal.bercher at anu.edu.au, [webpage](https://comp.anu.edu.au/people/pascal-bercher/)
-- Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahkeren.wixsite.com/sarahkeren-academics)
+- Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahk.cs.technion.ac.il)
 - Jane Jean Kiam from University of the Bundeswehr Munich, Germany -- jane.kiam at unibw.de [webpage](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam)
-
 
 
 ## Sponsors
@@ -141,7 +262,7 @@ Here we will list all our sponsors that help(ed) making the summer school possib
 
 
 
-<!--  Additional information that we plan to add in the future:
+<!--  Additional information that we might want to add in the future:
 
 - Links to past summer schools, including the info whether tutorial recordings exist.
 - ???

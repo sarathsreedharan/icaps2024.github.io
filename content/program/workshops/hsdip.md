@@ -1,14 +1,14 @@
 ---
 title: "HSDIP"
-date: 2023-02-02T19:30:17+01:00
+date: 2024-01-31
 draft: false
 ---
 
-# Heuristics and Search for Domain-independent Planning (HSDIP 2023)
+# Heuristics and Search for Domain-Independent Planning (HSDIP 2024)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
-July 9-10, 2023
+ICAPS'24 Workshop \
+Banff, Canada \
+June 2-3, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -17,6 +17,40 @@ Heuristics and search algorithms are the two key components of heuristic search,
 The HSDIP workshop has always been welcoming of multidisciplinary work, for example, drawing inspiration from operations research (like row and column generation algorithms), convex optimization (like gradient optimization for hybrid planning), constraint programming, or satisfiability.
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
+
+## List of Accepted Papers
+* **The Bench Transition System and Stochastic Exploration**  
+  Dawson Tomasz, Richard A. Valenzano
+* **Crafting a Pogo Stick in Minecraft with Heuristic Search**  
+  Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
+* **A Lifted Backward Computation of hAdd**  
+  Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann
+* **Consolidating LAMA with Best-First Width Search**  
+  Augusto B. Corrêa, Jendrik Seipp
+* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning**  
+  Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
+* **Separate Generation and Evaluation for Parallel Greedy Best-First Search**  
+  Takumi Shimoda, Alex Fukunaga
+* **Cost Partitioning For Multiple Sequence Alignment**  
+  Mika Skjelnes, Daniel Gnad, Jendrik Seipp
+* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning**  
+  Clemens Büchner, Remo Christen, Salomé Eriksson, Thomas Keller
+* **Metareasoning Needs Distributions: Put Up or Shut Up Games**  
+  Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+* **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations**  
+  Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
+* **Reasonable Landmark Orderings for Lifted Classical Planning**  
+  Marcel Schubert, Julia Wichlacz, Daniel Höller
+* **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning**  
+  Alexander Shleyfman, Daniel Gnad, Eyal Weiss, Lee-or Alon
+* **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**  
+  Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
+* **Choosing a Classical Planner with Graph Neural Networks**  
+  Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
+* **Expected Runtime Comparisons Between Breadth-First Search and Constant-Depth Restarting Random Walks**  
+  Daniel Platnick, Richard A. Valenzano
+* **Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning**  
+  Martín Pozo, Carlos Linares Lopez, Alvaro Torralba
 
 ## Topics of Interest
 
@@ -34,95 +68,62 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-~~31 March 2023 (UTC-12 timezone)~~ April 7, 2023 (UTC-12 timezone)
+~~March 28~~ April 4, 2024 (UTC-12 timezone)
 
-**Open discussion:**  
-~~20-27 April 2023~~ April 27 - May 4, 2023
+**Author feedback period:**  
+~~April 15-21~~ April 22-24, 2024
 
 **Notification:**  
-May 5 2023
+April 26 2024
 
 **Workshop:**  
-July 9/10 2023
+June 2-3 2024
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit23.zip) and keep them to  at most 9 pages including references. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
+The workshop will adopt a **two-track submission system** to better distinguish papers previously published at other venues (with formal proceedings) and unpublished work. Previously published papers can be submitted non-anonymously in the exact same format in which it appeared before. For unpublished work, please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/authorkit24-3) and keep them to  at most 9 pages including references. The track should be indicated at submission time. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
-Submissions will be made through OpenReview:
-
-https://openreview.net/group?id=icaps-conference.org/ICAPS/2023/Workshop/HSDIP
+Submissions will be made through CMT: https://cmt3.research.microsoft.com/HSDIP2024/
 
 The following conditions apply:
 
 - Submissions will be double blind in general and single blind to the area chair.
-- The submitted papers, reviews and discussion between authors and reviewers will be public, and all anonymous.
-- Discussions between reviewers and organizers will be private.
+- Accepted papers will be published as PDFs on the workshop webpage.
+- Reviews and discussions between reviewers and organizers will be private.
 
-Every submission will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be a brief discussion phase where author and reviewers can interactively engage and discuss the submission and the reviews.
+Previously published papers are only assessed based on their relevance to the workshop by a member of the organizing committee and will not receive a full review. Unpublished work will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be an opportunity for a rebuttal where authors can clarify questions of the reviewers.
 
 At least one author of each accepted paper must attend the workshop in order to present the paper.
 
-### Policy on Previously Published Materials
+### Policy on Previously Published Materials and Papers under Review
 
-Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference.
+Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference, and we aim to have the workshop submission deadline after SoCS notification.
 
 ## Workshop Committee
 
 ### Organizing Committee
 
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Clemens Büchner**, University of Basel, Switzerland  
+**Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Thorsten Klößner**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA
+**Sofia Lemons**, 2U, Maryland, USA
 
-Contact: <hsdip@googlegroups.com>
+Contact: <hsdip@googlegroups.com>  
 
 ### Program Committee
 
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Clemens Büchner**, University of Basel, Switzerland  
-**Rebecca Eifler**, Saarland University, Germany  
+**Remo Christen**, University of Basel, Switzerland  
+**Simon Dold**, University of Basel, Switzerland  
 **Salomé Eriksson**, University of Basel, Switzerland  
-**Daniel Fišer**, Saarland University, Germany  
+**Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Michael Katz**, IBM T.J. Watson Research Center, USA  
 **Thorsten Klößner**, Saarland University, Germany  
 **Pascal Lauer**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA  
+**Sofia Lemons**, 2U, Maryland, USA  
+**Florian Pommerening**, University of Basel, Switzerland  
 **David Speck**, Linköping University, Sweden  
-**Marcel Steinmetz**, Saarland University, Germany  
-**Silvan Sievers**, University of Basel, Switzerland  
-
-## List of Accepted Papers
-* **On Reducing Action Labels in Planning Domains**  
-  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
-* **Novelty and Lifted Helpful Actions in Generalized Planning**  
-  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
-* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
-  Stephen Wissow, Masataro Asai
-* **K\* and Partial Order Reduction for Top-quality Planning**  
-  Michael Katz, Junkyu Lee
-* **Any-Start-Time Planning for SIPP**  
-  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
-* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
-  Oriel Uzan, Guy Shani
-* **K\* Search Over Orbit Space for Top-k Planning**  
-  Michael Katz, Junkyu Lee
-* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
-  Alice Petrov, Christian Muise
-* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
-  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
-* **Action Schema Networks for Numerical Planning**  
-  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
-* **Triangle Search: An Anytime Beam Search**  
-  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
-* **On K\* Search for Top-k Planning**  
-  Junkyu Lee, Michael Katz, Shirin Sohrabi
-  
-## Workshop Schedule
-
-We are not ready to communicate a schedule yet.
-
-### Invited Talk
-We are excited to announce **Álvaro Torralba** as invited speaker.
+**Alvaro Torralba**, Aalborg University, Denmark  
 

@@ -1,15 +1,15 @@
 ---
 title: "KEPS"
-date: 2023-02-01T14:30:17+01:00
+date: 2024-02-02T14:30:17+01:00
 draft: false
 ---
 
 
-# Knowledge Engineering for Planning and Scheduling (KEPS 2023)
+# Knowledge Engineering for Planning and Scheduling (KEPS 2024)
 
-2023 Workshop on Knowledge Engineering for Planning and Scheduling \
-Prague, Czech Republic \
-July 9-10, 2023
+2024 Workshop on Knowledge Engineering for Planning and Scheduling \
+Banff, Canada \
+June 2-3, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -40,17 +40,17 @@ We seek original papers ranging from experience reports to the description of ne
 
 ## Important Dates
 
-- Paper submission deadline: March 31, 2023 (UTC-12 time zone)
-- Notification: April 25, 2023
-- Camera-ready paper submission: May 20, 2023
+-	Paper submission deadline: March 28, 2024 (UTC-12 time zone)
+-	Notification: April 28, 2024
+-	Camera-ready paper submission: May 10, 2024
 
 The reference timezone for all deadlines is UTC-12. That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
 
 ## Submission Details
 
-Two types of papers can be submitted. Full technical papers with the length up to 8 pages + 1 for references, are standard research papers. Short papers with the length between 2 and 4 pages (+1 for references) describe either a particular application or focus on open challenges. All papers must be submitted in a PDF format and must conform to the [AAAI author kit instructions for formatting](https://www.aaai.org/Publications/Templates/AuthorKit23.zip). 
+Two types of papers can be submitted. Full technical papers with the length up to 8 pages + 1 for references, are standard research papers. Short papers with the length between 2 and 4 pages (+1 for references) describe either a particular application or focus on open challenges. All papers must be submitted in a PDF format and must conform to the [ICAPS 2024 author kit instructions for formatting](https://icaps24.icaps-conference.org/calls/main_track/). 
 
-[The submission will be done via EasyChair](https://easychair.org/conferences/?conf=keps23)
+[The submission will be done via EasyChair](https://easychair.org/conferences/?conf=keps24)
 
 ### Policy on Previously Published Materials
 
@@ -75,14 +75,17 @@ TBD
 
 ## Program Committee
 
+- Luigi Bonassi, Università degli Studi di Brescia
 - Sandra Castellanos, Grenoble Computer Science Laboratory, Université Grenoble Alpes
 - Matteo Cardellini, Università degli Studi di Genova
 - Francesco Percassi, University of Huddersfield
-- Luigi Bonassi, Università degli Studi di Brescia
+- Jeremy Frank, NASA
+- Sergio Jimenez Celorrio, Universitat Politècnica de València
 - Andrea Orlandini, CNR
-- Lee Mccluskey, University of Huddersfield
+- Lee McCluskey, University of Huddersfield
 - Susana Fernandez, Universidad Carlos III de Madrid
 - Simon Parkinson, University of Huddersfield
+- David Smith, 
 - Eva Onaindia, Universitat Politècnica de València
 - Alan Lindsay, Heriot-Watt University
 - Roman Barták, Charles University

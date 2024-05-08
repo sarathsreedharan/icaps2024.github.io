@@ -5,7 +5,7 @@ draft: false
 ---
 # Tutorial Program Overview
 
-Here is the list of the tutorials accepted to ICAPS 2023
+Here is the list of the tutorials accepted to ICAPS 2024
 
 
 
@@ -22,46 +22,48 @@ Here is the list of the tutorials accepted to ICAPS 2023
  
   <div style="width: 95%; padding: 2%; text-align: center; vertical-align: middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/hard" target="_blank">How hard can it be? The computational complexity of planning</a></p>
+ 		<p><a href="/program/tutorials/2024_t01_aiopt_scheduling" target="_blank">T01 -AI Techniques for Solving Scheduling Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p>Nicola Gigante</p>
+ 		<p>Nysret Musliu, Lucas Kletzander and Florian Mischek</p>
  	</div>
  </div>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/mdp_modeling" target="_blank">Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym</a></p>
+ 		<p><a href="/program/tutorials/2024_t02_finding_multiple_plans" target="_blank">T02 - Finding Multiple Plans for Classical Planning Problems</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p>Scott Scanner, Ayal Taitler</p>
+ 		<p>Shirin Sohrabi, Michael Katz, Junkyu Lee, David Speck</p>
  	</div>
  </div>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/tnetworks" target="_blank">Recent Advances in Temporal Networks for Planning and Scheduling</a></p>
+ 		<p><a href="/program/tutorials/2024_t03_scikit_decide" target="_blank">T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for
+Planning, Scheduling and Reinforcement Learning</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p>Luke Hunsberger</p>
+ 		<p>Florent Teichtel-K&#246;ningsbuch, Alexandre Arnold, Guillaume Pov&#233;da and Sylvie Thi&#233;baux</p>
  	</div>
  </div>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/model" target="_blank">Model Acquisition in the Modern Era</a></p>
+ 		<p><a href="/program/tutorials/2024_t04_storytelling" target="_blank">T04 - Planning for Storytelling</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p>Christian Muise, Tathagata Chakraborti</p>
+ 		<p>Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera, Arnav Jhala, Julie Porteous, R. Michael Young and Patrik Haslum</p>
  	</div>
  </div>
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/up" target="_blank">Unified Planning: A Python Library Making Planning Technology Accessible</a></p>
+ 		<p><a href="/program/tutorials/2024_t05_rl_coach" target="_blank">T05 - Orchestrating autonomous agents: Reinforcement Learning
+To Hierarchical Planning with COACH</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p>Andrea Micheli, Arthur Bit-Monnot, Gabriele Röger, Sebastian Stock</p>
+ 		<p>Nathan Bade</p>
  	</div>
  </div>
 
