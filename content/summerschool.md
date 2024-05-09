@@ -229,6 +229,11 @@ The organizing team, sorted alphabetically by last name, consists of:
 - Sarah Keren from Technion, Israel -- sarahk at technion.ac.il, [webpage](https://sarahk.cs.technion.ac.il)
 - Jane Jean Kiam from University of the Bundeswehr Munich, Germany -- jane.kiam at unibw.de [webpage](https://www.unibw.de/home-en/appointment-of-professors/prof-jane-jean-kiam)
 
+In putting together the program, Sarah has been supported by our two teaching assistants:
+
+- Guy Azran from Technion, Israel
+- Yuval Goshen from Technion, Israel
+
 
 ## Sponsors
 
