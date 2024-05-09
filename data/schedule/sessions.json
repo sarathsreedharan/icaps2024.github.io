@@ -1,0 +1,188 @@
+[
+    {
+        "date": "2024-06-04",
+        "name": "Tuesday, June 4, 2024",
+        "slots": [
+            {
+                "label": "slot-1-1",
+                "name": "Session 1",
+                "duration": 90,
+                "start": "10:00",
+                "end": "11:30",
+                "sessions": [
+                    {
+                        "name": "RL",
+                        "label": "sess-rl",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Heuristics",
+                        "label": "sess-heur",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            },
+            {
+                "label": "slot-1-2",
+                "name": "Session 2",
+                "duration": 90,
+                "start": "13:00",
+                "end": "14:30",
+                "sessions": [
+                    {
+                        "name": "LLMs and Neural Action Policies",
+                        "label": "sess-llm",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Theory",
+                        "label": "sess-theory",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            },
+            {
+                "label": "slot-1-3",
+                "name": "Session 3",
+                "duration": 90,
+                "start": "15:00",
+                "end": "16:30",
+                "sessions": [
+                    {
+                        "name": "Planning and Learning",
+                        "label": "sess-pal",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Temporal Planning",
+                        "label": "sess-temporal",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-06-05",
+        "name": "Wednesday, June 5, 2024",
+        "slots": [
+            {
+                "label": "slot-2-1",
+                "name": "Session 1",
+                "duration": 90,
+                "start": "10:00",
+                "end": "11:30",
+                "sessions": [
+                    {
+                        "name": "Search and Uncertainty",
+                        "label": "sess-search",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "MAPF",
+                        "label": "sess-mapf",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            },
+            {
+                "label": "slot-2-2",
+                "name": "Session 2",
+                "duration": 90,
+                "start": "13:00",
+                "end": "14:30",
+                "sessions": [
+                    {
+                        "name": "Planning Under Uncertainty",
+                        "label": "sess-puu",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Robotics",
+                        "label": "sess-robotics",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            },
+            {
+                "label": "slot-2-3",
+                "name": "Session 3",
+                "duration": 60,
+                "start": "15:00",
+                "end": "16:00",
+                "sessions": [
+                    {
+                        "name": "Robots and Space",
+                        "label": "sess-space",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Explainability",
+                        "label": "sess-explain",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-06-06",
+        "name": "Thursday, June 6, 2024",
+        "slots": [
+            {
+                "label": "slot-3-1",
+                "name": "Session 1",
+                "duration": 60,
+                "start": "10:00",
+                "end": "11:00",
+                "sessions": [
+                    {
+                        "name": "Knowledge Engineering",
+                        "label": "sess-ke",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Scheduling",
+                        "label": "sess-scheduling",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            },
+            {
+                "label": "slot-3-2",
+                "name": "Session 2",
+                "duration": 60,
+                "start": "11:00",
+                "end": "12:00",
+                "sessions": [
+                    {
+                        "name": "Applications",
+                        "label": "sess-applications",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    },
+                    {
+                        "name": "Hybrid and Numeric Planning",
+                        "label": "sess-hybrid",
+                        "location": "TBD",
+                        "chair": "TBD"
+                    }
+                ]
+            }
+        ]
+    }
+]
