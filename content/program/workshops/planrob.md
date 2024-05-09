@@ -48,11 +48,12 @@ Tiago works on multi-agent coordination methods for multi-rover cave exploration
 
 *Title & Abstract coming soon!*
 
+
 ## List of Accepted Papers
 
 The workshop proceedings will be made available here once they are ready. 
 
-Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot’s Six Degrees of Freedom**
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobotÔøΩs Six Degrees of Freedom**
 
 Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
 
@@ -62,7 +63,7 @@ Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimi
 
 Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
 
-András Kovács and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
+Andr√°s Kov√°cs and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
 
 Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
 
@@ -91,7 +92,7 @@ The preliminary schedule is as follows:
 - 11:20 - 11:40   Learning Quadruped Locomotion Policies using Logical Rules
 - 11:40 - 12:00   Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement
 - 12:00 - 13:30   *Lunch Break*
-- 13:30 - 13:50   Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot’s Six Degrees of Freedom
+- 13:30 - 13:50   Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom
 - 13:50 - 14:10   Measuring Guidance for the Motion Planning Decision Problem
 - 14:10 - 14:30   Search-based versus Sampling-based Robot Motion Planning: A Comparative Study
 - 14:30 - 14:50   A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications
@@ -135,7 +136,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Università di Napoli "Federico II", Italy \
+Universit√† di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -163,18 +164,17 @@ Masoumeh Mansouri, University of Birmingham, UK
 
 Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Università degli studi di Napoli Federico II, Italy
+Riccardo Caccavale, Universit√† degli studi di Napoli Federico II, Italy
 
 Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Barták, Charles University, Czech Republic
+Roman Bart√°k, Charles University, Czech Republic
 
 Ron Petrick, Heriot-Watt University, UK
 
 Ronen Brafman, Ben Gurion University, Israel
 
 Tim Niemueller, Intrinsic Innovation GmbH, Germany
-
 
 
 

@@ -70,9 +70,11 @@ If all applications cannot be supported, selection will be based on the above ma
 ## Important Dates for the Mentoring Program
 
 - Submission website opens: January 30, 2024 
-- Submission deadline: February 19, 2024
-- Notification date: Early March 2024
+- Submission deadline: ~~February 19, 2024~~ March 1, 2024
+- Notification date: March 2024
 - Doctoral Consortium: June 1, 2024
+
+\* Students who require an early decision due to visa application are encouraged to reach out to the DC chairs by email (dc@icaps2024.com) after submitting their application.
 
 ## Student Support
 
@@ -84,5 +86,5 @@ We are looking into ways to provide student support partly covering travel and/o
 For any questions or concerns, please contact the DC chairs:
 
 
-- Eldan Cohen, eldan.cohen[at]utoronot[dot]ca
+- Eldan Cohen, eldan.cohen[at]utoronto[dot]ca
 - Sandhya Saisubramanian, sandhya.sai[at]oregonstate[dot]edu

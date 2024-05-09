@@ -1,23 +1,12 @@
 {
 	"levels": [
 		{
-			"rank": "Platinum Partners",
-			"list": [
-				{
-					"logo": "/img/partners/nsf.jpeg",
-					"height": "-1",
-					"width": "140",
-					"link": "https://www.nsf.gov"
-				}
-			]
-		},
-		{
 			"rank": "Gold Partners",
 			"list": [
 				{
 					"logo": "/img/partners/aij.jpeg",
 					"height": "-1",
-					"width": "140",
+					"width": "200",
 					"link": "https://aij.ijcai.org"
 				}
 			]
@@ -25,18 +14,6 @@
 		{
 			"rank": "Silver Partners",
 			"list": [
-				{
-					"logo": "/img/partners/filuta-logo-symbol.svg",
-					"height": "-1",
-					"width": "140",
-					"link": "https://filuta.ai"
-				},
-				{
-					"logo": "/img/partners/alicetechnologies.jpg",
-					"height": "-1",
-					"width": "140",
-					"link": "http://www.alicetechnologies.com"
-				},
 				{
 					"logo": "/img/partners/jpmorgan.png",
 					"height": "150",
@@ -48,6 +25,18 @@
 					"height": "-1",
 					"width": "140",
 					"link": "http://psresearch.xyz"
+				},
+				{
+					"logo": "/img/partners/porter.jpg",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.flyporter.com"
+				},
+				{
+					"logo": "/img/partners/levio.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://levioconsulting.com/menya/"
 				}
 			]
 		},
@@ -61,28 +50,28 @@
 					"link": "https://sift.net"
 				},
 				{
-					"logo": "/img/partners/RSJ_logo.png",
-					"height": "-1",
-					"width": "200",
-					"link": "https://rsj.com/en"
-				},
-				{
-					"logo": "/img/partners/sony.png",
-					"height": "-1",
-					"width": "200",
-					"link": "https://ai.sony"
-				},
-				{
-					"logo": "/img/partners/googlelogo_color_416x140dp.png",
-					"height": "-1",
-					"width": "200",
-					"link": "https://research.google/"
-				},
-				{
 					"logo": "/img/partners/IBM_60_RGB.gif",
 					"height": "-1",
 					"width": "200",
 					"link": "https://research.ibm.com/"
+				},
+				{
+					"logo": "/img/partners/slb.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.slb.com/"
+				},
+				{
+					"logo": "/img/partners/filuta-logo-symbol.svg",
+					"height": "-1",
+					"width": "140",
+					"link": "https://filuta.ai"
+				},
+				{
+					"logo": "/img/partners/amazon.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.amazon.jobs/en/teams/amazon-robotics"
 				}
 			]
 		}
