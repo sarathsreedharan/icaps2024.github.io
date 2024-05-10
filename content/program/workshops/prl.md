@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'24 Workshop \
 Banff, Alberta, Canada  \
-Date: June 2, 2024 \
+Date: June 2, 2024 
 
 
 ## Aim and Scope of the Workshop
