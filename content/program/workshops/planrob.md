@@ -34,12 +34,80 @@ Topics of interest include (but are not limited to):
 - adversarial action planning in competitive robot domains,
 - mixed-initiative planning and sliding autonomy for robotic systems.
 
+## Invited Talk
+
+**Tiago Stegun Vaquero**
+
+![Tiago Stegun Vaquero](https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg)
+
+Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
+
+Tiago holds a bachelor's, master's, and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
+
+Tiago works on multi-agent coordination methods for multi-rover cave exploration and for surface site characterization.
+
+*Title & Abstract coming soon!*
+
+
+## List of Accepted Papers
+
+The workshop proceedings will be made available here once they are ready. 
+
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot�s Six Degrees of Freedom**
+
+Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
+
+Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study**
+
+Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**
+
+Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
+
+András Kovács and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
+
+Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
+
+David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules**
+
+Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement**
+
+Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications**
+
+Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs**
+
+
+## Workshop Schedule
+
+Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 105. 
+
+The preliminary schedule is as follows:
+
+- 08:30 - 08:40   Welcome
+- 08:40 - 09:40   Invited talk
+- 09:40 - 10:00   Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting
+- 10:00 - 10:30   *Coffee Break*
+- 10:30 - 10:50   PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains
+- 10:50 - 11:00   Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees (short paper)
+- 11:00 - 11:20   Value of Assistance for Grasping
+- 11:20 - 11:40   Learning Quadruped Locomotion Policies using Logical Rules
+- 11:40 - 12:00   Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement
+- 12:00 - 13:30   *Lunch Break*
+- 13:30 - 13:50   Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom
+- 13:50 - 14:10   Measuring Guidance for the Motion Planning Decision Problem
+- 14:10 - 14:30   Search-based versus Sampling-based Robot Motion Planning: A Comparative Study
+- 14:30 - 14:50   A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications
+- 14:50 - 15:10   Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs
+- 15:10 - 15:15   Discussion
+- 15:00 - 15:30   *Coffee Break*
+- 15:30 - 17:00   Joint Workshops' Panel Session (Location tbd)
+
+
 ## Important Dates
 
 - Paper submission: ~~March 25, 2024 UTC-12~~  **April 3rd, 2024 UTC-12** 
 - Notification of acceptance: Friday, 26 April 2024
 - Camera-ready version due: Friday 24 May 2024 (AoE)
-- Workshop Date: June 2-3, 2024
+- Workshop Date: June 3, 2024
 
 The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still any place on Earth where the deadline has not yet passed.
 
@@ -60,20 +128,6 @@ Accepted papers will be published on the workshop's website.
 
 The organisers are investigating the availability of journal editors in order to invite a selection of accepted papers from the workshop to a special issue or post-proceedings volume.
 
-## Invited Talk
-
-**Tiago Stegun Vaquero**
-
-![Tiago Stegun Vaquero](https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg)
-
-Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
-
-Tiago holds a bachelor's, master's, and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
-
-Tiago works on multi-agent coordination methods for multi-rover cave exploration and for surface site characterization.
-
-*Title & Abstract coming soon!*
-
 
 ## Organizing Committee
 
@@ -82,7 +136,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Universit� di Napoli "Federico II", Italy \
+Università di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -110,63 +164,17 @@ Masoumeh Mansouri, University of Birmingham, UK
 
 Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Universit� degli studi di Napoli Federico II, Italy
+Riccardo Caccavale, Università degli studi di Napoli Federico II, Italy
 
 Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Bart�k, Charles University, Czech Republic
+Roman Barták, Charles University, Czech Republic
 
 Ron Petrick, Heriot-Watt University, UK
 
 Ronen Brafman, Ben Gurion University, Israel
 
 Tim Niemueller, Intrinsic Innovation GmbH, Germany
-
-
-## List of Accepted Papers
-
-The workshop proceedings will be made available here once they are ready. 
-
-Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot�s Six Degrees of Freedom**
-
-Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
-
-Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study**
-
-Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**
-
-Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
-
-Andr�s Kov�cs and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
-
-Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
-
-David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules**
-
-Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement**
-
-Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications**
-
-Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs**
-
-
-
-
-## Workshop Schedule
-
-Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 105. 
-
-The preliminary schedule is as follows:
-
-- 08:30 �- 08:40   Welcome
-- 08:40 �- 10:00   Session 1 (4 talks)
-- 10:00 �- 10:30   Coffee Break
-- 10:30 �- 12:00   Session 2 (5 talks)
-- 12:00 �- 13:30   Lunch Break
-- 13:30 �- 14:10   Session 3 (2 talks)
-- 14:10 �- 15:10   Invited talk and Discussion
-- 15:00 �- 15:30   Coffee Break
-- 15:30 �- 17:00   Joint Workshops' Panel Session (Location tbd)
 
 
 

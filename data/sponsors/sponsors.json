@@ -37,6 +37,12 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://levioconsulting.com/menya/"
+				},
+				{
+					"logo": "/img/partners/amii.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.amii.ca/"
 				}
 			]
 		},
@@ -71,7 +77,7 @@
 					"logo": "/img/partners/amazon.png",
 					"height": "-1",
 					"width": "200",
-					"link": "https://www.amazon.jobs/en/teams/amazon-robotics"
+					"link": "https://www.amazon.science/"
 				}
 			]
 		}

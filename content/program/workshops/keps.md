@@ -64,7 +64,56 @@ TBD
 
 ## Workshop Schedule
 
-TBD
+KEPS is scheduled on the 2nd of June 2024. 
+
+---
+[08:30 - 10:00] - **Opening Remarks and Session 1**
+- "Shall You Use that PDDL+ Language Feature? An Empirical Analysis on a Real-world Case Study", Anas El Kouaiti, Francesco Percassi, Alessandro Saetti and Mauro Vallati
+- "Traversing the Linguistic Divide: Aligning Semantically Equivalent Fluents Through Model Refinement", Kelsey Sikes, Morgan Fine-Morris, Sarath Sreedharan and Mark Roberts
+- "Action-Failure Resilient Planning", Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala and Ivan Serina
+- "Specifying State Abstractions and Representation Mappings", Ronen Brafman and Or Wertheim
+- "Action Inheritance Within the Unified Planning Framework", Alan Lindsay and Ron Petrick
+- "Nyx: Planning for Emerging Problems with PDDL+ and Beyond", Wiktor Piotrowski, Alexandre Perez and Sachin Grover
+
+---
+[10:00 - 10:30] - Coffee Break (get your caffeine shot)
+
+---
+[10:30 - 12:00] - **Session 2**
+- "Learning Visual Planning Models from Partially Observed Images", Zhanhao Xiao, Kebing Jin, Hankui Hankz Zhuo, Hai Wan and Jiaran Cai
+- "Using Large Language Models to Extract Planning Knowledge from Common Vulnerabilities and Exposures", Tim Oates, Ron Alford, Shawn Johnson and Cory Hall
+- "Enhancing Numeric-SAM for Learning with Few Observations", Argaman Mordoch, Shahaf Shperberg, Roni Stern and Brendan Juba
+- "Domain Design for the Cops and Robbers Problem", Connor Little and Christian Muise
+- "Supporting Human-Aware Mission Specification and Explainable Planning for Underwater Vehicles", Alan Lindsay, Andrés Ramírez-Duque, Bart Craenen, Andrea Munafò, Laurence Boé, Adam Campbell and Ron Petrick
+- "The Gateway Vehicle Systems Manager Planner", Michael Whitzer, Anthony Koutroulis, Hemanth Koralla, Christopher Knight, Chuck Fry, Jeremy Frank, J. Benton, Minh Do, Laura Barron and Abiola Akanni
+
+---
+[12:00 - 13:30] - Lunch
+
+---
+[13:30 - 15:00] - **Session 3**
+- "Lessons Learned from a Schedule Optimization Tool for Prototype Vehicle Testing", Jeremy Ludwig, Annaka Kalton, Robert Richards, Brian Bautsch and Luke Walker
+- "Multi-Floor Warehouse Planning", Samuel Krivánek, Hana Rudová, Václav Sobotka
+- "Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)", Richard Levinson, Jeffrey Brink and Jeremy Frank
+- "End-to-End Trip to Driver Dispatchment Timing of Scheduled Delivery: A General Decision-Making System for Crowdsourced Delivery Platforms", Tao Cao, Soumita Saha, Ankit Dhokariya, Weihang Ren, Minghui Liu, Yuan Wang, Sherry Lijie Wan, Jing Huang, Mingang Fu, Prakhar Mehrotra and Chittaranjan Tripathy
+- "On Automating Video Game Regression Testing by Planning and Learning", Tomas Balyo, G. Michael Youngblood, Filip Dvorak, Lukáš Chrpa and Roman Barták
+- "Towards Personalized Medication Planning", Lee-Or Alon, Hana Weitman, Alexander Shleyfman and Gal Kaminka
+
+---
+[15:00 - 15:30] - Coffee Break
+
+---
+[15:30 - 17:00] - **Invited Talk, Steve Chien: Knowledge Engineering for AI on Mars: A Case study of the Mars 2020 Onboard Planner**
+
+The Mars 2020 mission has developed and deployed an onboard planner (OBP) capability to enable the Perseverance rover to operate more efficiently. OBP enables the rover to reschedule activities in response to changes in environmental conditions (such as Mars being warmer than expected, or rover energy/State of charge being higher than expected) as well as execution variations (e.g. activities taking longer or shorter than expected or failing).
+ 
+Deploying model-based AI software to control a multi-billion dollar asset on Mars is no small feat.  We describe the multi-pronged approach to ensure that not only the deployed software and models are of the highest quality but also that the distributed and diverse operations team was best prepared to operate in this new paradigm.  We describe the use of formal and informal methods in the design and build process of the OBP.  We describe the ground testing campaign as well as tests “on vehicle” on Mars.  We then describe the preparation of the operations flow and operations teams including science interactions, table tops, operations readiness tests, and flight school.  Throughout this process, we discuss the immense amount of knowledge required to operate the Perseverance Rover with the OBP, with the OBP model being a small fraction of this total required knowledge.  We conclude with a few statements on how OBP operations has gone since its rollout in October 2023.
+
+**Steve Chien** 
+Dr. Steve Chien (ai.jpl.nasa.gov) is a JPL Fellow, Senior Research Scientist, and (Co-) Head of the Artificial Intelligence Group, at the Jet Propulsion Laboratory, California Institute of Technology.  He has led the deployment of AI software to a wide range of missions including: Autonomous Sciencecraft on EO-1, Earth Observing Sensorweb, WATCH on MER, IPEX, ESA’s Rosetta Orbiter, ECOSTRESS, OCO-3, and the M2020 Perseverance Rover. 
+Dr. Chien has received numerous awards for these efforts.  He has been recognized four times in the NASA Software of the Year competition (1999, 1999, 2005, and 2011).  He has received four NASA Medals for his work in AI for Space (1997, 2000, 2007, 2015).  In 2011 He was awarded the inaugural AIAA Intelligent Systems Award, for his contributions to Spacecraft Autonomy.
+Dr. Chien has supported the Office of the Undersecretary of Defense for Research and Engineering, Defense Science Board, and Air Force Scientific Advisory Board.  From 2018-2021, Dr. Chien served as a congressionally appointed member of the National Security Commission on Artificial Intelligence.  Dr. Chien is currently a member of the Army Science Board.
+
 
 ## Organising Committee
 
