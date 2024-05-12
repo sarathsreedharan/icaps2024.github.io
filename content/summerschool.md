@@ -167,7 +167,7 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
         <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
         <td style="background-color: #add8e6">ICKEPS<br>(16:00-17:30)</td>
         <td style="background-color: #ff0">Lab: continue...<br>(16:00-17:30)</td>
-        <td>Summer school wrap-up<br>(16:00-17:30)</td>
+        <td>Summer school wrap-up and Quiz<br>(16:00-17:30)</td>
     </tr>
     <tr>
         <td><b>Evening (time)</b></td>
