@@ -250,7 +250,7 @@
             }
         ]
     },
-    "RL": {
+    "Reinforcement Learning": {
         "papers": [
             {
                 "number": 175,
@@ -1164,6 +1164,18 @@
     "Knowledge Engineering": {
         "papers": [
             {
+                "number": 80,
+                "title": "Planning with Object Creation",
+                "abstract": "Classical planning problems are defined using some specification language, such as PDDL. The domain expert defines action schemas, objects, the initial state, and the goal. One key aspect of PDDL is that the set of objects cannot be modified during plan execution. While this is fine in many domains, sometimes it makes the modeling much more complicated. This not only impacts the performance of the planners, but it also requires the domain expert to bound the number of required objects beforehand, which might be an intractable problem by itself. Here, we introduce an extension to the classical planning formalism, where action effects can create and remove objects. This problem is semi-decidable, but it becomes decidable if we can bound the number of objects at any given state, even though the state-space is still infinite. On the practical side, we extend the Powerlifted planning system to support this PDDL extension. Our results show that Powerlifted does not lose efficiency by supporting this extension while allowing for easier PDDL models.",
+                "authors": "Augusto B. Corr\u00eaa, Giuseppe De Giacomo, Malte Helmert, Sasha Rubin",
+                "url": "https://openreview.net/forum?id=e7T3ksgYfP",
+                "pdf": "https://openreview.net//pdf/748524abf9777dee5f5948317164fd1cd851784a.pdf",
+                "primary_keywords": "",
+                "long": true,
+                "tldr": "We introduce an extension to classical planning where action effects can create and delete objects of the task.",
+                "type": "long"
+            },
+            {
                 "number": 148,
                 "title": "Decoupled Search for the Masses: A Novel Task Transformation for Classical Planning",
                 "abstract": "Automated problem reformulation is a common technique in classical planning to identify and exploit problem structures. Decoupled search is an approach that automatically decomposes planning tasks based on their causal structure, often significantly reducing the search effort. However, its broad applicability is limited by the need for specialized algorithms. In this paper, we present an approach that embodies decoupled search for non-optimal planning through a novel task transformation. Specifically, given a task and a decomposition, we create a transformed task such that the state space of the transformed task is isomorphic to that of decoupled search on the original task. This eliminates the need for specialized algorithms and allows the use of various planning technology in the decoupled-search framework. Empirical evaluation shows that our method is empirically competitive with specialized decoupled algorithms and favorable to other related problem reformulation techniques.",
@@ -1203,18 +1215,6 @@
                 ],
                 "long": true,
                 "tldr": "",
-                "type": "long"
-            },
-            {
-                "number": 80,
-                "title": "Planning with Object Creation",
-                "abstract": "Classical planning problems are defined using some specification language, such as PDDL. The domain expert defines action schemas, objects, the initial state, and the goal. One key aspect of PDDL is that the set of objects cannot be modified during plan execution. While this is fine in many domains, sometimes it makes the modeling much more complicated. This not only impacts the performance of the planners, but it also requires the domain expert to bound the number of required objects beforehand, which might be an intractable problem by itself. Here, we introduce an extension to the classical planning formalism, where action effects can create and remove objects. This problem is semi-decidable, but it becomes decidable if we can bound the number of objects at any given state, even though the state-space is still infinite. On the practical side, we extend the Powerlifted planning system to support this PDDL extension. Our results show that Powerlifted does not lose efficiency by supporting this extension while allowing for easier PDDL models.",
-                "authors": "Augusto B. Corr\u00eaa, Giuseppe De Giacomo, Malte Helmert, Sasha Rubin",
-                "url": "https://openreview.net/forum?id=e7T3ksgYfP",
-                "pdf": "https://openreview.net//pdf/748524abf9777dee5f5948317164fd1cd851784a.pdf",
-                "primary_keywords": "",
-                "long": true,
-                "tldr": "We introduce an extension to classical planning where action effects can create and delete objects of the task.",
                 "type": "long"
             }
         ]
