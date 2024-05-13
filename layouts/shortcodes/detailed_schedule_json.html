@@ -198,13 +198,67 @@ body {
   font-weight: 100;
 }
 
+.day-button {
+    background-color: #fdefcf;
+    border: 1px solid black;
+    color: black;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.day-button-selected {
+    background-color: black;
+    border: 1px solid black;
+    color: #fdefcf;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 </style>
 
+
+<script>
+    function showDay(day) {
+        $(".day-button").removeClass("day-button-selected");
+        $("#day-button-" + day).addClass("day-button-selected");
+
+        // Hide all .day-tab with a fade
+        $(".day-tab").fadeOut(200);
+
+        // Show the selected day
+        if (day == "all") {
+            $(".day-tab").fadeIn(200);
+        } else {
+            $("#day-" + day).fadeIn(200);
+        }
+    }
+</script>
+
+
+<div id="day-buttons" style="margin: 0; padding: 0%;">
+    <button id="day-button-2024-06-04" class="day-button" onclick="showDay('2024-06-04')">June 4</button>
+    <button id="day-button-2024-06-05" class="day-button" onclick="showDay('2024-06-05')">June 5</button>
+    <button id="day-button-2024-06-06" class="day-button" onclick="showDay('2024-06-06')">June 6</button>
+    <button id="day-button-all" class="day-button day-button-selected" onclick="showDay('all')">All</button>
+</div>
+
+<br>
 
 <div style="margin: 0; padding: 0%;">
 
 {{ range $day := $sessions }}
 
+    <div id="day-{{ print $day.date }}" class="day-tab">
     <h2>{{ print $day.name }}</h2>
     <br>
 
@@ -254,6 +308,8 @@ body {
         </div>
 
     {{ end }}
+
+    </div>
 
 
 {{ end }}
