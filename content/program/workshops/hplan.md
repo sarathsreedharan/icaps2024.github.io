@@ -186,7 +186,7 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 30
 - 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 2 (6 posters)
 - 12:00 -- 13:30 &nbsp; &nbsp; &nbsp;  *BREAK*
 - 13:30 -- 14:30 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
-- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  A discussion on an novel HTN formalism in the presence of empty decomposition methods, by Roman Bartak ~10 talk + open discussion
+- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  A discussion on an novel HTN formalism in the presence of empty decomposition methods, by Roman Bartak (~10 min talk + open discussion)
 
 Poster session 1:
 
