@@ -186,14 +186,34 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 30
 - 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 2 (6 posters)
 - 12:00 -- 13:30 &nbsp; &nbsp; &nbsp;  *BREAK*
 - 13:30 -- 14:30 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
-- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  tba
+- 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  A discussion on an novel HTN formalism in the presence of empty decomposition methods, by Roman Bartak (~10 min talk + open discussion)
+
+Poster session 1:
+
+- An ILP Heuristic for Total-Order HTN Planning
+- On Semantics of Hierarchical Planning Domain Models with Decomposition Constraints and Empty Methods
+- Laying the Foundations for Solving FOND HTN problems: Grounding, Search, Heuristics (and Benchmark Problems)
+- Properties under Progression
+- Redundant Decompositions in PO HTN Domains: Goto Considered Harmful
+- Towards Search Node-Specific Special-Case Heuristics for HTN Planning – An Empirical Analysis of Search Space 
+
+Poster Session 2:
+
+- A Comparative Analysis of Plan Repair in HTN Planning
+- Barely Decidable Fragments of HTN Planning
+- Correcting Totally-Ordered Hierarchical Plans by Action Deletion and Action Insertion
+- HTN Model repair by completing incomplete methods (not an HPlan paper)
+- Toward Planning with Hierarchical Decompositions and Time-frames
+- Weighted Randomized Anytime Planning in Pyhop
+
+
 
 <!--
 - &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;8:40 &nbsp; &nbsp; &nbsp;  Welcome
 - &nbsp;&nbsp;8:40 -- &nbsp;&nbsp;9:40 &nbsp; &nbsp; &nbsp;  
 - &nbsp;&nbsp;9:40 -- 10:00 &nbsp; &nbsp; &nbsp;  tba
 - 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  *BREAK*
-- 10:30 -- 10:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 1 (6 talks)
+- 10:30 -- 10:50 &nbsp; &nbsp;  &nbsp;  poster teaser talks for session 1 (6 talks)
 - 10:50 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session 1 (6 posters)
 - 13:30 -- 13:50 &nbsp; &nbsp; &nbsp;  poster teaser talks for session 2 (5 talks)
 - 13:50 -- 15:00 &nbsp; &nbsp; &nbsp;  poster session 2 (5 posters)
