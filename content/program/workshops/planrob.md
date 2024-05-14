@@ -40,13 +40,11 @@ Topics of interest include (but are not limited to):
 
 ![Tiago Stegun Vaquero](https://icaps24.icaps-conference.org/program/workshops/planrob-invitedSpeaker-Tiago-Vaquero.jpg)
 
-Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the Jet Propulsion Laboratory, California Institute of Technology.
+*Bio:* Tiago is a Technical Group Supervisor of the Artificial Intelligence Group, Planning and Execution Section, of the NASA Jet Propulsion Laboratory, California Institute of Technology. He holds a B.Sc., M.Sc., and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms. At MIT, Tiago also worked on Risk-aware Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also previously held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination. His research interest includes knowledge engineering for autonomous vehicles, and automated planning and scheduling for single and multi-robot missions. 
 
-Tiago holds a bachelor's, master's, and Ph.D. in Mechatronics Engineering from the University of Sao Paulo, Brazil. Tiago previously held a MIT research scientist position and a joint Caltech/MIT research position where he worked on Resilient Spacecraft Systems and Risk Sensitive Planning/Scheduling algorithms with Professor Brian Williams. At MIT, Tiago also worked on Risk Sensitive Planners and Executives for Autonomous Underwater Vehicles and Autonomous Cars. Tiago also held a research position at the University of Toronto where he worked on Multi-Robot Planning and Coordination with Prof. Christopher Beck and Goldie Nejat.
-
-Tiago works on multi-agent coordination methods for multi-rover cave exploration and for surface site characterization.
-
-*Title & Abstract coming soon!*
+*Title:* Autonomous Task and Motion Planning for Ice Worlds Exploration
+ 
+*Abstract:* Icy moons of the gas giant planets, such as Europa, Titan, and Enceladus, are at the forefront of astrobiological interest due to the evidence of subsurface oceans. Enceladus is unique among the icy moons because there are known vent systems that are likely connected to a subsurface ocean, through which the ocean water is ejected to space. An existing study has shown that sending small robots into the vents and directly sampling the ocean water is likely possible. To enable such a mission, JPL is developing a novel, snake-like robot called Exobiology Extant Life Surveyor (EELS) that can navigate Enceladus' extreme surface and descend an erupting vent to capture unaltered liquid samples and potentially reach the ocean. However, navigating to and through Enceladus' environment is challenging: there is substantial uncertainty with respect to its geometry and physical properties of the surface/vents due to the limitations of existing orbital reconnaissance; and communication is limited which requires highly autonomous robots to execute the mission with limited human supervision. In this talk we provide an overview of the EELS project and its development effort to create a risk-aware autonomous robot to navigate these extreme ice terrains/environments. We describe the robot’s architecture and the technical challenges to navigate and sense the icy environment safely and effectively. We focus on the challenges related to surface mobility, and task and motion planning under uncertainty. We provide initial results on mobility and risk-aware task and motion planning from field tests and simulated scenarios.
 
 ## List of Accepted Papers
 
@@ -77,12 +75,12 @@ Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for
 
 ## Workshop Schedule
 
-Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 105. 
+Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 105. We look forward to seeing you there!
 
 The preliminary schedule is as follows:
 
 - 08:30 - 08:40   Welcome
-- 08:40 - 09:40   Invited talk
+- 08:40 - 09:40   Invited talk: Autonomous Task and Motion Planning for Ice Worlds Exploration
 - 09:40 - 10:00   Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting
 - 10:00 - 10:30   *Coffee Break*
 - 10:30 - 10:50   PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains
