@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'24 Workshop \
 Banff, Canada \
-June 2-3, 2024
+June 2, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -18,39 +18,66 @@ The HSDIP workshop has always been welcoming of multidisciplinary work, for exam
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
 
-## List of Accepted Papers
-* **The Bench Transition System and Stochastic Exploration**  
-  Dawson Tomasz, Richard A. Valenzano
-* **Crafting a Pogo Stick in Minecraft with Heuristic Search**  
-  Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
-* **A Lifted Backward Computation of hAdd**  
-  Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann
-* **Consolidating LAMA with Best-First Width Search**  
-  Augusto B. Corrêa, Jendrik Seipp
-* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning**  
-  Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
-* **Separate Generation and Evaluation for Parallel Greedy Best-First Search**  
-  Takumi Shimoda, Alex Fukunaga
-* **Cost Partitioning For Multiple Sequence Alignment**  
-  Mika Skjelnes, Daniel Gnad, Jendrik Seipp
-* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning**  
+## Workshop Schedule
+
+HSDIP is scheduled on the June 2.
+
+---
+[08:50 - 10:00] - **Opening & Invited Talk**
+* **Opening Remarks**
+* **Forest Agostinelli -- TBD**
+
+---
+[10:00 - 10:30] - Coffee Break
+
+---
+[10:30 - 12:00] - Session 1
+* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning** ([PDF](../hsdip-papers/paper_14.pdf))  
   Clemens Büchner, Remo Christen, Salomé Eriksson, Thomas Keller
-* **Metareasoning Needs Distributions: Put Up or Shut Up Games**  
-  Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
-* **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations**  
-  Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
-* **Reasonable Landmark Orderings for Lifted Classical Planning**  
+* **Consolidating LAMA with Best-First Width Search** ([PDF](../hsdip-papers/paper_3.pdf))  
+  Augusto B. Corrêa, Jendrik Seipp
+* **Reasonable Landmark Orderings for Lifted Classical Planning** ([PDF](../hsdip-papers/paper_7.pdf))  
   Marcel Schubert, Julia Wichlacz, Daniel Höller
-* **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning**  
-  Alexander Shleyfman, Daniel Gnad, Eyal Weiss, Lee-or Alon
-* **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**  
-  Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
-* **Choosing a Classical Planner with Graph Neural Networks**  
-  Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
-* **Expected Runtime Comparisons Between Breadth-First Search and Constant-Depth Restarting Random Walks**  
-  Daniel Platnick, Richard A. Valenzano
-* **Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning**  
+* **A Lifted Backward Computation of hAdd** ([PDF](../hsdip-papers/paper_9.pdf))  
+  Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann
+* **Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning** ([PDF](../hsdip-papers/paper_17.pdf))  
   Martín Pozo, Carlos Linares Lopez, Alvaro Torralba
+
+---
+[12:00 - 13:30] - Lunch
+
+---
+[13:30 - 15:00] - Session 2
+* **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning** ([PDF](../hsdip-papers/paper_13.pdf))  
+  Alexander Shleyfman, Daniel Gnad, Eyal Weiss, Lee-or Alon
+* **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**   ([PDF](../hsdip-papers/paper_16.pdf))  
+  Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
+* **Crafting a Pogo Stick in Minecraft with Heuristic Search** ([PDF](../hsdip-papers/paper_15.pdf))  
+  Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
+* **Cost Partitioning For Multiple Sequence Alignment** ([PDF](../hsdip-papers/paper_2.pdf))  
+  Mika Skjelnes, Daniel Gnad, Jendrik Seipp
+* **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations** ([PDF](../hsdip-papers/paper_10.pdf))  
+  Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
+* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning** ([PDF](../hsdip-papers/paper_4.pdf))  
+  Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
+
+---
+[15:00 - 15:30] - Coffee Break
+
+---
+[15:30 - 17:00] - Session 3
+* **The Bench Transition System and Stochastic Exploration** ([PDF](../hsdip-papers/paper_11.pdf))  
+  Dawson Tomasz, Richard A. Valenzano
+* **Separate Generation and Evaluation for Parallel Greedy Best-First Search** ([PDF](../hsdip-papers/paper_8.pdf))  
+  Takumi Shimoda, Alex Fukunaga
+* **Expected Runtime Comparisons Between Breadth-First Search and Constant-Depth Restarting Random Walks** ([PDF](../hsdip-papers/paper_12.pdf))  
+  Daniel Platnick, Richard A. Valenzano
+* **Choosing a Classical Planner with Graph Neural Networks** ([PDF](../hsdip-papers/paper_6.pdf))  
+  Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
+* **Metareasoning Needs Distributions: Put Up or Shut Up Games** ([PDF](../hsdip-papers/paper_5.pdf))  
+  Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+
+
 
 ## Topics of Interest
 
@@ -68,16 +95,16 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-~~March 28~~ April 4, 2024 (UTC-12 timezone)
+~~April 4, 2024~~ (UTC-12 timezone)
 
 **Author feedback period:**  
-~~April 15-21~~ April 22-24, 2024
+~~April 22-24, 2024~~
 
 **Notification:**  
-April 26 2024
+~~April 26 2024~~
 
 **Workshop:**  
-June 2-3 2024
+June 2 2024
 
 ## Submission Details
 
