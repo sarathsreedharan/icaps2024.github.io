@@ -188,16 +188,16 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 30
 - 13:30 -- 14:30 &nbsp; &nbsp; &nbsp;  Invited talk (including discussion)
 - 14:30 -- 15:00 &nbsp; &nbsp; &nbsp;  A discussion on an novel HTN formalism in the presence of empty decomposition methods, by Roman Bartak (~10 min talk + open discussion)
 
-Poster session 1:
+#### Poster session 1:
 
 - An ILP Heuristic for Total-Order HTN Planning
 - On Semantics of Hierarchical Planning Domain Models with Decomposition Constraints and Empty Methods
 - Laying the Foundations for Solving FOND HTN problems: Grounding, Search, Heuristics (and Benchmark Problems)
-- Properties under Progression
 - Redundant Decompositions in PO HTN Domains: Goto Considered Harmful
-- Towards Search Node-Specific Special-Case Heuristics for HTN Planning – An Empirical Analysis of Search Space 
+- Towards Search Node-Specific Special-Case Heuristics for HTN Planning – An Empirical Analysis of Search Space Properties under Progression
 
-Poster Session 2:
+
+#### Poster Session 2:
 
 - A Comparative Analysis of Plan Repair in HTN Planning
 - Barely Decidable Fragments of HTN Planning
