@@ -71,8 +71,7 @@ Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques 
 
 Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications**
 
-Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs**
-
+Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs** [Previously published in RAL](https://ieeexplore.ieee.org/document/10323164)
 
 ## Workshop Schedule
 
