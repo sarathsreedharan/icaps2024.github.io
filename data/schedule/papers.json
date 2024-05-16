@@ -163,20 +163,6 @@
     "MAPF": {
         "papers": [
             {
-                "number": 185,
-                "title": "Efficient Approximate Search for Multi-Objective Multi-Agent Path Finding",
-                "abstract": "The Multi-Objective Multi-Agent Path Finding (MO-MAPF) problem is the problem of computing collision-free paths for a team of agents while considering multiple cost metrics. Most existing MO-MAPF algorithms aim to compute the Pareto frontier of the solutions. However, a Pareto frontier can be time-consuming to compute and contain solutions with similar costs. Our first main contribution is BB-MO-CBS-pex, an approximate MO-MAPF algorithm that computes an approximate frontier for the user-specific approximation factor. BB-MO-CBS-pex builds upon BB-MO-CBS, a state-of-the-art MO-MAPF algorithm, and leverages A*pex, a state-of-the-art single-agent multi-objective search algorithm, to speed up different parts of BB-MO-CBS. We also provide two speed-up techniques for BB-MO-CBS-pex. Our second main contribution is BB-MO-CBS-k, which builds upon BB-MO-CBS-pex and computes up to k solutions for a user-provided k-value. BB-MO-CBS-k is useful when it is unclear how to determine an appropriate approximation factor. Our experimental results show that both BB-MO-CBS-pex and BB-MO-CBS-k solved significantly more instances than BB-MO-CBS for different approximation factors and k-values, respectively. Additionally, we compare BB-MO-CBS-pex with an approximate baseline algorithm derived from BB-MO-CBS and show that BB-MO-CBS-pex achieved speed-ups up to two orders of magnitude.",
-                "authors": "Fangji Wang, Han Zhang, Sven Koenig, Jiaoyang Li",
-                "url": "https://openreview.net/forum?id=FdzJ5TnVd7",
-                "pdf": "https://openreview.net//pdf/49c40bc4a4bde512afd47de779c13c08d7158793.pdf",
-                "primary_keywords": [
-                    "Multi-Agent Planning"
-                ],
-                "long": true,
-                "tldr": "",
-                "type": "long"
-            },
-            {
                 "number": 37,
                 "title": "Improving Learnt Local MAPF Policies with Heuristic Search",
                 "abstract": "Multi-agent path finding (MAPF) is the problem of finding collision-free paths for a team of agents to reach their goal locations. \nState-of-the-art classical MAPF solvers typically employ heuristic search to find solutions for hundreds of agents but are typically centralized and can struggle to scale to larger numbers of agents.\nMachine learning (ML) approaches that learn policies for each agent are appealing as these could be decentralized systems and scale well while maintaining good solution quality. Current ML approaches to MAPF have proposed methods that have started to scratch the surface of this potential. However, state-of-the-art ML approaches produce \"local\" policies that only plan for a single timestep and have poor success rates and scalability. Our main idea is that we can improve a ML local policy by using heuristic search methods on the output probability distribution to resolve deadlocks and enable full horizon planning. We show several model-agnostic ways to use heuristic search with ML that significantly improves the local ML policy's success rate and scalability. \nTo our best knowledge, we demonstrate the first time ML-based MAPF approaches have scaled to similar high congestion (e.g. 40% agent density) as state-of-the-art heuristic search methods.",
@@ -246,6 +232,20 @@
                 ],
                 "long": true,
                 "tldr": "We propose SKATE, a successive rank-based task assignment algorithm for online multi-agent planning inspired by an algorithm proposed in the filed of multi-robot exploration.",
+                "type": "long"
+            },
+            {
+                "number": 185,
+                "title": "Efficient Approximate Search for Multi-Objective Multi-Agent Path Finding",
+                "abstract": "The Multi-Objective Multi-Agent Path Finding (MO-MAPF) problem is the problem of computing collision-free paths for a team of agents while considering multiple cost metrics. Most existing MO-MAPF algorithms aim to compute the Pareto frontier of the solutions. However, a Pareto frontier can be time-consuming to compute and contain solutions with similar costs. Our first main contribution is BB-MO-CBS-pex, an approximate MO-MAPF algorithm that computes an approximate frontier for the user-specific approximation factor. BB-MO-CBS-pex builds upon BB-MO-CBS, a state-of-the-art MO-MAPF algorithm, and leverages A*pex, a state-of-the-art single-agent multi-objective search algorithm, to speed up different parts of BB-MO-CBS. We also provide two speed-up techniques for BB-MO-CBS-pex. Our second main contribution is BB-MO-CBS-k, which builds upon BB-MO-CBS-pex and computes up to k solutions for a user-provided k-value. BB-MO-CBS-k is useful when it is unclear how to determine an appropriate approximation factor. Our experimental results show that both BB-MO-CBS-pex and BB-MO-CBS-k solved significantly more instances than BB-MO-CBS for different approximation factors and k-values, respectively. Additionally, we compare BB-MO-CBS-pex with an approximate baseline algorithm derived from BB-MO-CBS and show that BB-MO-CBS-pex achieved speed-ups up to two orders of magnitude.",
+                "authors": "Fangji Wang, Han Zhang, Sven Koenig, Jiaoyang Li",
+                "url": "https://openreview.net/forum?id=FdzJ5TnVd7",
+                "pdf": "https://openreview.net//pdf/49c40bc4a4bde512afd47de779c13c08d7158793.pdf",
+                "primary_keywords": [
+                    "Multi-Agent Planning"
+                ],
+                "long": true,
+                "tldr": "",
                 "type": "long"
             }
         ]
