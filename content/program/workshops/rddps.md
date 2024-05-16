@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'24 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) \
 Banff, Alberta, Canada \
-June 2-3, 2024
+June 3, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -84,9 +84,138 @@ Please do not submit papers that are already accepted for the ICAPS main confere
  - Alison Paredes, J. Benton, Jeremy Frank and Christian Muise: **Bias in Planning Algorithms**
  - Alison Paredes, J. Benton, Jeremy Frank and Christian Muise: **Planning Bias: Planning as a Source of Sampling Bias**
 
-## Workshop Schedule
+## Workshop Schedule (June 3)
 
-TBA
+<figure class="table">
+    <table class="waffle" cellpadding="2" cellspacing="2">
+        <tbody>
+            <tr>
+                <td style="height:20px;" colspan="2"><strong>Welcome</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">8:30</td>
+                <td style="height:20px;">8:40</td>
+                <td style="height:20px;" colspan="6">Brief Welcome</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;" colspan="8"><strong>SESSION 1: Model Creation</strong></td>
+            </tr>
+            <tr>
+                <td style="height:20px;">8:40</td>
+                <td style="height:20px;">9:00</td>
+                <td style="height:20px;" colspan="6"><i>One Repair to Rule Them All: Repairing a Broken Planning Domain Using Multiple Instances</i><br>Alba Gragera and Christian Muise</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">9:00</td>
+                <td style="height:20px;">9:20</td>
+                <td style="height:20px;" colspan="6"><i>Using Probabilistic Planning to Model the Spread of COVID-19</i><br>Bruce Chidley and Christian Muise</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;" colspan="8"><strong>SESSION 2: Safety of Learned Policies</strong></td>
+            </tr>
+            <tr>
+                <td style="height:20px;">9:20</td>
+                <td style="height:20px;">9:40</td>
+                <td style="height:20px;" colspan="6"><i>Safe Reinforcement Learning Through Regret and State Restorations in Evaluation Stages</i><br>Timo P. Gros, Nicola Müller, Daniel Höller and Verena Wolf</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">9:40</td>
+                <td style="height:20px;">10:00</td>
+                <td style="height:20px;" colspan="6"><i>Safety Verification of Tree-Ensemble Policies via Predicate Abstraction</i><br>Chaahat Jain, Lorenzo Cascioli, Laurens Devos, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Jörg Hoffmann</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;" colspan="8"><strong>BREAK</strong></td>
+            </tr>
+            <tr>
+                <td style="height:20px;">10:00</td>
+                <td style="height:20px;">10:30</td>
+                <td style="height:20px;" colspan="6">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;" colspan="8"><strong>SESSION 3: Learning and Planning</strong></td>
+            </tr>
+            <tr>
+                <td style="height:20px;">10:30</td>
+                <td style="height:20px;">10:50</td>
+                <td style="height:20px;" colspan="6"><i>Learned Pairwise Rankings for Greedy Best-First Search</i><br>Mingyu Hao, Felipe Trevizan, Sylvie Thiebaux, Patrick Ferber and Jörg Hoffmann</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">10:50</td>
+                <td style="height:20px;">11:10</td>
+                <td style="height:20px;" colspan="6"><i>Planning Bias: Planning as a Source of Sampling Bias</i><br>Alison Paredes, J. Benton, Jeremy Frank and Christian Muise</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">11:10</td>
+                <td style="height:20px;">11:30</td>
+                <td style="height:20px;" colspan="6"><i>Bias in Planning Algorithms</i><br>Alison Paredes, J. Benton, Jeremy Frank and Christian Muise</td>
+            </tr>
+            <tr>
+                <td style="height:20px;">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="height:20px;" colspan="8"><strong>SESSION 4: Open Discussion</strong></td>
+            </tr>
+            <tr>
+                <td style="height:20px;">11:30</td>
+                <td style="height:20px;">12:00</td>
+                <td style="height:20px;" colspan="6"><i>Open discussion</i></td>
+            </tr>
+        </tbody>
+    </table>
+</figure>
 
 ## Affiliated Projects
 
