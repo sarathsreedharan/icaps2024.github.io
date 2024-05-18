@@ -125,11 +125,18 @@ Mountains can be dangerous. If you are planning an excursion, contact the Parks 
 #### $$$
 - **Balkan Greek Restaurant:** Upbeat mainstay featuring traditional fare such as moussaka and gyros, plus weekly Greek dance nights. Vegetarian dishes available.
 
+## Maps
+[Map of Canadian Rockies & Tourist Attractions](https://www.banffjaspercollection.com/canadian-rockies/map/)
 
+[Banff Pedestrian & Cycling Trails Map](https://banff.ca/DocumentCenter/View/25/Banff-Trails-Map?bidId=)
 
+[Banff Easy, Family-Friendly Hiking Trails Map](https://stingynomads.com/easy-hikes-in-banff/)
 
+### Banff Centre District Map
 
+![BIRS Map](birs_map.png)
+![Banff Centre District Map](banff_centre_district_map.png)
 
-
-
-
+### Banff Map
+![Town of Banff Map](town_of_banff_map.png)
+![Google Maps Banff Map](google_maps_banff_map.png)
