@@ -39,13 +39,13 @@ There are numerous places to park at the Banff Centre. Parking is free.
 
 A fee is charged for admission to Banff National Park. The revenues are used to support visitor services and facilities. The fee per day (in Canadian dollars):
 
-Adult (age 18 to 64): $11
+Adult (age 18 to 64): \$11
 
-Senior (age 65+): $9.50
+Senior (age 65+): \$9.50
 
 Youth (age 17 and under): free
 
-Family/group (up to seven people arriving in a single vehicle): $22
+Family/group (up to seven people arriving in a single vehicle): \$22
 
 ## Getting Around in Banff
 Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
@@ -71,6 +71,59 @@ Elk can be fast and dangerous, especially during spring calving (May 15-July 1).
 It is your responsibility to educate yourself on the topic of wildlife and how to prepare for wildlife encounters.
 Mountains can be dangerous. If you are planning an excursion, contact the Parks Canada Information Centre at **403.762.1550** for up-to-date weather and avalanche information, reports on trail conditions, and wildlife activity. Visit [https://parks.canada.ca/pn-np/ab/banff](https://parks.canada.ca/pn-np/ab/banff) for more information.
 
+## Weather
+
+- This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 10℃ - 30℃. 
+- Sunscreen is also recommended as there are many days where it is all sun and no clouds. 
+- Alberta also has dry weather. Chapstick and lotion may be helpful. 
+
+## Restaurants
+
+### Our Recommendations:
+- **($10-20) Hankki:** Korean street food restaurant, small seating areas, (new) desserts area. Serves vegetarian dishes, Wi-Fi and high chairs available.
+- **($20-30) Magpie and Stump Mexican Restaurant + Bar:** Features a rustic and casual environment, amazing food and drinks. This relaxed eatery serves classic Mexican fare and cocktails in rugged, down-home decor.
+- **($$$): Balkan Greek Restaurant:** Upbeat mainstay featuring traditional fare such as moussaka and gyros, plus weekly Greek dance nights. Vegetarian dishes available.
+
+
+### Vegan and Vegetarian Options Available:
+#### $
+- **Banff Shawarma:** Halal and vegetarian dishes available.
+#### $$
+- **Nourish Bistro Banff:** Quirky eatery featuring inventive vegan and vegetarian dishes and desserts, plus cool cocktails.
+- **Maclab Bistro:** Airy restaurant and bar offering eclectic eats, including specialty burgers, plus scenic views. 
+- **Magpie and Stump Mexican Restaurant + Bar:** This relaxed eatery serves classic Mexican fare and cocktails in rugged, down-home decor. 
+- **Block Kitchen + Bar:** Eclectic small plates with Asian flair, wine and cocktails served in a hip, convivial atmosphere. Google Review: "The vegan bao bun was outstanding and the falafel naanwich was delicious."
+- **Farm and Fire:** Contemporary restaurant offering farm-to-fork specialties and cocktails, plus happy-hour specials.
+- **Shoku Izakaya:** Easygoing restaurant serving Japanese and Pan-Asian dishes like steamed buns, sushi and grilled meats.
+- **UNA pizza + wine:** Has outdoor seating, serves vegan dishes, has kids' menu.
+- **The Old Spaghetti Factory:** Family-friendly chain eatery featuring traditional Italian entrees amid turn-of-the-century decor.
+- **Bear Street Tavern:** Rustic, laid-back hangout offering thin-crust pizza, Canadian pub grub, craft beer on tap and a patio.
+- **Coyotes Southwestern Grill:** Southwestern and Mediterranean cuisine, with a focus on fresh ingredients, in a homey atmosphere. Serves happy hour food and has kids' menu.
+- **Indian Curry House:** Serves vegan dishes, has Wi-Fi and high chairs available.
+
+#### $$$
+- **Three Bears Brewery and Restaurant:** Creative pub eats and house beers in a cool, wood-lined hangout with wildlife statues and a pine tree. Vegan cheese option.
+- **Park Distillery Restaurant + Bar:** Mesquite-grilled meats, gourmet comfort eats and small-batch spirits in a hip and rustic space. Vegan options available.
+- **Brazen** Has outdoor seating, serves great cocktails and vegetarian dishes.
+
+#### $$$$
+
+- **(\$100+) The Bison Restaurant**: Seasonal Canadian cuisine prepped in an open kitchen, plus a terrace with mountain views.
+- **El Toro Restaurant:** Upscale eatery serving Canadian, Mexican and Spanish-influenced cuisine, including breakfast and tapas.
+- **The Maple Leaf:** New Canadian eats, such as game stroganoff and seafood, are presented in a rustic-modern setting.
+
+### Halal Options Available:
+#### $ 
+- **Popeyes Louisiana Kitchen:** Louisiana-inspired fast-food chain known for its spicy fried chicken, biscuits and sides.
+- **Night Owl Shawarma Donair and Convenience:** Lebanese restaurant, Halal Certified, doesn't accept reservations.
+- **Banff Shawarma:** Halal and vegetarian dishes available.
+#### $$ 
+- **Masala Authentic Indian Cuisine:** Casual Indian spot with curries and dishes from a wood-fired tandoori clay oven, plus lunch specials.
+- **Saffron Indian Bistro:** Relaxed restaurant serving traditional Indian cuisine, lunchtime thalis and Indo-Chinese dishes.
+- **Zyka Elevated Indian Restaurant Banff:** Has all you can eat, outdoor seating and serves great cocktails.
+- **Indian Curry House:** Serves vegan dishes, has Wi-Fi and high chairs available.
+#### $$$
+- **Balkan Greek Restaurant:** Upbeat mainstay featuring traditional fare such as moussaka and gyros, plus weekly Greek dance nights. Vegetarian dishes available.
 
 
 
