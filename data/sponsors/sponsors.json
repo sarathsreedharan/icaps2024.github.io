@@ -80,6 +80,17 @@
 					"link": "https://www.amazon.science/"
 				}
 			]
+		},
+		{
+			"rank": "Patron",
+			"list": [
+				{
+					"logo": "/img/partners/inflexion.png",
+					"height": "-1",
+					"width": "150",
+					"link": "https://www.inflexion.io/"
+				}
+			]
 		}
 	]
 }
