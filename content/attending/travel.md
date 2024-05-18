@@ -39,13 +39,13 @@ There are numerous places to park at the Banff Centre. Parking is free.
 
 A fee is charged for admission to Banff National Park. The revenues are used to support visitor services and facilities. The fee per day (in Canadian dollars):
 
-Adult (age 18 to 64): \$11
+Adult (age 18 to 64): $11
 
-Senior (age 65+): \$9.50
+Senior (age 65+): $9.50
 
 Youth (age 17 and under): free
 
-Family/group (up to seven people arriving in a single vehicle): \$22
+Family/group (up to seven people arriving in a single vehicle): $22
 
 ## Getting Around in Banff
 Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
@@ -59,6 +59,16 @@ Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
 
 [Travel Alberta](https://www.travelalberta.com/)
 
+## National Park Information
+
+[Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)
+[Lake Louise & Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)
+- Banff to Lake Louise is a 38 minute drive (57.1 km) via Trans-Canada Hwy/AB-1 W
+- Banff to Lake Moraine is a 1 hout 50 minute drive (71.4 km) via Trans-Canada Hwy/AB-1 W
+
+[Canmore & Kananaskis Visitor Info](https://www.explorecanmore.ca/plan-your-trip/)
+
+
 ## Wildlife
 As the Banff Centre and the town of Banff are in Banff National Park, various types of wildlife are often observed. Sightings range from different bird species to the most frequently encountered large mammals: elk, mountain goats, bears, and mountain lions.
 
@@ -71,11 +81,20 @@ Elk can be fast and dangerous, especially during spring calving (May 15-July 1).
 It is your responsibility to educate yourself on the topic of wildlife and how to prepare for wildlife encounters.
 Mountains can be dangerous. If you are planning an excursion, contact the Parks Canada Information Centre at **403.762.1550** for up-to-date weather and avalanche information, reports on trail conditions, and wildlife activity. Visit [https://parks.canada.ca/pn-np/ab/banff](https://parks.canada.ca/pn-np/ab/banff) for more information.
 
-## Weather
+Also see:
+
+- [Alberta Wildlife Outdoor Safety Guide](https://www.albertaparks.ca/albertaparksca/advisories-public-safety/outdoor-safety/wildlife-you/)
+- [Tips to Respect Wildlife & Stay Safe *Including Bear Spray Info*](https://parks.canada.ca/voyage-travel/conseils-tips/faune-wildlife)
+
+For vehicle use, wildlife signage along highways and some local roads are posted. Drive accordingly as you may see some animals crossing as you drive. Watch the road and the ditches alongside within these marked areas. Use extra caution when approaching curves/bends on roads and when reaching the crest of a hill.
+
+## Weather + Packing Essentials
 
 - This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 10℃ - 30℃. 
 - Sunscreen is also recommended as there are many days where it is all sun and no clouds. 
 - Alberta also has dry weather. Chapstick and lotion may be helpful. 
+- Pack clothing for hot days & chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
+- There are areas that may be chillier than others, this can depend on sun exposure, proximity to water, altitude (especially when hiking).
 
 ## Restaurants
 
@@ -108,7 +127,7 @@ Mountains can be dangerous. If you are planning an excursion, contact the Parks 
 
 #### $$$$
 
-- **(\$100+) The Bison Restaurant**: Seasonal Canadian cuisine prepped in an open kitchen, plus a terrace with mountain views.
+- **($100+) The Bison Restaurant**: Seasonal Canadian cuisine prepped in an open kitchen, plus a terrace with mountain views.
 - **El Toro Restaurant:** Upscale eatery serving Canadian, Mexican and Spanish-influenced cuisine, including breakfast and tapas.
 - **The Maple Leaf:** New Canadian eats, such as game stroganoff and seafood, are presented in a rustic-modern setting.
 
@@ -160,3 +179,29 @@ Generally, costs for Roam public transit is more affordable and convenient for g
 
 [Banff Touring Companies (Google Maps)](https://www.google.com/localservices/prolist?g2lbs=AOHF13lYdkwOq-ySJUBLHokwKxepprZ43WoAh7gaCzVBpxFstlgSMhGmbettXlZwVoQLZkkpunstAAIGBqilznusqGeVZ5XOFYNWWbFIxtxrH9g3n9Ks9OU%3D&hl=en-CA&gl=ca&ssta=1&q=banff%20tour%20companies&oq=banff%20tour%20companies&slp=MgBSAggCYAGSAeQBCgsvZy8xdGNfa3RrNgoNL2cvMTFqZm0wbW43ZgoLL2cvMXRrdjlmbGcKCy9nLzF2Z3gwZjBiCg0vZy8xMWI1d3J6aHY5Cg0vZy8xMXNzajVtMzJkCgsvZy8xdHBmNnQ3bgoNL2cvMTFubmswYjRzZgoLL2cvMXRqZHFfcjAKDS9nLzExYzB0OXlqaDcKDS9nLzExdHNqYncwajEKCy9nLzF0aHB3aHkwCg0vZy8xMWZwa3NqMjdxCg0vZy8xMWZtYzJuMTFqCg0vZy8xMXR4eHFoNnpmCg0vZy8xMWh6eHB2NHZqmgEGCgIXGRAB&src=2&serdesk=1&sa=X&sqi=2&ved=2ahUKEwj3gKiNxZCGAxVkMDQIHSCpAuMQjGp6BAgkEAE&scp=ChJnY2lkOnRvdXJfb3BlcmF0b3ISRxISCf1KDJFFynBTEWOUrNq-rq_KGhIJP7CmdmJedFMRqkhXV53e93UiBUJhbmZmKhQN5I1-HhXNFBu7HfeDgx4leTUhuzAAGg50b3VyIGNvbXBhbmllcyIUYmFuZmYgdG91ciBjb21wYW5pZXMqDVRvdXIgb3BlcmF0b3I%3D)
 
+## Indigenous Traditions & Culture
+[Banff Indigenous Peoples](https://banff.ca/indigenouspeoples)
+
+## Banff Centre Info
+[Banff Centre Events](https://www.banffcentre.ca/events/events)
+[Banff Sally Borden Fitness & Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)
+[Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)
+[Banff Library & Archives](https://www.banffcentre.ca/library-archives)
+[Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)
+
+## Banff Police, Medical, Violence/Abuse & Emergency Service Resources
+
+Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
+
+Fire Department
+Email:	erica.gilmore@banff.ca
+Physical Address:
+201 Beaver Street
+Banff, AB T1L 1A1
+Phone:	403.762.1256
+Emergency Phone: 911
+
+[Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)
+[Banff Medical Resources & Information](https://www.banffcentre.ca/participant-resources/medical-information)
+[Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)
+[Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)
