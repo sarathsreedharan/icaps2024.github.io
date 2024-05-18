@@ -169,7 +169,7 @@ Distance from Banff Centre to Downtown Banff is roughly a 5 minute drive or 18 m
 
 Generally, costs for Roam public transit is more affordable and convenient for getting around Banff and surrounding areas. The Roam Transit has 10 Bus routes in Banff with 124 Bus stops. Their Bus routes cover an area from the Lake Louise Lakeshore Summer stop to the Stewart Creek stop and from the Lake Louise Village North stop to the Stewart Creek stop.
 
-[About "Roam" Bus Public Transit](https://banff.ca/435/Roam-Public-Transit) and ["Roam" Bus Schedules](https://banff.ca/435/Roam-Public-Transit)
+[About "Roam" Bus Public Transit](https://banff.ca/435/Roam-Public-Transit) and ["Roam" Bus Schedules](https://roamtransit.com/)
 
 [Reservations *required* for Shuttle Busses (to Lake Louise and Moraine Lake)](https://reservation.pc.gc.ca/)
 
