@@ -152,13 +152,43 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 [Banff Easy, Family-Friendly Hiking Trails Map](https://stingynomads.com/easy-hikes-in-banff/)
 
 ### Banff Centre District Map
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/birs_map.png"
+  alt="BIRS Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
-![BIRS Map](birs_map.png)
-![Banff Centre District Map](banff_centre_district_map.png)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/banff_centre_district_map.png"
+  alt="Banff Centre District Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
+
 
 ### Banff Map
-![Town of Banff Map](town_of_banff_map.png)
-![Google Maps Banff Map](google_maps_banff_map.png)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/town_of_banff_map.png"
+  alt="Town of Banff Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
+
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/google_maps_banff_map.png"
+  alt="Google Maps Banff Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
 ## Transportation and Touring
 Distance from Banff Centre to Downtown Banff is roughly a 5 minute drive or 18 minute walk (see link for route via Google Maps)
@@ -183,23 +213,23 @@ Generally, costs for Roam public transit is more affordable and convenient for g
 [Banff Indigenous Peoples](https://banff.ca/indigenouspeoples)
 
 ## Banff Centre Info
-[Banff Centre Events](https://www.banffcentre.ca/events/events)
-[Banff Sally Borden Fitness & Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)
-[Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)
-[Banff Library & Archives](https://www.banffcentre.ca/library-archives)
-[Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)
+[Banff Centre Events](https://www.banffcentre.ca/events/events)  
+[Banff Sally Borden Fitness & Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)  
+[Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)  
+[Banff Library & Archives](https://www.banffcentre.ca/library-archives)  
+[Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)  
 
 ## Banff Police, Medical, Violence/Abuse & Emergency Service Resources
 
 Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
 
-Fire Department
-Email:	erica.gilmore@banff.ca
-Physical Address:
-201 Beaver Street
-Banff, AB T1L 1A1
-Phone:	403.762.1256
-Emergency Phone: 911
+Fire Department  
+Email:	erica.gilmore@banff.ca  
+Physical Address:  
+201 Beaver Street  
+Banff, AB T1L 1A1  
+Phone:	403.762.1256  
+Emergency Phone: 911  
 
 [Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)
 [Banff Medical Resources & Information](https://www.banffcentre.ca/participant-resources/medical-information)
