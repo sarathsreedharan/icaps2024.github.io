@@ -83,9 +83,9 @@ The preliminary schedule is as follows:
 - 08:40 - 09:40   Invited talk: Autonomous Task and Motion Planning for Ice Worlds Exploration
 - 09:40 - 10:00   Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting
 - 10:00 - 10:30   *Coffee Break*
-- 10:30 - 10:50   PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains
+- 10:30 - 10:50   Value of Assistance for Grasping
 - 10:50 - 11:00   Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees (short paper)
-- 11:00 - 11:20   Value of Assistance for Grasping
+- 11:00 - 11:20   PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains
 - 11:20 - 11:40   Learning Quadruped Locomotion Policies using Logical Rules
 - 11:40 - 12:00   Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement
 - 12:00 - 13:30   *Lunch Break*
