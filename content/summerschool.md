@@ -12,12 +12,12 @@ draft: false
 The Summer School on Automated Planning and Scheduling in 2024 will be the first in-person summer school since 2018 – *after six long years!*
 
 
-### When and Where?
+## When and Where?
 
 The summer school will take place from *27 May 2024* to *31 May 2024* (5 full days), in Banff, the week before ICAPS. So if you plan to attend ICAPS, you could simply arrive one week earlier!
 
 
-### What?
+## What?
 
 The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions (designed and executed by Sarah Keren), which are designed to demonstrate ideas and theories discussed in the lectures. The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
 
@@ -30,7 +30,27 @@ This year's special edition will be the first one to be run as part of a Summer 
 ICKEPS is organized by [Lukáš Chrpa](https://sites.google.com/view/lukaschrpa/home), Czech Technical University in Prague and Filuta AI; [Ron Petrick](http://petrick.uk), Heriot Watt University; and [Mauro Vallati](https://www.mvallati.net/), University of Huddersfield (ordered alphabetically).
 
 
-The following is a preliminary list of speakers (ordered alphabetically) and topics, possibly incomplete and subject to change:
+
+The following is our list of speakers (ordered alphabetically) and topics:
+
+<!--
+<div style="width: 100%; margin: 0; padding: 3%;">
+<h3 style="color:orange;"><strong>[Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/)</strong>, the Australian National University (ANU)</h3>
+<h3 style="color:black;"><strong>An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving</strong></h3>
+In this introductory tutorial, we explore the basics of HTN planning, designed to enable anybody without prior knowledge of this field to easily follow current research papers. Starting with a simplistic formalization of the problem -- as used in scientific papers -- we show how this relates to non-hierarchical (STRIPS) planning both in terms of computational complexity and a more fine-grained measure of expressivity, before providing a broad overview of useful extensions of the core formalism. We explain the most commonly known solution technique -- progression search -- but also provide pointers to others such as compilation techniques.
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/summerschool/Pascal-Bercher.jpg" />
+</div>
+<div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
+<div style="margin:0; padding: 0; padding-left: 2%">
+<p>
+Pascal Bercher is a Senior Lecturer at the Australian National University. His research is mostly concerned with Hierarchical Task Network (HTN) Planning. He is interested in heuristic search (mostly heuristic design), plan verification, and extending the framework with language features that are crucial for real-world applications, such as uncertainty and time. He is especially interested in modeling support, i.e., in autonomously helping a domain modeler with creating of correcting a domain model. In all these research directions, complexity investigations are often done as a first step -- to ensure a solid problem formalization and to give an indication about the right tools to attempt a given problem, based on its complexity. On top of research, he is passionate for teaching (by putting lots of effort/time into slides and organization) and mentoring students and supporting colleagues. He reviews for most of the large AI and planning conferences (ICAPS, IJCAI, AAAI, ECAI), some other conferences, as well as several workshops each year. He founded the ICAPS workshop on hierarchical planning (HPlan) and co-organizes it since then annually. 
+</p>
+</div>
+</div>
+-->
+<!--
+-->
 - [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/), the Australian National University (ANU),  
   **An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving**  
   In this introductory tutorial, we explore the basics of HTN planning, designed to enable anybody without prior knowledge of this field to easily follow current research papers. Starting with a simplistic formalization of the problem -- as used in scientific papers -- we show how this relates to non-hierarchical (STRIPS) planning both in terms of computational complexity and a more fine-grained measure of expressivity, before providing a broad overview of useful extensions of the core formalism. We explain the most commonly known solution technique -- progression search -- but also provide pointers to others such as compilation techniques.
@@ -63,7 +83,7 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
   helps out with the lab sessions
 -->
 
-### Program
+## Program
 
 For the entire program, we are always in room KC 201.
 
@@ -182,21 +202,30 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
 </table>
 <br>
 
-### Who can join? 
+### Lab Sessions
+
+To participate in the lab sessions (online or on-site), you will require:
+
+- A laptop. Software runs in a browser, so no special software or operating system is required. If you use Google Colab (which is what we use), you will need a google account. The URL of the notebooks is [https://github.com/CLAIR-LAB-TECHNION/ICAPS-24](https://github.com/CLAIR-LAB-TECHNION/ICAPS-24).
+- Basic knowledge of PDDL. If you can't read PDDL yet, you could check out this [hands-on lecture](https://www.youtube.com/watch?v=pfNb0IAkbcQ&t=3s) (you can start at 40:00 in case you are already familiar with classical planning). The required hands-on material can be downloaded [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE--PlanningIntroHandsOn.zip). Slides are available [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE-PlanningIntro.pdf).
+- Basic knowledge of the programming language Python.
+
+
+## Who can join? 
 
 The summer school is primarily intended for PhD students, but post-docs in their early post-doctoral career are also eligible. We also do not exclude students who did not start their PhD yet, so encourage them to apply as well.
 
 As of now, we have 40 (in-person) spots for participants. We would have loved to make the event bigger, but given the circumstances, it doesn't look possible. But well, it is not all about numbers! It will be a small and tight-knit group! 
 
 
-### Costs and Financial Aid
+## Costs and Financial Aid
 
 The registration fees are 950 CAD. They include board and lodging, see below. Note that travel costs (for flights or any transport means to travel to the Banff Centre) are *not* part of the registration fees, so you will have to finance this on your own.
 
 We will provide a small number of financial aids, which cover parts or all of the registration fees for a few selected participants (the application form allows you to apply for this). 
 
 
-### Board and Lodging
+## Board and Lodging
 
 The registration fees include:
 - Six nights in the Banff Centre (from Sunday, 26 May to Saturday, 1 June), where also ICAPS takes place. If you stay for ICAPS, you will have to book the remaining nights yourself. Note that we *only* booked double-rooms, so you will have to share a room. We plan to write to all accepted applicants once selection is completed, so you can coordinate in case you prefer staying with somebody you know already.
@@ -204,7 +233,7 @@ The registration fees include:
 - Dinner on Thursday (30 May).
 
 
-### Important Dates & Application
+## Important Dates & Application
 
 - Applications open:   12 February
 - Applications close:  26 February
@@ -223,7 +252,7 @@ Please merge the documents in the order provided into one single PDF. You will t
 Applications will be reviewed for admission after submission is closed. Note that admissions will *not* be assessed based on a first-come-first-serve basis, so every application that arrives before the closing date will be evaluated fairly, no matter when they were submitted. 
 
 
-### Organizing Team
+## Organizing Team
 
 The organizing team, sorted alphabetically by last name, consists of:
 
