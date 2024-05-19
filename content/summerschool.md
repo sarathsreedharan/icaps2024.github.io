@@ -202,6 +202,14 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
 </table>
 <br>
 
+<!--
+ADD COLORS !!
+Caption:
+- Labs: All our lab sessions are depicted in Yellow. These are our hands-on sessions on Task and Motion Planning.
+- Lectures: All talks (sometimes called lectures) are depicted in Orange.
+- ICKEPS: Our program for the International Competition on Knowledge Engineering for Planning and Scheduling are depicted in Blue.
+-->
+
 ### Lab Sessions
 
 To participate in the lab sessions (online or on-site), you will require:
