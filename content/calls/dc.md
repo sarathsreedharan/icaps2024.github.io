@@ -82,17 +82,49 @@ We are looking into ways to provide student support partly covering travel and/o
 
 ## Schedule (tentative)
 
-| Time          | Activity                                  |
-|---------------|-------------------------------------------|
-| 9:00-9:15     | Welcome and opening remarks by DC co-chairs |
-| 9:15-10:00    | Keynote talk by Sven Koenig               |
-| 10:00-10:30   | AM break                                  |
-| 10:30-12:00   | Session 1                                 |
-| 12:00-1:30    | Lunch                                     |
-| 1:30-3:00     | Session 2                                 |
-| 3:00-3:30     | Break                                     |
-| 3:30-4:30     | Session 3                                 |
-| 4:30-4:40     | Closing remarks                           |
+<table>
+  <tr>
+    <th style="background-color: #d1e7dd;">Time</th>
+    <th style="background-color: #d1e7dd;">Activity</th>
+  </tr>
+  <tr>
+    <td>9:00-9:15</td>
+    <td>Welcome and opening remarks by DC co-chairs</td>
+  </tr>
+  <tr>
+    <td>9:15-10:00</td>
+    <td>Keynote talk by Sven Koenig</td>
+  </tr>
+  <tr>
+    <td>10:00-10:30</td>
+    <td>AM break</td>
+  </tr>
+  <tr>
+    <td>10:30-12:00</td>
+    <td>Session 1</td>
+  </tr>
+  <tr>
+    <td>12:00-1:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>1:30-3:00</td>
+    <td>Session 2</td>
+  </tr>
+  <tr>
+    <td>3:00-3:30</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>3:30-4:30</td>
+    <td>Session 3</td>
+  </tr>
+  <tr>
+    <td>4:30-4:40</td>
+    <td>Closing remarks</td>
+  </tr>
+</table>
+
 
 ## Contact Information
 
