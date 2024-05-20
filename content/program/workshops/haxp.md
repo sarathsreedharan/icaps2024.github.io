@@ -12,8 +12,11 @@ June 3, 2024
 
 ## Aim and Scope of the Workshop
 
-As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](http://xaip.mybluemix.net)
+As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](https://haxp.org)
 
+## Schedule
+
+You can find the schedule her: [HAXP Schedule](https://haxp-icaps.web.app/2024)
 
 ## Accepted Papers
 
@@ -27,11 +30,6 @@ As artificial intelligence (AI) is increasingly being adopted into application s
 * **Human-Modeling in Sequential Decision-Making: An Analysis through the Lens of Human-Aware AI** by Silvia Tulli, Stylianos Loukas Vasileiou, Sarath Sreedharan
 * **Approximating Human Models During Argumentation-based Dialogues** by Yinxu Tang, Stylianos Loukas Vasileiou, William Yeoh
 * **Towards Robust LLM-Driven Planning from Minimal Text Descriptions** by Elliot Gestrin, Marco Kuhlmann, Jendrik Seipp
-
-## Schedule
-
-Coming soon!
-
 
 ## Topics of Interest
 
