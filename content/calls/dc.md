@@ -80,6 +80,19 @@ If all applications cannot be supported, selection will be based on the above ma
 
 We are looking into ways to provide student support partly covering travel and/or registration costs. Additional funding information will be available closer to the notification date.
 
+## Schedule (tentative)
+
+| Time          | Activity                                  |
+|---------------|-------------------------------------------|
+| 9:00-9:15     | Welcome and opening remarks by DC co-chairs |
+| 9:15-10:00    | Keynote talk by Sven Koenig               |
+| 10:00-10:30   | AM break                                  |
+| 10:30-12:00   | Session 1                                 |
+| 12:00-1:30    | Lunch                                     |
+| 1:30-3:00     | Session 2                                 |
+| 3:00-3:30     | Break                                     |
+| 3:30-4:30     | Session 3                                 |
+| 4:30-4:40     | Closing remarks                           |
 
 ## Contact Information
 
