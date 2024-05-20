@@ -13,7 +13,7 @@ The Summer School on Automated Planning and Scheduling in 2024 will be the first
 
 #### NEWS: Free remote participation !
 
-We were able to make the Summer School available online as well. I.e., you are able to *freely* participate in both our talks, and even the labs! Both will be via zoom, URLs will be published here. (ICKEPS will however remain an in-person competition for our on-site participants.)
+We were able to make the Summer School available online as well. I.e., you are able to *freely* participate in both our talks, and even the labs! Both will be via zoom, URLs will be published here. Please check out the section below about our labs for requirements. (ICKEPS will however remain an in-person competition for our on-site participants.)
 
 
 ## When and Where?
