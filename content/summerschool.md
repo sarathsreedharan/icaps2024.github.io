@@ -19,7 +19,7 @@ The summer school will take place from *27 May 2024* to *31 May 2024* (5 full da
 
 ## What?
 
-The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, stochastic planning, partial observability, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions (designed and executed by Sarah Keren), which are designed to demonstrate ideas and theories discussed in the lectures. The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
+The summer school provides a comprehensive and incremental overview of frameworks for planning and sequential decision-making (classical planning, hierarchical planning, task and motion planning, planning under uncertainty, RL, etc.) while using integrated task and motion planning (TMP) as the underlying ‘running example’ in the hands-on lab sessions (designed and executed by Sarah Keren), which are designed to demonstrate ideas and theories discussed in the lectures. The program will include two lectures presented by researchers from the ICAPS community in the morning and early afternoon, followed by the lab session. 
 
 
 ***We will also help hosting ICKEPS 2024:***  
