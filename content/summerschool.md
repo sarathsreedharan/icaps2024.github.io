@@ -65,6 +65,8 @@ The following is a preliminary list of speakers (ordered alphabetically) and top
 
 ### Program
 
+For the entire program, we are always in room KC 201.
+
 <b>On Monday, the program starts at 9 am with a 30 minute opening session before the first talk.</b>
 
 Also, in the schedule below, all labs are organized and executed by Sarah Keren and our two Teaching Assistants (TAs) Guy Azran and Yuval Goshen.

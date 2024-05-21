@@ -14,6 +14,9 @@ Planning to create logical, believable, and coherent stories (narratives) in a v
 techniques, including modern approaches that make use of Large Language Models (LLMs) and provide the opportunity for
 attendees to play with the technology themselves live.
 
+## Official Website and Auxiliary Materials
+
+* [Tutorial Website](https://planning4storytelling.github.io/icaps-tutorial-2024/)
 
 ## About the authors
 
@@ -52,79 +55,3 @@ educational and training systems and virtual environments.
 **Patrik Haslum** is an Associate Professor at the Australian National University, where he focuses on a wide variety
 of research in automated planning. Most notably for this tutorial, Dr Haslum has a track record of automated story
 telling through the lens of automated planning, and continues to pursue avenues of research in this area.
-
-## Tutorial Structure and Auxiliary Materials (subject to change)
-
-
-**In-person Presenters** : Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera
-
-
-***Module 1: OVERVIEW***
-
-
-***Presenter*** : Nisha Simon
-
-
-A story can be conceptualized as the telling of a sequence of events that take place within some virtual world. It can therefore be well-modeled by a plan. The plan can represent (i) the sequence of events that actually happen in the story i.e. the 'plot', or it can represent (ii) the sequence of events are they are told to the audience i.e. the 'narrative'. The 'states' that the plan traverses can encompass (i) the `physical’ state of the story world; (ii) the state of mind of the characters in the story world (their beliefs, motivations, plans, etc.); (iii) the state of the audience's knowledge/understanding of the world and events of the story; or any combination of these. Using Fully Observable Deterministic (FOD) planning and children’s stories, we can build narratives that take a character from the starting state to the goal state, within the given environment.
-
-
-
-***Module 2 : WAYS TO MODEL A NARRATIVE - PLAN SPACE PLANNING***
-
-
-***Presenter*** : Rogelio E. Cardona-Rivera
-
-
-Nodes in a graph are partial plans and edges are plan refinements. The underlying search space is directly shaped so that partial plans become solutions (or fail to do so). Plan-space narrative planning affords modeling story phenomena in terms of narrative-theoretic plan construction flaws and fixes.
-
-
-
-***Module 3 : WAYS TO MODEL A NARRATIVE - HIERARCHICAL PLANNING***
-
-
-***Presenter*** : Rogelio E. Cardona-Rivera
-
-
-More expressive and complex than classical planning: STRIPS-style primitive actions are complemented with isomorphic more-abstract compound actions that require decomposition, or associated sub-plan. This is well-suited for representing a wide variety of story phenomena that depend on abstraction, across the narrative layers. In plot, for example, character intentions can be straightforwardly codified. Hierarchical story directors afford users significant
-power to define narrative plan quality aligned to their authorial intent, across all narrative layers.
-
-
-
-***Module 4 : WAYS TO MODEL A NARRATIVE - HEURISTIC SEARCH***
-
-
-***Presenter*** : Rogelio E. Cardona-Rivera
-
-
-Using constraints in the narrative domain to encode narrative phenomena and guide story development. Using character intentions (e.g. Glaive) to calculate heuristic estimates. The narrative planning challenge is how best to encode narrative-theoretic phenomena, in order to leverage the efficient performance of such approaches.
-
-
-
-***Module 5 : PLANNING FROM A FOCALIZED PERSPECTIVE - INTENTIONALITY***
-
-
-***Presenter*** : Nisha Simon
-
-
-***Contributor*** : Patrik Haslum
-
-
-Theory of mind in Narrative generation. Creating a story often involves taking another's perspective: The story author plans from the point of view of characters in the story, to ensure their actions are consistent with their beliefs and motivations. Because stories often center on characters' interactions, characters sometimes plan from the point of view of other characters. Consequently, a key question in narrative planning is how to represent multiple view points within a plan.
-
-
-
-***Module 6 : PLANNING FROM A CHARACTER'S POINT-OF-VIEW***
-
-
-***Presenter*** : Nisha Simon
-
-
-'Choose-Your-Own-Adventure' (CYOA) stories are interactive narratives where the reader assumes a fictional persona and then takes action to influence the development of the unfolding story (for example, by choosing from various paths which to take in order to reach the end). `Choose-Your-Own-Adventure’ stories can, therefore, be thought of as a representation of an agent proceeding through a non-deterministic environment in order to achieve a certain goal. The agent is the story itself, and the non-determinism is driven by the reader. The reader is not privy to the details of the generated plan. I.e., the reader is unaware of which paths are 'better' and which paths are 'worse' paths within the story. Instead, the reader selects their choices for each stage of the story through an interactive text-based game whose logic is based on a contingent plan. The reader’s input is merely an instruction to the system to follow a specific edge on the underlying directed graph. The entire plan representation itself already exists in totality and is not updated based on the reader’s choices. Thus, CYOA stories can be created using Fully Observable Non-Deterministic (FOND) Automated Planning.
-
-
-
-***Interactive Demos (Hands-on Session)***
-
-
-***Presenters*** : Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera
-
