@@ -135,7 +135,7 @@ Hanna Kurniawati is a Professor in the ANU School of Computing and holds the Sma
 
 
 <div style="width: 100%; margin: 0; padding: 1%;">
-<h3 style="color:orange;"><strong><a href="URL">Wheeler Ruml</a></strong>, University of New Hampshire</h3>
+<h3 style="color:orange;"><strong><a href="https://www.cs.unh.edu/~ruml/">Wheeler Ruml</a></strong>, University of New Hampshire</h3>
 <h4 style="color:black;"><strong>Suboptimal heuristic search and motion planning</strong></h4>
 Many interesting problems are too hard to solve optimally.  We'll talk about alternative problem settings in which optimality is sacrificed for lower search time, such as greedy search, bounded-suboptimal search, contract search, and real-time search.  When planning under time pressure, additional sources of heuristic information beyond cost-to-go become relevant, so there is lots of room for creativity here.  We'll also discuss motion planning, where we'll see how ideas from suboptimal graph search can be very useful in searching continuous spaces.<br><br>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
