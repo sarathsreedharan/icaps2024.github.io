@@ -7,7 +7,14 @@ draft: false
 # Table of Contents
 - [Travel Information](#travel-information) 
 - [Transportation and Touring](#transportation-and-touring) 
+- [Maps](#maps)
+- [Wildlife](#wildlife)
+- [Weather and Packing Essentials](#weather-and-packing-essentials)
 - [Tourism](#tourism)
+- [Restaurants](#restaurants)
+- [Indigenous Traditions and Culture](#indigenous-traditions-and-culture)
+- [Banff Centre Info](#banff-centre-info)
+- [Banff Police, Medical, Violence/Abuse and Emergency Service Resources](#banff-police-medical-violenceabuse-and-emergency-service-resources)
 
 # Travel Information
 
@@ -69,27 +76,55 @@ Generally, costs for Roam public transit is more affordable and convenient for g
 
 [E-Bike Rentals](https://www.banfflakelouise.com/biking/e-biking)
 
-[Banff Taxi & Shuttles (Google Maps)](https://www.google.com/search?sca_esv=697ef796fdf142b1&rlz=1C1OPNX_enCA943CA943&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ADLYWII7U4mB-2MuJFniXRECh8lumNiEpg:1715805921243&q=banff%20taxi%20company&rflfq=1&num=10&sa=X&ved=2ahUKEwjftcGTw5CGAxXtDjQIHUVAApwQjGp6BAggEAE&biw=1536&bih=695&dpr=1.25&rlst=f#rlfi=hd:;si:;mv:[[51.1908624,-115.5601377],[51.1737754,-115.5729381]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2)
+[Banff Taxi and Shuttles (Google Maps)](https://www.google.com/search?sca_esv=697ef796fdf142b1&rlz=1C1OPNX_enCA943CA943&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ADLYWII7U4mB-2MuJFniXRECh8lumNiEpg:1715805921243&q=banff%20taxi%20company&rflfq=1&num=10&sa=X&ved=2ahUKEwjftcGTw5CGAxXtDjQIHUVAApwQjGp6BAggEAE&biw=1536&bih=695&dpr=1.25&rlst=f#rlfi=hd:;si:;mv:[[51.1908624,-115.5601377],[51.1737754,-115.5729381]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2)
 
 [Banff Touring Companies (Google Maps)](https://www.google.com/localservices/prolist?g2lbs=AOHF13lYdkwOq-ySJUBLHokwKxepprZ43WoAh7gaCzVBpxFstlgSMhGmbettXlZwVoQLZkkpunstAAIGBqilznusqGeVZ5XOFYNWWbFIxtxrH9g3n9Ks9OU%3D&hl=en-CA&gl=ca&ssta=1&q=banff%20tour%20companies&oq=banff%20tour%20companies&slp=MgBSAggCYAGSAeQBCgsvZy8xdGNfa3RrNgoNL2cvMTFqZm0wbW43ZgoLL2cvMXRrdjlmbGcKCy9nLzF2Z3gwZjBiCg0vZy8xMWI1d3J6aHY5Cg0vZy8xMXNzajVtMzJkCgsvZy8xdHBmNnQ3bgoNL2cvMTFubmswYjRzZgoLL2cvMXRqZHFfcjAKDS9nLzExYzB0OXlqaDcKDS9nLzExdHNqYncwajEKCy9nLzF0aHB3aHkwCg0vZy8xMWZwa3NqMjdxCg0vZy8xMWZtYzJuMTFqCg0vZy8xMXR4eHFoNnpmCg0vZy8xMWh6eHB2NHZqmgEGCgIXGRAB&src=2&serdesk=1&sa=X&sqi=2&ved=2ahUKEwj3gKiNxZCGAxVkMDQIHSCpAuMQjGp6BAgkEAE&scp=ChJnY2lkOnRvdXJfb3BlcmF0b3ISRxISCf1KDJFFynBTEWOUrNq-rq_KGhIJP7CmdmJedFMRqkhXV53e93UiBUJhbmZmKhQN5I1-HhXNFBu7HfeDgx4leTUhuzAAGg50b3VyIGNvbXBhbmllcyIUYmFuZmYgdG91ciBjb21wYW5pZXMqDVRvdXIgb3BlcmF0b3I%3D)
 
+# Maps
+[Map of Canadian Rockies and Tourist Attractions](https://www.banffjaspercollection.com/canadian-rockies/map/)
 
-# Tourism
+[Banff Pedestrian and Cycling Trails Map](https://banff.ca/DocumentCenter/View/25/Banff-Trails-Map?bidId=)
 
-### Visitor Information
+[Banff Easy, Family-Friendly Hiking Trails Map](https://stingynomads.com/easy-hikes-in-banff/)
 
-[Banff Lake Louise Tourism](https://www.banfflakelouise.com/)
+### Banff Centre District Map
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/birs_map.png"
+  alt="BIRS Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
-[Travel Alberta](https://www.travelalberta.com/)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/banff_centre_district_map.png"
+  alt="Banff Centre District Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
-### National Park Information
 
-[Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)
-[Lake Louise & Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)
-- Banff to Lake Louise is a 38 minute drive (57.1 km) via Trans-Canada Hwy/AB-1 W
-- Banff to Lake Moraine is a 1 hout 50 minute drive (71.4 km) via Trans-Canada Hwy/AB-1 W
+### Banff Map
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/town_of_banff_map.png"
+  alt="Town of Banff Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
-[Canmore & Kananaskis Visitor Info](https://www.explorecanmore.ca/plan-your-trip/)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/google_maps_banff_map.png"
+  alt="Google Maps Banff Map">
+  <figcaption></figcaption>
+  </div>
+</figure>
 
 
 # Wildlife
@@ -107,17 +142,34 @@ Mountains can be dangerous. If you are planning an excursion, contact the Parks 
 Also see:
 
 - [Alberta Wildlife Outdoor Safety Guide](https://www.albertaparks.ca/albertaparksca/advisories-public-safety/outdoor-safety/wildlife-you/)
-- [Tips to Respect Wildlife & Stay Safe *Including Bear Spray Info*](https://parks.canada.ca/voyage-travel/conseils-tips/faune-wildlife)
+- [Tips to Respect Wildlife and Stay Safe *Including Bear Spray Info*](https://parks.canada.ca/voyage-travel/conseils-tips/faune-wildlife)
 
 For vehicle use, wildlife signage along highways and some local roads are posted. Drive accordingly as you may see some animals crossing as you drive. Watch the road and the ditches alongside within these marked areas. Use extra caution when approaching curves/bends on roads and when reaching the crest of a hill.
 
-# Weather + Packing Essentials
+# Weather and Packing Essentials
 
 - This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 10℃ - 30℃. 
 - Sunscreen is also recommended as there are many days where it is all sun and no clouds. 
 - Alberta also has dry weather. Chapstick and lotion may be helpful. 
-- Pack clothing for hot days & chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
+- Pack clothing for hot days and chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
 - There are areas that may be chillier than others, this can depend on sun exposure, proximity to water, altitude (especially when hiking).
+
+# Tourism
+
+### Visitor Information
+
+[Banff Lake Louise Tourism](https://www.banfflakelouise.com/)
+
+[Travel Alberta](https://www.travelalberta.com/)
+
+### National Park Information
+
+[Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)
+[Lake Louise and Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)
+- Banff to Lake Louise is a 38 minute drive (57.1 km) via Trans-Canada Hwy/AB-1 W
+- Banff to Lake Moraine is a 1 hout 50 minute drive (71.4 km) via Trans-Canada Hwy/AB-1 W
+
+[Canmore and Kananaskis Visitor Info](https://www.explorecanmore.ca/plan-your-trip/)
 
 # Restaurants
 
@@ -167,65 +219,17 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 #### $$$
 - **Balkan Greek Restaurant:** Upbeat mainstay featuring traditional fare such as moussaka and gyros, plus weekly Greek dance nights. Vegetarian dishes available.
 
-# Maps
-[Map of Canadian Rockies & Tourist Attractions](https://www.banffjaspercollection.com/canadian-rockies/map/)
-
-[Banff Pedestrian & Cycling Trails Map](https://banff.ca/DocumentCenter/View/25/Banff-Trails-Map?bidId=)
-
-[Banff Easy, Family-Friendly Hiking Trails Map](https://stingynomads.com/easy-hikes-in-banff/)
-
-### Banff Centre District Map
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/travel/birs_map.png"
-  alt="BIRS Map">
-  <figcaption></figcaption>
-  </div>
-</figure>
-
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/travel/banff_centre_district_map.png"
-  alt="Banff Centre District Map">
-  <figcaption></figcaption>
-  </div>
-</figure>
-
-
-### Banff Map
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/travel/town_of_banff_map.png"
-  alt="Town of Banff Map">
-  <figcaption></figcaption>
-  </div>
-</figure>
-
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/travel/google_maps_banff_map.png"
-  alt="Google Maps Banff Map">
-  <figcaption></figcaption>
-  </div>
-</figure>
-
-
-
-# Indigenous Traditions & Culture
+# Indigenous Traditions and Culture
 [Banff Indigenous Peoples](https://banff.ca/indigenouspeoples)
 
 # Banff Centre Info
 [Banff Centre Events](https://www.banffcentre.ca/events/events)  
-[Banff Sally Borden Fitness & Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)  
+[Banff Sally Borden Fitness and Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)  
 [Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)  
-[Banff Library & Archives](https://www.banffcentre.ca/library-archives)  
+[Banff Library and Archives](https://www.banffcentre.ca/library-archives)  
 [Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)  
 
-# Banff Police, Medical, Violence/Abuse & Emergency Service Resources
+# Banff Police, Medical, Violence/Abuse and Emergency Service Resources
 
 Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
 
@@ -238,6 +242,6 @@ Phone:	403.762.1256
 Emergency Phone: 911  
 
 [Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)
-[Banff Medical Resources & Information](https://www.banffcentre.ca/participant-resources/medical-information)
+[Banff Medical Resources and Information](https://www.banffcentre.ca/participant-resources/medical-information)
 [Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)
 [Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)
