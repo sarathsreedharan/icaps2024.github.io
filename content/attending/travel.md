@@ -14,7 +14,8 @@ draft: false
 - [Restaurants](#restaurants)
 - [Indigenous Traditions and Culture](#indigenous-traditions-and-culture)
 - [Banff Centre Info](#banff-centre-info)
-- [Banff Police, Medical, Violence/Abuse and Emergency Service Resources](#banff-police-medical-violenceabuse-and-emergency-service-resources)
+- [Banff Police, Medical/Pharmaceutical, Violence/Abuse and Emergency Service Resources](#banff-police-medicalpharmaceutical-violenceabuse-and-emergency-service-resources)
+- [Convenience](#convenience)
 
 # Travel Information
 
@@ -229,8 +230,9 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 [Banff Library and Archives](https://www.banffcentre.ca/library-archives)  
 [Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)  
 
-# Banff Police, Medical, Violence/Abuse and Emergency Service Resources
+# Banff Police, Medical/Pharmaceutical, Violence/Abuse and Emergency Service Resources
 
+### Police/Fire Department Resources
 Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
 
 Fire Department  
@@ -239,9 +241,26 @@ Physical Address:
 201 Beaver Street  
 Banff, AB T1L 1A1  
 Phone:	403.762.1256  
-Emergency Phone: 911  
+Emergency Phone: 911 
 
-[Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)
-[Banff Medical Resources and Information](https://www.banffcentre.ca/participant-resources/medical-information)
-[Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)
-[Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)
+### Medical Resources
+[Banff Mineral Springs Hospital](https://covenanthealth.ca/locations/banff-mineral-springs-hospital)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/travel/hospital_route.png"
+  alt="Route to the Hospital">
+  <figcaption></figcaption>
+  </div>
+</figure>
+
+[Alpine Medical Clinic (Walk-ins, minor emergencies, etc.)](https://www.alpinemedical.ca/services/)  
+[Banff Pharmacies, Other Medical Resources, and Information](https://www.banffcentre.ca/participant-resources/medical-information)  
+
+### Crime/Sexual Violence Resources
+[Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)  
+[Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)  
+[Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)  
+
+# Convenience
+[Banff Convenience Store](https://www.google.com/maps/dir/Banff+Centre+for+Arts+and+Creativity,+Tunnel+Mountain+Drive,+Banff,+AB/210+Buffalo+St,+Banff,+AB+T1L+1G2/@51.1733178,-115.569342,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x5370ca370d34ba11:0xbc711e516f9dc32d!2m2!1d-115.5619713!2d51.1717167!1m5!1m1!1s0x5370ca46f234bb2d:0xbe5a58c586e3cb69!2m2!1d-115.5715427!2d51.1745219?entry=ttu)
