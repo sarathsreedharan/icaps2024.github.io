@@ -368,7 +368,7 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
 </table>
 <br>
 
-Our social evenning program is voluntary and will thus be announced on-site.
+Our social evening program is voluntary and will thus be announced on-site.
 
 **Caption:**
 - <span style="background-color: #ff0; color: black;">Labs:</span> All our lab sessions are depicted in <span style="background-color: #ff0; color: black;">Yellow</span>. These are our hands-on sessions on Task and Motion Planning.
