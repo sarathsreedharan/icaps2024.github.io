@@ -4,6 +4,11 @@ date: 2024-03-04T17:53:41+01:00
 draft: false
 ---
 
+# Table of Contents
+- [Travel Information](#travel-information) 
+- [Transportation and Touring](#transportation-and-touring) 
+- [Tourism](#tourism)
+
 # Travel Information
 
 The town of Banff is west of Calgary, Alberta. Most attendees will fly into Calgary International Airport (YYC) and drive or take a bus to Banff.
@@ -12,7 +17,7 @@ The town of Banff is west of Calgary, Alberta. Most attendees will fly into Calg
 
 Note: Banff is in Banff National Park. The Park has an entry fee. See below.
 
-## Bus from YYC to Banff
+### Bus from YYC to Banff
 
 A two-hour drive away, the Calgary International Airport (YYC) is the closest airport to Banff. The Calgary International Airport maintains a website with up-to-date information on transportation and accommodation information. Visit [https://yyc.com/](https://yyc.com/).
 
@@ -20,7 +25,7 @@ A two-hour drive away, the Calgary International Airport (YYC) is the closest ai
 
 Brewster Travel Canada offers daily motor coach shuttles from YYC to Banff. Reservations are required. Visit [https://www.banffjaspercollection.com/brewster-express/](https://www.banffjaspercollection.com/brewster-express/). The bus stops at the Banff bus station, a five-minute drive or 30 minute walk to the Banff Centre. Call Taxi Taxi at **403.762.0000**.
 
-## Drive from YYC to Banff
+### Drive from YYC to Banff
 
 <figure>
 <div style="text-align:center">
@@ -34,7 +39,7 @@ Brewster Travel Canada offers daily motor coach shuttles from YYC to Banff. Res
 For those attending the Symposium on Combinatorial Search (SOCS) this year, note the location of Kananaskis Village on the map.
 There are numerous places to park at the Banff Centre. Parking is free.
 
-## Banff National Park Entry Fee
+### Banff National Park Entry Fee
 [From [https://parks.canada.ca/pn-np/ab/banff/visit/tarifs-fees#admission](https://parks.canada.ca/pn-np/ab/banff/visit/tarifs-fees#admission), February 25]
 
 A fee is charged for admission to Banff National Park. The revenues are used to support visitor services and facilities. The fee per day (in Canadian dollars):
@@ -47,19 +52,37 @@ Youth (age 17 and under): free
 
 Family/group (up to seven people arriving in a single vehicle): $22
 
-## Getting Around in Banff
+# Transportation and Touring
 Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
 
+Distance from Banff Centre to Downtown Banff is roughly a 5 minute drive or 18 minute walk (see link for route via Google Maps)
 
-# BANFF NATIONAL PARK
+[Route from Banff Centre to Downtown Banff (Google Maps)](https://www.google.com/search?q=banff+centre+to+banff+downtown&rlz=1C1OPNX_enCA943CA943&oq=banff+centre+to+banff+down&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY0MDZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
-## Visitor Information
+[Purchase Banff Park Pass *Required for Vehicles](https://www.banfflakelouise.com/park-pass-purchase)
+
+Generally, costs for Roam public transit is more affordable and convenient for getting around Banff and surrounding areas. The Roam Transit has 10 Bus routes in Banff with 124 Bus stops. Their Bus routes cover an area from the Lake Louise Lakeshore Summer stop to the Stewart Creek stop and from the Lake Louise Village North stop to the Stewart Creek stop.
+
+[About "Roam" Bus Public Transit](https://banff.ca/435/Roam-Public-Transit) and ["Roam" Bus Schedules](https://roamtransit.com/)
+
+[Reservations *required* for Shuttle Busses (to Lake Louise and Moraine Lake)](https://reservation.pc.gc.ca/)
+
+[E-Bike Rentals](https://www.banfflakelouise.com/biking/e-biking)
+
+[Banff Taxi & Shuttles (Google Maps)](https://www.google.com/search?sca_esv=697ef796fdf142b1&rlz=1C1OPNX_enCA943CA943&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ADLYWII7U4mB-2MuJFniXRECh8lumNiEpg:1715805921243&q=banff%20taxi%20company&rflfq=1&num=10&sa=X&ved=2ahUKEwjftcGTw5CGAxXtDjQIHUVAApwQjGp6BAggEAE&biw=1536&bih=695&dpr=1.25&rlst=f#rlfi=hd:;si:;mv:[[51.1908624,-115.5601377],[51.1737754,-115.5729381]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2)
+
+[Banff Touring Companies (Google Maps)](https://www.google.com/localservices/prolist?g2lbs=AOHF13lYdkwOq-ySJUBLHokwKxepprZ43WoAh7gaCzVBpxFstlgSMhGmbettXlZwVoQLZkkpunstAAIGBqilznusqGeVZ5XOFYNWWbFIxtxrH9g3n9Ks9OU%3D&hl=en-CA&gl=ca&ssta=1&q=banff%20tour%20companies&oq=banff%20tour%20companies&slp=MgBSAggCYAGSAeQBCgsvZy8xdGNfa3RrNgoNL2cvMTFqZm0wbW43ZgoLL2cvMXRrdjlmbGcKCy9nLzF2Z3gwZjBiCg0vZy8xMWI1d3J6aHY5Cg0vZy8xMXNzajVtMzJkCgsvZy8xdHBmNnQ3bgoNL2cvMTFubmswYjRzZgoLL2cvMXRqZHFfcjAKDS9nLzExYzB0OXlqaDcKDS9nLzExdHNqYncwajEKCy9nLzF0aHB3aHkwCg0vZy8xMWZwa3NqMjdxCg0vZy8xMWZtYzJuMTFqCg0vZy8xMXR4eHFoNnpmCg0vZy8xMWh6eHB2NHZqmgEGCgIXGRAB&src=2&serdesk=1&sa=X&sqi=2&ved=2ahUKEwj3gKiNxZCGAxVkMDQIHSCpAuMQjGp6BAgkEAE&scp=ChJnY2lkOnRvdXJfb3BlcmF0b3ISRxISCf1KDJFFynBTEWOUrNq-rq_KGhIJP7CmdmJedFMRqkhXV53e93UiBUJhbmZmKhQN5I1-HhXNFBu7HfeDgx4leTUhuzAAGg50b3VyIGNvbXBhbmllcyIUYmFuZmYgdG91ciBjb21wYW5pZXMqDVRvdXIgb3BlcmF0b3I%3D)
+
+
+# Tourism
+
+### Visitor Information
 
 [Banff Lake Louise Tourism](https://www.banfflakelouise.com/)
 
 [Travel Alberta](https://www.travelalberta.com/)
 
-## National Park Information
+### National Park Information
 
 [Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)
 [Lake Louise & Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)
@@ -69,7 +92,7 @@ Uber and Lyft are not available in Banff. Call Taxi Taxi at **403.762.0000**.
 [Canmore & Kananaskis Visitor Info](https://www.explorecanmore.ca/plan-your-trip/)
 
 
-## Wildlife
+# Wildlife
 As the Banff Centre and the town of Banff are in Banff National Park, various types of wildlife are often observed. Sightings range from different bird species to the most frequently encountered large mammals: elk, mountain goats, bears, and mountain lions.
 
 Keep in mind that the wildlife you may encounter is just that — wild! Please ensure that you respect the animals' spaces and habitats while in the park. That perfect picture can sometimes lead to a compromising situation for both the subject and the photographer. For your safety and theirs, please treat them with respect and keep your distance. Please do not feed any of the animals, including the squirrels, as they are protected by law.
@@ -88,7 +111,7 @@ Also see:
 
 For vehicle use, wildlife signage along highways and some local roads are posted. Drive accordingly as you may see some animals crossing as you drive. Watch the road and the ditches alongside within these marked areas. Use extra caution when approaching curves/bends on roads and when reaching the crest of a hill.
 
-## Weather + Packing Essentials
+# Weather + Packing Essentials
 
 - This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 10℃ - 30℃. 
 - Sunscreen is also recommended as there are many days where it is all sun and no clouds. 
@@ -96,7 +119,7 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 - Pack clothing for hot days & chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
 - There are areas that may be chillier than others, this can depend on sun exposure, proximity to water, altitude (especially when hiking).
 
-## Restaurants
+# Restaurants
 
 ### Our Recommendations:
 - **($10-20) Hankki:** Korean street food restaurant, small seating areas, (new) desserts area. Serves vegetarian dishes, Wi-Fi and high chairs available.
@@ -144,7 +167,7 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 #### $$$
 - **Balkan Greek Restaurant:** Upbeat mainstay featuring traditional fare such as moussaka and gyros, plus weekly Greek dance nights. Vegetarian dishes available.
 
-## Maps
+# Maps
 [Map of Canadian Rockies & Tourist Attractions](https://www.banffjaspercollection.com/canadian-rockies/map/)
 
 [Banff Pedestrian & Cycling Trails Map](https://banff.ca/DocumentCenter/View/25/Banff-Trails-Map?bidId=)
@@ -190,36 +213,19 @@ For vehicle use, wildlife signage along highways and some local roads are posted
   </div>
 </figure>
 
-## Transportation and Touring
-Distance from Banff Centre to Downtown Banff is roughly a 5 minute drive or 18 minute walk (see link for route via Google Maps)
 
-[Route from Banff Centre to Downtown Banff (Google Maps)](https://www.google.com/search?q=banff+centre+to+banff+downtown&rlz=1C1OPNX_enCA943CA943&oq=banff+centre+to+banff+down&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY0MDZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
-[Purchase Banff Park Pass *Required for Vehicles](https://www.banfflakelouise.com/park-pass-purchase)
-
-Generally, costs for Roam public transit is more affordable and convenient for getting around Banff and surrounding areas. The Roam Transit has 10 Bus routes in Banff with 124 Bus stops. Their Bus routes cover an area from the Lake Louise Lakeshore Summer stop to the Stewart Creek stop and from the Lake Louise Village North stop to the Stewart Creek stop.
-
-[About "Roam" Bus Public Transit](https://banff.ca/435/Roam-Public-Transit) and ["Roam" Bus Schedules](https://roamtransit.com/)
-
-[Reservations *required* for Shuttle Busses (to Lake Louise and Moraine Lake)](https://reservation.pc.gc.ca/)
-
-[E-Bike Rentals](https://www.banfflakelouise.com/biking/e-biking)
-
-[Banff Taxi & Shuttles (Google Maps)](https://www.google.com/search?sca_esv=697ef796fdf142b1&rlz=1C1OPNX_enCA943CA943&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ADLYWII7U4mB-2MuJFniXRECh8lumNiEpg:1715805921243&q=banff%20taxi%20company&rflfq=1&num=10&sa=X&ved=2ahUKEwjftcGTw5CGAxXtDjQIHUVAApwQjGp6BAggEAE&biw=1536&bih=695&dpr=1.25&rlst=f#rlfi=hd:;si:;mv:[[51.1908624,-115.5601377],[51.1737754,-115.5729381]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2)
-
-[Banff Touring Companies (Google Maps)](https://www.google.com/localservices/prolist?g2lbs=AOHF13lYdkwOq-ySJUBLHokwKxepprZ43WoAh7gaCzVBpxFstlgSMhGmbettXlZwVoQLZkkpunstAAIGBqilznusqGeVZ5XOFYNWWbFIxtxrH9g3n9Ks9OU%3D&hl=en-CA&gl=ca&ssta=1&q=banff%20tour%20companies&oq=banff%20tour%20companies&slp=MgBSAggCYAGSAeQBCgsvZy8xdGNfa3RrNgoNL2cvMTFqZm0wbW43ZgoLL2cvMXRrdjlmbGcKCy9nLzF2Z3gwZjBiCg0vZy8xMWI1d3J6aHY5Cg0vZy8xMXNzajVtMzJkCgsvZy8xdHBmNnQ3bgoNL2cvMTFubmswYjRzZgoLL2cvMXRqZHFfcjAKDS9nLzExYzB0OXlqaDcKDS9nLzExdHNqYncwajEKCy9nLzF0aHB3aHkwCg0vZy8xMWZwa3NqMjdxCg0vZy8xMWZtYzJuMTFqCg0vZy8xMXR4eHFoNnpmCg0vZy8xMWh6eHB2NHZqmgEGCgIXGRAB&src=2&serdesk=1&sa=X&sqi=2&ved=2ahUKEwj3gKiNxZCGAxVkMDQIHSCpAuMQjGp6BAgkEAE&scp=ChJnY2lkOnRvdXJfb3BlcmF0b3ISRxISCf1KDJFFynBTEWOUrNq-rq_KGhIJP7CmdmJedFMRqkhXV53e93UiBUJhbmZmKhQN5I1-HhXNFBu7HfeDgx4leTUhuzAAGg50b3VyIGNvbXBhbmllcyIUYmFuZmYgdG91ciBjb21wYW5pZXMqDVRvdXIgb3BlcmF0b3I%3D)
-
-## Indigenous Traditions & Culture
+# Indigenous Traditions & Culture
 [Banff Indigenous Peoples](https://banff.ca/indigenouspeoples)
 
-## Banff Centre Info
+# Banff Centre Info
 [Banff Centre Events](https://www.banffcentre.ca/events/events)  
 [Banff Sally Borden Fitness & Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)  
 [Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)  
 [Banff Library & Archives](https://www.banffcentre.ca/library-archives)  
 [Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)  
 
-## Banff Police, Medical, Violence/Abuse & Emergency Service Resources
+# Banff Police, Medical, Violence/Abuse & Emergency Service Resources
 
 Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
 
