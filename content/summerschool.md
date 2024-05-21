@@ -53,7 +53,7 @@ CV
 <h4 style="color:black;"><strong>An Introduction to Hierarchical Task Network (HTN) Planning: Theoretical Foundations & Problem Solving</strong></h4>
 In this introductory talk, we explore the basics of HTN planning, designed to enable anybody without prior knowledge of this field to easily follow current research papers in this field. Starting with a simplistic formalization of the problem -- as used in scientific papers -- we explore how this relates to non-hierarchical (STRIPS) planning both in terms of computational complexity and a more fine-grained measure of expressivity, before looking into extensions of the core formalism. We study the most commonly known solution technique -- progression search -- but also provide pointers to others such as compilation techniques.<br><br>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/summerschool/Pascal-Bercher.jpg" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/summerschool/Pascal-Bercher.jpg" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -442,9 +442,21 @@ In putting together the program, Sarah has been supported by our two teaching as
 - Yuval Goshen from Technion, Israel
 
 
+
 ## Sponsors
 
-Here we will list all our sponsors that help(ed) making the summer school possible.
+We greatly appreciate our **Platinum** sponsors:  
+
+<a href="https://www.birs.ca/">
+    <img src="/summerschool/BIRS_Logo2.png"/>
+</a>
+<br><br>
+
+<a href="https://aij.ijcai.org/">
+    <img src="/img/partners/aij.jpeg" alt="AIJ" width="250"/>
+</a>
+<br><br>
+
 
 | Platinum sponsorship (5000 CAD and above)&nbsp;&nbsp;&nbsp;&nbsp; | Gold sponsorship (2500 to 4999 CAD)&nbsp;&nbsp;&nbsp;&nbsp; | Silver sponsorship (1000 to 2499 CAD) |
 | ------------------------------------------ | ---------------------------------- | ------------------------------------- |
