@@ -80,6 +80,51 @@ If all applications cannot be supported, selection will be based on the above ma
 
 We are looking into ways to provide student support partly covering travel and/or registration costs. Additional funding information will be available closer to the notification date.
 
+## Schedule (tentative)
+
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr style="background-color: #d1e7dd;">
+    <th style="width: 30%;">Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td>9:00-9:15</td>
+    <td>Welcome and opening remarks by DC co-chairs</td>
+  </tr>
+  <tr style="background-color: #e9ecef;">
+    <td>9:15-10:00</td>
+    <td>Keynote talk by Sven Koenig</td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td>10:00-10:30</td>
+    <td>AM break</td>
+  </tr>
+  <tr style="background-color: #e9ecef;">
+    <td>10:30-12:00</td>
+    <td>Session 1</td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td>12:00-1:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr style="background-color: #e9ecef;">
+    <td>1:30-3:00</td>
+    <td>Session 2</td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td>3:00-3:30</td>
+    <td>Break</td>
+  </tr>
+  <tr style="background-color: #e9ecef;">
+    <td>3:30-4:30</td>
+    <td>Session 3</td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td>4:30-4:40</td>
+    <td>Closing remarks</td>
+  </tr>
+</table>
+
 
 ## Contact Information
 
