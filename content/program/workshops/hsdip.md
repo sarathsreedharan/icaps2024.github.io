@@ -25,7 +25,8 @@ HSDIP is scheduled on the June 2.
 ---
 [08:50 - 10:00] - **Opening & Invited Talk**
 * **Opening Remarks**
-* **Forest Agostinelli -- TBD**
+* **Opportunities and Challenges for Domain-Independent Planning with Deep Reinforcement Learning**  
+  Forest Agostinelli
 
 ---
 [10:00 - 10:30] - Coffee Break
@@ -76,7 +77,37 @@ HSDIP is scheduled on the June 2.
   Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
 * **Metareasoning Needs Distributions: Put Up or Shut Up Games** ([PDF](../hsdip-papers/paper_5.pdf))  
   Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+  
+---
 
+
+## Invited Speaker
+
+**Forest Agostinelli**  
+
+**Title:** Opportunities and Challenges for Domain-Independent Planning with Deep Reinforcement Learning  
+
+**Abstract:** Deep reinforcement learning has been shown to be able to learn domain-specific heuristic functions
+in a largely domain-independent fashion. This has allowed practitioners to apply heuristic search to fields such 
+as puzzle solving, quantum computing, and chemical reactions without domain-specific heuristic knowledge. 
+Furthermore, this has led to improved performance when compared to existing domain-independent planners. However, 
+analyzing deep neural networks to obtain theoretical guarantees is still an open area of research and training 
+a deep neural network can take days. On the other hand, existing domain-independent planners are amenable to 
+analysis and can often readily be applied to new problem instances or domains without significant computational 
+overhead. In this talk, I will describe how deep reinforcement learning can be used to learn heuristic functions 
+to guide heuristic search. Next, I will present ongoing research on obtaining admissible heuristic functions. Finally, 
+I will give an overview of ongoing research on training deep neural networks to generalize across problem instances 
+and even across domains. The code for many of these algorithms is publicly available at 
+[DeepXube](https://github.com/forestagostinelli/deepxube).
+
+**Short Bio:** Forest Agostinelli is an assistant professor at the University of South Carolina. His research 
+aims to use artificial intelligence to automate the discovery of new knowledge. He looks to apply his research 
+to fields such as puzzle solving, chemical synthesis, robotics, quantum computing, theorem proving, program 
+synthesis, and education. He led the creation of DeepCubeA, an artificial intelligence algorithm capable of 
+solving puzzles such as the Rubik’s cube without human guidance. DeepCubeA has since been applied to problems 
+in quantum computing, chemical reactions, cryptography, and parking lot optimization. He earned his Ph.D. 
+from the University of California, Irvine under the supervision of Professor Pierre Baldi. His homepage 
+is located at [here](https://cse.sc.edu/~foresta/).
 
 
 ## Topics of Interest
