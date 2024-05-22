@@ -13,7 +13,11 @@ The Summer School on Automated Planning and Scheduling in 2024 will be the first
 
 #### NEWS: Free remote participation !
 
-We were able to make the Summer School available online as well. I.e., you are able to *freely* participate in both our talks, and even the labs! Both will be via zoom, URLs will be published here. Please check out the section below about our labs for requirements. (ICKEPS will however remain an in-person competition for our on-site participants.)
+We were able to make the Summer School available online as well. I.e., you are able to *freely* participate in both our talks, and even the labs! (ICKEPS will however remain an in-person competition for our on-site participants.)
+
+Both the lectures and the labs will be managed via zoom, the URL is going to be shared in our [git repository](https://github.com/CLAIR-LAB-TECHNION/ICAPS-24). *Please check out the section below about our labs for requirements.*
+
+**IMPORTANT:** We also rely on the the readme of our git repository to communicate any recent news -- i.e., they will be posted there, not here. So check this file carefully.
 
 
 ## When and Where?
@@ -381,10 +385,10 @@ Our social evening program is voluntary and will thus be announced on-site.
 
 To participate in the lab sessions (online or on-site), you will require:
 
-- A laptop. Software runs in a browser, so no special software or operating system is required. If you use Google Colab (which is what we use), you will need a google account. The URL of the notebooks is [https://github.com/CLAIR-LAB-TECHNION/ICAPS-24](https://github.com/CLAIR-LAB-TECHNION/ICAPS-24).
+- A laptop. Software runs in a browser, so no special software or operating system is required. If you use Google Colab (which is what we use), you will need a google account. The URL of the notebooks is [https://github.com/CLAIR-LAB-TECHNION/ICAPS-24](https://github.com/CLAIR-LAB-TECHNION/ICAPS-24). That repository contains a readme, which explains how to run the notebooks. (At least the readme *will* contain that explanation before the labs start.)
 - Basic knowledge of PDDL. If you can't read PDDL yet, you could check out this [hands-on lecture](https://www.youtube.com/watch?v=pfNb0IAkbcQ&t=3s) (you can start at 40:00 in case you are already familiar with classical planning). The required hands-on material can be downloaded [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE--PlanningIntroHandsOn.zip). Slides are available [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE-PlanningIntro.pdf).
 - Basic knowledge of the programming language Python.
-- Live participation will be enabled via zoom. We will provide a zoom link here in time.
+- Live participation will be enabled via zoom. The zoom link is made available in the readme that's part of our git (see above). (As mentioned at the very top, our readme will also serve as our central hub for any news and other info we want to share in a timely manner, so check it frequently!)
 
 
 ## Who can join? 
