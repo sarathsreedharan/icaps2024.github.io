@@ -179,7 +179,7 @@ Nathan is a Fellow and Canada CIFAR AI Chair at Amii and a Professor in the Depa
 <h4 style="color:black;"><strong>Risk-bounded Task and Motion Planning in the Real World</strong></h4>
 Robots need to know their limits, lest they recklessly endanger themselves and others. In this tutorial we present paradigms for designing task and motion planners that bound risk of failure, while spending acceptable risk to its greatest effect. Applications range from an autonomous car that maneuvers around reckless drivers to robot assembly and exploration of a deep-sea volcano.<br><br>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/migration/williams.jpg?h=5636fc5d&itok=YetkMNmw" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/summerschool/Brian-Williams.jpg" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
