@@ -159,6 +159,8 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 
 ### Visitor Information
 
+[Banff Visitor Brochures](https://parks.canada.ca/pn-np/ab/banff/visit/brochures)
+
 [Banff Lake Louise Tourism](https://www.banfflakelouise.com/)
 
 [Travel Alberta](https://www.travelalberta.com/)
