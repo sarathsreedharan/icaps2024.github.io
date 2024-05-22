@@ -11,15 +11,15 @@
                 "end": "11:30",
                 "sessions": [
                     {
-                        "name": "Reinforcement Learning",
-                        "label": "sess-rl",
-                        "location": "TBD",
+                        "name": "Heuristics",
+                        "label": "sess-heur",
+                        "location": "Max Bell",
                         "chair": "TBD"
                     },
                     {
-                        "name": "Heuristics",
-                        "label": "sess-heur",
-                        "location": "TBD",
+                        "name": "Reinforcement Learning",
+                        "label": "sess-rl",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -34,13 +34,13 @@
                     {
                         "name": "LLMs and Neural Action Policies",
                         "label": "sess-llm",
-                        "location": "TBD",
+                        "location": "Max Bell",
                         "chair": "TBD"
                     },
                     {
                         "name": "Theory",
                         "label": "sess-theory",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -55,13 +55,13 @@
                     {
                         "name": "Planning and Learning",
                         "label": "sess-pal",
-                        "location": "TBD",
+                        "location": "Max Bell",
                         "chair": "TBD"
                     },
                     {
                         "name": "Temporal Planning",
                         "label": "sess-temporal",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -82,13 +82,13 @@
                     {
                         "name": "Search and Uncertainty",
                         "label": "sess-search",
-                        "location": "TBD",
+                        "location": "KC 203",
                         "chair": "TBD"
                     },
                     {
                         "name": "MAPF",
                         "label": "sess-mapf",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -103,13 +103,13 @@
                     {
                         "name": "Planning Under Uncertainty",
                         "label": "sess-puu",
-                        "location": "TBD",
+                        "location": "KC 203",
                         "chair": "TBD"
                     },
                     {
                         "name": "Robotics",
                         "label": "sess-robotics",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -124,13 +124,13 @@
                     {
                         "name": "Robots and Space",
                         "label": "sess-space",
-                        "location": "TBD",
+                        "location": "KC 203",
                         "chair": "TBD"
                     },
                     {
                         "name": "Explainability",
                         "label": "sess-explain",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -151,13 +151,13 @@
                     {
                         "name": "Knowledge Engineering",
                         "label": "sess-ke",
-                        "location": "TBD",
+                        "location": "KC 203",
                         "chair": "TBD"
                     },
                     {
                         "name": "Scheduling",
                         "label": "sess-scheduling",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
@@ -172,13 +172,13 @@
                     {
                         "name": "Applications",
                         "label": "sess-applications",
-                        "location": "TBD",
+                        "location": "KC 203",
                         "chair": "TBD"
                     },
                     {
                         "name": "Hybrid and Numeric Planning",
                         "label": "sess-hybrid",
-                        "location": "TBD",
+                        "location": "KC 201",
                         "chair": "TBD"
                     }
                 ]
