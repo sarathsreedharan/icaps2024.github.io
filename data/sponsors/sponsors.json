@@ -48,7 +48,8 @@
 					"logo": "/img/partners/cifar.png",
 					"height": "-1",
 					"width": "200",
-					"link": "https://www.cifar.ca/"
+					"link": "https://www.cifar.ca/",
+					"title": "This workshop is supported by the CIFAR Pan-Canadian AI Strategy through a Catalyst award."
 				}
 			]
 		},
