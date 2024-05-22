@@ -77,6 +77,9 @@ HSDIP is scheduled on the June 2.
   Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
 * **Metareasoning Needs Distributions: Put Up or Shut Up Games** ([PDF](../hsdip-papers/paper_5.pdf))  
   Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+  
+---
+
 
 ## Invited Speaker
 
