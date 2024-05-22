@@ -363,16 +363,21 @@ Also, in the schedule below, all labs are organized and executed by Sarah Keren 
     </tr>
     <tr>
         <td><b>Evening (time)</b></td>
+        <td>"Speed Dating" at TCPL<br>(20:00-21:30)</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>Dinner<br>(18:00-19:30)</td>
+        <td>Dinner<br>(18:00-19:30)<br>Hang-out & Jam Session at TCPL (20:00-21:30)</td>
         <td></td>
     </tr>
 </table>
 <br>
 
-Our social evening program is voluntary and will thus be announced on-site.
+**Further Information:**
+- Our social evening program is voluntary. Parts of it will be announced on-site.
+- In the "Speed Dating" we mix up pairs of two randomly who can ask random questions so that we all get to know each other! "Rules" will be shared in time.
+- The venue TCPL of some of our social events are stands for TransCanada Pipelines Pavilion and it's on campus.
+- Keep in mind that we don't update this page anymore close to the event. We use the readme in our [github](https://github.com/CLAIR-LAB-TECHNION/ICAPS-24) for recent news.
+
 
 **Caption:**
 - <span style="background-color: #ff0; color: black;">Labs:</span> All our lab sessions are depicted in <span style="background-color: #ff0; color: black;">Yellow</span>. These are our hands-on sessions on Task and Motion Planning.
@@ -389,6 +394,7 @@ To participate in the lab sessions (online or on-site), you will require:
 - Basic knowledge of PDDL. If you can't read PDDL yet, you could check out this [hands-on lecture](https://www.youtube.com/watch?v=pfNb0IAkbcQ&t=3s) (you can start at 40:00 in case you are already familiar with classical planning). The required hands-on material can be downloaded [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE--PlanningIntroHandsOn.zip). Slides are available [here](https://bercher.net/data/teaching/2022/2022-S1--CCSE-PlanningIntro.pdf).
 - Basic knowledge of the programming language Python.
 - Live participation will be enabled via zoom. The zoom link is made available in the readme that's part of our git (see above). (As mentioned at the very top, our readme will also serve as our central hub for any news and other info we want to share in a timely manner, so check it frequently!)
+- Please note that in case remote participation in the labs exceeds our capacities, priority will be given to our in-person participants.
 
 
 ## Who can join? 
