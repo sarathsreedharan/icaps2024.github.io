@@ -67,7 +67,7 @@ KEPS is scheduled on the 2nd of June 2024.
 - "Shall You Use that PDDL+ Language Feature? An Empirical Analysis on a Real-world Case Study", Anas El Kouaiti, Francesco Percassi, Alessandro Saetti and Mauro Vallati ([PDF](../keps-papers/KEPS-24_paper_2.pdf))  
 - "Traversing the Linguistic Divide: Aligning Semantically Equivalent Fluents Through Model Refinement", Kelsey Sikes, Morgan Fine-Morris, Sarath Sreedharan and Mark Roberts
 - "Action-Failure Resilient Planning", Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala and Ivan Serina ([PDF](../keps-papers/KEPS-24_paper_6.pdf)) 
-- "Specifying State Abstractions and Representation Mappings", Ronen Brafman and Or Wertheim
+- "Specifying State Abstractions and Representation Mappings", Ronen Brafman and Or Wertheim ([PDF](../keps-papers/KEPS-24_paper_8.pdf)) 
 - "Action Inheritance Within the Unified Planning Framework", Alan Lindsay and Ron Petrick ([PDF](../keps-papers/KEPS-24_paper_14.pdf)) 
 - "Nyx: Planning for Emerging Problems with PDDL+ and Beyond", Wiktor Piotrowski, Alexandre Perez and Sachin Grover ([PDF](../keps-papers/KEPS-24_paper_18.pdf)) 
 
