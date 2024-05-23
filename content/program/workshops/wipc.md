@@ -97,3 +97,21 @@ by Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian
 by Simon Dold
 - *Online Submission and Evaluation System Design for Competition Operations*
 by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
+
+
+# Schedule
+
+| Time (Banff) | Title |
+|:------------:|:-----------|
+|     8:30     | **Talk Session 1**  |
+|  | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus |
+|  | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
+|  | Comparing Planners: Beyond Coverage Tables. Caleb K Hill, Stephen Wissow, Wheeler Ruml |
+|  | Online Submission and Evaluation System Design for Competition Operations. Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant |
+|    10:00     | Coffee break |
+|    10:30     | **Talk Session 2**    |
+|  | Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL. Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang |
+|  | Envisioning a Domain Learning Track for the IPC. Gregor Behnke, Pascal Tobias Bercher |
+|  | Planning Domain Modelling Competition. Simon Dold |
+|  | Beluga Competition. Rebecca Eifler, Florent Teichteil Königsbuch. |
+|    11:20     | **Open Discussion** |

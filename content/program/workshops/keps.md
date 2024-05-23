@@ -58,46 +58,42 @@ We are pleased to accept papers based on recent publications from other (non-ICA
 
 Submissions of papers being reviewed at other venues are welcome since this is a non-archival venue and we will not require a transfer of copyright. If such papers are currently under blind review, please anonymize the submission.
 
-## List of Accepted Papers
-
-TBD
-
 ## Workshop Schedule
 
 KEPS is scheduled on the 2nd of June 2024. 
 
 ---
 [08:30 - 10:00] - **Opening Remarks and Session 1**
-- "Shall You Use that PDDL+ Language Feature? An Empirical Analysis on a Real-world Case Study", Anas El Kouaiti, Francesco Percassi, Alessandro Saetti and Mauro Vallati
+- "Shall You Use that PDDL+ Language Feature? An Empirical Analysis on a Real-world Case Study", Anas El Kouaiti, Francesco Percassi, Alessandro Saetti and Mauro Vallati ([PDF](../keps-papers/KEPS-24_paper_2.pdf))  
 - "Traversing the Linguistic Divide: Aligning Semantically Equivalent Fluents Through Model Refinement", Kelsey Sikes, Morgan Fine-Morris, Sarath Sreedharan and Mark Roberts
-- "Action-Failure Resilient Planning", Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala and Ivan Serina
+- "Action-Failure Resilient Planning", Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala and Ivan Serina ([PDF](../keps-papers/KEPS-24_paper_6.pdf)) 
 - "Specifying State Abstractions and Representation Mappings", Ronen Brafman and Or Wertheim
-- "Action Inheritance Within the Unified Planning Framework", Alan Lindsay and Ron Petrick
-- "Nyx: Planning for Emerging Problems with PDDL+ and Beyond", Wiktor Piotrowski, Alexandre Perez and Sachin Grover
+- "Action Inheritance Within the Unified Planning Framework", Alan Lindsay and Ron Petrick ([PDF](../keps-papers/KEPS-24_paper_14.pdf)) 
+- "Nyx: Planning for Emerging Problems with PDDL+ and Beyond", Wiktor Piotrowski, Alexandre Perez and Sachin Grover ([PDF](../keps-papers/KEPS-24_paper_18.pdf)) 
 
 ---
 [10:00 - 10:30] - Coffee Break (get your caffeine shot)
 
 ---
 [10:30 - 12:00] - **Session 2**
-- "Learning Visual Planning Models from Partially Observed Images", Zhanhao Xiao, Kebing Jin, Hankui Hankz Zhuo, Hai Wan and Jiaran Cai
-- "Using Large Language Models to Extract Planning Knowledge from Common Vulnerabilities and Exposures", Tim Oates, Ron Alford, Shawn Johnson and Cory Hall
-- "Enhancing Numeric-SAM for Learning with Few Observations", Argaman Mordoch, Shahaf Shperberg, Roni Stern and Brendan Juba
-- "Domain Design for the Cops and Robbers Problem", Connor Little and Christian Muise
-- "Supporting Human-Aware Mission Specification and Explainable Planning for Underwater Vehicles", Alan Lindsay, Andrés Ramírez-Duque, Bart Craenen, Andrea Munafò, Laurence Boé, Adam Campbell and Ron Petrick
-- "The Gateway Vehicle Systems Manager Planner", Michael Whitzer, Anthony Koutroulis, Hemanth Koralla, Christopher Knight, Chuck Fry, Jeremy Frank, J. Benton, Minh Do, Laura Barron and Abiola Akanni
+- "Learning Visual Planning Models from Partially Observed Images", Zhanhao Xiao, Kebing Jin, Hankui Hankz Zhuo, Hai Wan and Jiaran Cai ([PDF](../keps-papers/KEPS-24_paper_9.pdf)) 
+- "Using Large Language Models to Extract Planning Knowledge from Common Vulnerabilities and Exposures", Tim Oates, Ron Alford, Shawn Johnson and Cory Hall ([PDF](../keps-papers/KEPS-24_paper_12.pdf)) 
+- "Enhancing Numeric-SAM for Learning with Few Observations", Argaman Mordoch, Shahaf Shperberg, Roni Stern and Brendan Juba ([PDF](../keps-papers/KEPS-24_paper_15.pdf)) 
+- "Domain Design for the Cops and Robbers Problem", Connor Little and Christian Muise ([PDF](../keps-papers/KEPS-24_paper_11.pdf)) 
+- "Supporting Human-Aware Mission Specification and Explainable Planning for Underwater Vehicles", Alan Lindsay, Andrés Ramírez-Duque, Bart Craenen, Andrea Munafò, Laurence Boé, Adam Campbell and Ron Petrick ([PDF](../keps-papers/KEPS-24_paper_13.pdf)) 
+- "The Gateway Vehicle Systems Manager Planner", Michael Whitzer, Anthony Koutroulis, Hemanth Koralla, Christopher Knight, Chuck Fry, Jeremy Frank, J. Benton, Minh Do, Laura Barron and Abiola Akanni ([PDF](../keps-papers/KEPS-24_paper_20.pdf)) 
 
 ---
 [12:00 - 13:30] - Lunch
 
 ---
 [13:30 - 15:00] - **Session 3**
-- "Lessons Learned from a Schedule Optimization Tool for Prototype Vehicle Testing", Jeremy Ludwig, Annaka Kalton, Robert Richards, Brian Bautsch and Luke Walker
-- "Multi-Floor Warehouse Planning", Samuel Krivánek, Hana Rudová, Václav Sobotka
-- "Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)", Richard Levinson, Jeffrey Brink and Jeremy Frank
-- "End-to-End Trip to Driver Dispatchment Timing of Scheduled Delivery: A General Decision-Making System for Crowdsourced Delivery Platforms", Tao Cao, Soumita Saha, Ankit Dhokariya, Weihang Ren, Minghui Liu, Yuan Wang, Sherry Lijie Wan, Jing Huang, Mingang Fu, Prakhar Mehrotra and Chittaranjan Tripathy
-- "On Automating Video Game Regression Testing by Planning and Learning", Tomas Balyo, G. Michael Youngblood, Filip Dvorak, Lukáš Chrpa and Roman Barták
-- "Towards Personalized Medication Planning", Lee-Or Alon, Hana Weitman, Alexander Shleyfman and Gal Kaminka
+- "Lessons Learned from a Schedule Optimization Tool for Prototype Vehicle Testing", Jeremy Ludwig, Annaka Kalton, Robert Richards, Brian Bautsch and Luke Walker ([PDF](../keps-papers/KEPS-24_paper_1.pdf)) 
+- "Multi-Floor Warehouse Planning", Samuel Krivánek, Hana Rudová, Václav Sobotka ([PDF](../keps-papers/KEPS-24-paper_21.pdf)) 
+- "Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)", Richard Levinson, Jeffrey Brink and Jeremy Frank ([PDF](../keps-papers/KEPS-24_paper_5.pdf)) 
+- "End-to-End Trip to Driver Dispatchment Timing of Scheduled Delivery: A General Decision-Making System for Crowdsourced Delivery Platforms", Tao Cao, Soumita Saha, Ankit Dhokariya, Weihang Ren, Minghui Liu, Yuan Wang, Sherry Lijie Wan, Jing Huang, Mingang Fu, Prakhar Mehrotra and Chittaranjan Tripathy ([PDF](../keps-papers/KEPS-24_paper_7.pdf)) 
+- "On Automating Video Game Regression Testing by Planning and Learning", Tomas Balyo, G. Michael Youngblood, Filip Dvorak, Lukáš Chrpa and Roman Barták ([PDF](../keps-papers/KEPS-24_paper_10.pdf)) 
+- "Towards Personalized Medication Planning", Lee-Or Alon, Hana Weitman, Alexander Shleyfman and Gal Kaminka ([PDF](../keps-papers/KEPS-24_paper_16.pdf)) 
 
 ---
 [15:00 - 15:30] - Coffee Break
