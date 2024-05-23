@@ -101,6 +101,8 @@ by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
 
 # Schedule
 
+| Time (Banff) | Title |
+|:------------:|:-----------|
 |     8:30     | **Talk Session 1**  |
 |  | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus |
 |  | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
