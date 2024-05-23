@@ -58,10 +58,6 @@ We are pleased to accept papers based on recent publications from other (non-ICA
 
 Submissions of papers being reviewed at other venues are welcome since this is a non-archival venue and we will not require a transfer of copyright. If such papers are currently under blind review, please anonymize the submission.
 
-## List of Accepted Papers
-
-TBD
-
 ## Workshop Schedule
 
 KEPS is scheduled on the 2nd of June 2024. 
