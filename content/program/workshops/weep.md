@@ -39,6 +39,18 @@ The idea is to allow the planning community to benefit from your experiences, le
 * **PbFCEGAR: Pre-refined by Facts Counterexample-Guided Abstraction Refinement**  
   Martín Pozo, Álvaro Torralba and Carlos Linares López
 
+## Workshop Schedule
+- [09:00 - 09:15] Opening Remarks
+- [09:15 - 10:00] - Session 1
+    Invited talk by Erez Karpas
+    “Looking for Serendipity – Where (Some) Research Questions Come From?”
+
+- [10:00 - 10:30] - Coffee Break (get your caffeine fix)
+
+- [10:30 - 12:00] - Session 2
+- [10:30 - 11:15] - Presentations
+- [11:15 - 12:00] - Panel Discussion: Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.
+
 
 
 ## Topics of Interest
@@ -118,6 +130,3 @@ Erez Karpas is an Associate Professor at the Faculty of Data and Decision Scienc
 - **Sarah Keren**, Israel Institute of Technology
 - **Malte Helmert**, University of Basel
 - **Daniel Fišer**, Saarland University
-
-## Workshop Schedule
-TBA
