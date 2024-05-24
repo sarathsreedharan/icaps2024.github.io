@@ -10,7 +10,7 @@
             <strong><h4> {{ print $level.rank }} </h4></strong>
             <div style="display: flex; flex-wrap: wrap; justify-content: center;">
                 {{ range $org := $level.list }}
-                <figure style="padding: 10px; flex: 0 1 auto; margin: 10px;">
+                <figure style="padding: 10px; flex: 0 1 auto; margin: 10px; display: flex; align-items: center;">
                     <a href="{{ print $org.link }}">
                         {{ if gt $org.width 0 }}
                         <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" width="{{ $org.width }}">
@@ -22,6 +22,7 @@
                 </figure>
                 {{ end }}
             </div>
+            <br>
             <br> <!-- Add a line break to separate each level vertically -->
             {{ end }}
         </td>
