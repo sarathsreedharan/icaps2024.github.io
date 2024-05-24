@@ -72,7 +72,7 @@ The weather in Banff at the end of May/beginning of June can range from beautifu
 
 
 ## Poster Printing Options
-If you are unable to bring a poster with you, there are some places nearby that may work. It is important that you call in advance to confirm.
+If you are unable to bring a poster with you, there are some places nearby that may work. It is important that you call in advance to confirm. In particular, the Banff Centre has limited capacity to print posters, and you can email them directly at (Print_Shop@banffcentre.ca) to inquire about their services.
 
 ### Banff
 There may be two places that could print posters ():
