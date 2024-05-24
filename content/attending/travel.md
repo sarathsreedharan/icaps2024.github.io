@@ -154,6 +154,7 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 - Alberta also has dry weather. Chapstick and lotion may be helpful. 
 - Pack clothing for hot days and chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
 - There are areas that may be chillier than others, this can depend on sun exposure, proximity to water, altitude (especially when hiking).
+- For those staying at the Banff Centre: the Banff Centre features a comprehensive workout facility and a pool. 
 
 # Tourism
 
