@@ -4,9 +4,15 @@
 			"rank": "Gold Partners",
 			"list": [
 				{
-					"logo": "/img/partners/aij.jpeg",
+					"logo": "/img/partners/nsf.jpeg",
 					"height": "-1",
 					"width": "350",
+					"link": "https://www.nsf.gov/"
+				},
+				{
+					"logo": "/img/partners/aij.jpeg",
+					"height": "-1",
+					"width": "300",
 					"link": "https://aij.ijcai.org"
 				}
 			]
