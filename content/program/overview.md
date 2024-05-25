@@ -10,7 +10,7 @@ draft: false
 - May 27-31, 2024	[Summer School](https://icaps24.icaps-conference.org/summerschool/)
 - June 1, 2024		[Doctoral Consortium](https://icaps24.icaps-conference.org/calls/dc/)
 - June 2-3, 2024	[Workshops](https://icaps24.icaps-conference.org/program/ws_overview/) and [Tutorials](https://icaps24.icaps-conference.org/program/tutorial_overview/)
-- June 4-6, 2024	Main Conference
+- June 4-6, 2024	[Main Conference](https://icaps24.icaps-conference.org/program/schedule/)
 - June 6-8, 2024	[Symposium on Combinatorial Search](https://socs24.search-conference.org/) (SoCS)
 
 ## Additional Information about the Program
