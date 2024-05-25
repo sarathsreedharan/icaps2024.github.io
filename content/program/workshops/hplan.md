@@ -95,7 +95,7 @@ We do allow and also explicitly encourage the submission of papers that at the t
 <div style="width: 100%; margin: 0; padding: 3%;">
 <h3 style="color:orange;"><strong>Daniel Höller</strong></h3>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan-invitedSpeaker-daniel-hoeller-02.jpg" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://icaps24.icaps-conference.org/program/workshops/hplan/daniel-hoeller.jpg" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -155,13 +155,13 @@ If you'd like to be part of our team this year or in any of the future years, pl
 
 #### Accepted at HPlan and included in proceedings
 The following publications will be included in the proceedings once they are ready.
-<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Yousefi2024FONDHTNSolver$).*$"></script>
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Yousefi2024FONDHTNSolver$).*$"></script>
 
 <br>
 
 #### Accepted at HPlan and another venue
 The following publications will be excluded from the proceedings to prevent copyright issues. We will provide a link instead.
-<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&hide=year&filter=key:Yousefi2024FONDHTNSolver"></script>
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&hide=year&filter=key:Yousefi2024FONDHTNSolver"></script>
 
 <br>
 
