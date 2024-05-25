@@ -33,7 +33,7 @@ HSDIP is scheduled on the June 2.
 
 ---
 [10:30 - 12:00] - Session 1
-* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning** ([PDF](../hsdip-papers/paper_14.pdf))  
+* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning** ([PDF](../hsdip-papers/paper_14.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
   Clemens Büchner, Remo Christen, Salomé Eriksson, Thomas Keller
 * **Consolidating LAMA with Best-First Width Search** ([PDF](../hsdip-papers/paper_3.pdf))  
   Augusto B. Corrêa, Jendrik Seipp
@@ -59,7 +59,7 @@ HSDIP is scheduled on the June 2.
   Mika Skjelnes, Daniel Gnad, Jendrik Seipp
 * **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations** ([PDF](../hsdip-papers/paper_10.pdf))  
   Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
-* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning** ([PDF](../hsdip-papers/paper_4.pdf))  
+* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning** ([PDF](../hsdip-papers/paper_4.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
   Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
 
 ---
@@ -67,7 +67,7 @@ HSDIP is scheduled on the June 2.
 
 ---
 [15:30 - 17:00] - Session 3
-* **The Bench Transition System and Stochastic Exploration** ([PDF](../hsdip-papers/paper_11.pdf))  
+* **The Bench Transition System and Stochastic Exploration** ([PDF](../hsdip-papers/paper_11.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
   Dawson Tomasz, Richard A. Valenzano
 * **Separate Generation and Evaluation for Parallel Greedy Best-First Search** ([PDF](../hsdip-papers/paper_8.pdf))  
   Takumi Shimoda, Alex Fukunaga
