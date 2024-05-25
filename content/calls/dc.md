@@ -17,37 +17,30 @@ As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. We enc
 
 The Mentoring Program is designed to provide graduate students with an opportunity for in-depth advice by senior members of the field regarding careers and research skills. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas. Each student accepted to the program will be matched with an established researcher in the field who will assist the student with research and career management advice. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium. 
 
-
-<!-- ### Mentors 
-
-(Listed alphabetically by last name)
-
-* 
-
 ## Invited Talk
 
 <div style="width: 90%; padding: 1%; margin-left: 5%;">
 
  <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
- 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="/img/erez.jpeg" />
+ 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%; width: 15%;" src="http://idm-lab.org/figs/sven-old.jpg" />
  </div>
  
  <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
-  <h2><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a></h2>
-  <h3>Looking for Serendipity – Where (Some) Research Questions Come From?</h3>
-  <p>Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.</p>
+  <h2><a href="http://idm-lab.org/" target="_blank">Sven Koenig</a></h2>
+  <h3>How to Pick a Research Topic, Achieve Impact, and Find a Job</h3>
+  <p>I will talk about how to pick a good research topic and, once you have found one, what you can do to increase the odds that your research impacts other researchers (and beyond) and you find an exciting job. Of course, there are many ways to do that, and none of them is surefire. So, I will start by talking about research in general and then try to provide some observations based on my own research experience.</p>
  	
  </div>
  
  
  <div style="width: 98%; margin: 1%; margin-top: 1%; padding: 1%; border-top: 1px solid orange">
   <h5>Short Bio</h5>
-  <p>Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.</p>
+  <p>Sven is Dean’s Professor of Computer Science at the University of Southern California. His research focuses on decision-making techniques from artificial intelligence that enable single, situated agents (such as robots or decision-support systems) and teams of agents to act intelligently in real-time. Additional information about him can be found on his webpages: idm-lab.org.</p>
  
  </div>
 
+</div>
 
-</div> -->
 
 ## Application Procedure for the Mentoring Program
 
@@ -79,6 +72,7 @@ If all applications cannot be supported, selection will be based on the above ma
 ## Student Support
 
 We are looking into ways to provide student support partly covering travel and/or registration costs. Additional funding information will be available closer to the notification date.
+
 
 ## Schedule (tentative)
 
