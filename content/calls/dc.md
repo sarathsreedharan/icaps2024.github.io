@@ -22,7 +22,7 @@ The Mentoring Program is designed to provide graduate students with an opportuni
 <div style="width: 90%; padding: 1%; margin-left: 5%;">
 
  <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
- 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%; width: 15%;" src="/imgs/dc/sven-old.jpg" />
+ 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%; width: 15%;" src="/img/dc/sven-old.jpg" />
  </div>
  
  <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
