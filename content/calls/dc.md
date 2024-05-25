@@ -80,6 +80,30 @@ If all applications cannot be supported, selection will be based on the above ma
 
 We are looking into ways to provide student support partly covering travel and/or registration costs. Additional funding information will be available closer to the notification date.
 
+## Invited Talk
+
+<div style="width: 90%; padding: 1%; margin-left: 5%;">
+
+ <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
+ 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="http://idm-lab.org/figs/sven-old.jpg" />
+ </div>
+ 
+ <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
+  <h2><a href="https://karpase.net.technion.ac.il/" target="_blank">Sven Koenig</a></h2>
+  <h3>How to Pick a Research Topic, Achieve Impact, and Find a Job</h3>
+  <p>I will talk about how to pick a good research topic and, once you have found one, what you can do to increase the odds that your research impacts other researchers (and beyond) and you find an exciting job. Of course, there are many ways to do that, and none of them is surefire. So, I will start by talking about research in general and then try to provide some observations based on my own research experience.</p>
+ 	
+ </div>
+ 
+ 
+ <div style="width: 98%; margin: 1%; margin-top: 1%; padding: 1%; border-top: 1px solid orange">
+  <h5>Short Bio</h5>
+  <p>Sven is Dean’s Professor of Computer Science at the University of Southern California. His research focuses on decision-making techniques from artificial intelligence that enable single, situated agents (such as robots or decision-support systems) and teams of agents to act intelligently in real-time. Additional information about him can be found on his webpages: idm-lab.org.</p>
+ 
+ </div>
+
+</div>
+
 ## Schedule (tentative)
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
