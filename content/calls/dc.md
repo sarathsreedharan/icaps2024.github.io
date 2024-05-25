@@ -26,7 +26,7 @@ The Mentoring Program is designed to provide graduate students with an opportuni
  </div>
  
  <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
-  <h2><a href="http://http://idm-lab.org/" target="_blank">Sven Koenig</a></h2>
+  <h2><a href="http://idm-lab.org/" target="_blank">Sven Koenig</a></h2>
   <h3>How to Pick a Research Topic, Achieve Impact, and Find a Job</h3>
   <p>I will talk about how to pick a good research topic and, once you have found one, what you can do to increase the odds that your research impacts other researchers (and beyond) and you find an exciting job. Of course, there are many ways to do that, and none of them is surefire. So, I will start by talking about research in general and then try to provide some observations based on my own research experience.</p>
  	
