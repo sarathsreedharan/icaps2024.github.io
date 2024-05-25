@@ -85,7 +85,7 @@ We are looking into ways to provide student support partly covering travel and/o
 <div style="width: 90%; padding: 1%; margin-left: 5%;">
 
  <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
- 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="http://idm-lab.org/figs/sven-old.jpg" />
+ 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%; width: 25%;" src="http://idm-lab.org/figs/sven-old.jpg" />
  </div>
  
  <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
