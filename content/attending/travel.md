@@ -5,8 +5,8 @@ draft: false
 ---
 
 # Table of Contents
-- [Travel Information](#travel-information) 
-- [Transportation and Touring](#transportation-and-touring) 
+- [Travel Information](#travel-information)
+- [Transportation and Touring](#transportation-and-touring)
 - [Maps](#maps)
 - [Wildlife](#wildlife)
 - [Weather and Packing Essentials](#weather-and-packing-essentials)
@@ -149,12 +149,13 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 
 # Weather and Packing Essentials
 
-- This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 10℃ - 30℃. 
-- Sunscreen is also recommended as there are many days where it is all sun and no clouds. 
-- Alberta also has dry weather. Chapstick and lotion may be helpful. 
-- Pack clothing for hot days and chilly nights, may include jackets for fall type weather and sweaters. Bring layers so you can easily put on a jacket/sweater if you get cold.  
+- This time of year has warm/hot days and cooler nights as the wind can make it quite chilly. We suggest packing clothes for weather ranging between 0℃ (at night) to 15℃ (during the day), with a small possibility of rain since we're in the mountains.
+- Banff is at 1400 m elevation. Bring a water bottle and aim to stay hydrated.
+- Sunscreen is also recommended as there are many days where it is all sun and no clouds.
+- Alberta also has dry weather. Chapstick and lotion may be helpful.
+- Pack clothing for warm days and chilly nights, this may include sweaters, jackets, hat, and gloves for fall type weather. Bring layers so you can easily put on a jacket/sweater if you get cold. Sturdy shoes are also recommended for walking into town and for hiking.
 - There are areas that may be chillier than others, this can depend on sun exposure, proximity to water, altitude (especially when hiking).
-- For those staying at the Banff Centre: the Banff Centre features a comprehensive workout facility and a pool. 
+- For those staying at the Banff Centre: the Banff Centre features a comprehensive workout facility and a pool.
 
 # Tourism
 
@@ -188,8 +189,8 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 - **Banff Shawarma:** Halal and vegetarian dishes available.
 #### $$
 - **Nourish Bistro Banff:** Quirky eatery featuring inventive vegan and vegetarian dishes and desserts, plus cool cocktails.
-- **Maclab Bistro:** Airy restaurant and bar offering eclectic eats, including specialty burgers, plus scenic views. 
-- **Magpie and Stump Mexican Restaurant + Bar:** This relaxed eatery serves classic Mexican fare and cocktails in rugged, down-home decor. 
+- **Maclab Bistro:** Airy restaurant and bar offering eclectic eats, including specialty burgers, plus scenic views.
+- **Magpie and Stump Mexican Restaurant + Bar:** This relaxed eatery serves classic Mexican fare and cocktails in rugged, down-home decor.
 - **Block Kitchen + Bar:** Eclectic small plates with Asian flair, wine and cocktails served in a hip, convivial atmosphere. Google Review: "The vegan bao bun was outstanding and the falafel naanwich was delicious."
 - **Farm and Fire:** Contemporary restaurant offering farm-to-fork specialties and cocktails, plus happy-hour specials.
 - **Shoku Izakaya:** Easygoing restaurant serving Japanese and Pan-Asian dishes like steamed buns, sushi and grilled meats.
@@ -211,11 +212,11 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 - **The Maple Leaf:** New Canadian eats, such as game stroganoff and seafood, are presented in a rustic-modern setting.
 
 ### Halal Options Available:
-#### $ 
+#### $
 - **Popeyes Louisiana Kitchen:** Louisiana-inspired fast-food chain known for its spicy fried chicken, biscuits and sides.
 - **Night Owl Shawarma Donair and Convenience:** Lebanese restaurant, Halal Certified, doesn't accept reservations.
 - **Banff Shawarma:** Halal and vegetarian dishes available.
-#### $$ 
+#### $$
 - **Masala Authentic Indian Cuisine:** Casual Indian spot with curries and dishes from a wood-fired tandoori clay oven, plus lunch specials.
 - **Saffron Indian Bistro:** Relaxed restaurant serving traditional Indian cuisine, lunchtime thalis and Indo-Chinese dishes.
 - **Zyka Elevated Indian Restaurant Banff:** Has all you can eat, outdoor seating and serves great cocktails.
@@ -227,24 +228,24 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 [Banff Indigenous Peoples](https://banff.ca/indigenouspeoples)
 
 # Banff Centre Info
-[Banff Centre Events](https://www.banffcentre.ca/events/events)  
-[Banff Sally Borden Fitness and Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)  
-[Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)  
-[Banff Library and Archives](https://www.banffcentre.ca/library-archives)  
-[Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)  
+[Banff Centre Events](https://www.banffcentre.ca/events/events)
+[Banff Sally Borden Fitness and Recreation](https://www.banffcentre.ca/sally-borden-fitness-and-recreation)
+[Banff Walter Phillips Gallery](https://www.banffcentre.ca/walter-phillips-gallery)
+[Banff Library and Archives](https://www.banffcentre.ca/library-archives)
+[Banff Artist Facilities](https://www.banffcentre.ca/artist-facilities)
 
 # Banff Police, Medical/Pharmaceutical, Violence/Abuse and Emergency Service Resources
 
 ### Police/Fire Department Resources
 Contact police immediately at (Banff RCMP: 403-762-2226) or come to the police station.
 
-Fire Department  
-Email:	erica.gilmore@banff.ca  
-Physical Address:  
-201 Beaver Street  
-Banff, AB T1L 1A1  
-Phone:	403.762.1256  
-Emergency Phone: 911 
+Fire Department
+Email:	erica.gilmore@banff.ca
+Physical Address:
+201 Beaver Street
+Banff, AB T1L 1A1
+Phone:	403.762.1256
+Emergency Phone: 911
 
 ### Medical Resources
 [Banff Mineral Springs Hospital](https://covenanthealth.ca/locations/banff-mineral-springs-hospital)
@@ -257,13 +258,13 @@ Emergency Phone: 911
   </div>
 </figure>
 
-[Alpine Medical Clinic (Walk-ins, minor emergencies, etc.)](https://www.alpinemedical.ca/services/)  
-[Banff Pharmacies, Other Medical Resources, and Information](https://www.banffcentre.ca/participant-resources/medical-information)  
+[Alpine Medical Clinic (Walk-ins, minor emergencies, etc.)](https://www.alpinemedical.ca/services/)
+[Banff Pharmacies, Other Medical Resources, and Information](https://www.banffcentre.ca/participant-resources/medical-information)
 
 ### Crime/Sexual Violence Resources
-[Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)  
-[Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)  
-[Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)  
+[Banff Crime Statistics](https://www.numbeo.com/crime/in/Banff)
+[Banff Centre Gender Based and Sexual Violence Policy](https://www.banffcentre.ca/sites/default/files/Banff%20Centre%20Publications/Policies/Banff%20Centre%20Gender%20Based%20and%20Sexual%20Violence%20Policy.pdf)
+[Banff Sexual Violence Response Program (YMCA)](https://ab.211.ca/record/1123203/?searchLocation=Calgary&topicPath=138&latitude=51.0447331&longitude=-114.0718831&l=K&fpg=sm&agency=1&fpg=sm)
 
 # Convenience
 [Banff Convenience Store](https://www.google.com/maps/dir/Banff+Centre+for+Arts+and+Creativity,+Tunnel+Mountain+Drive,+Banff,+AB/210+Buffalo+St,+Banff,+AB+T1L+1G2/@51.1733178,-115.569342,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x5370ca370d34ba11:0xbc711e516f9dc32d!2m2!1d-115.5619713!2d51.1717167!1m5!1m1!1s0x5370ca46f234bb2d:0xbe5a58c586e3cb69!2m2!1d-115.5715427!2d51.1745219?entry=ttu)
