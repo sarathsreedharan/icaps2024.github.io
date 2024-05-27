@@ -42,10 +42,25 @@ ICAPS 2024 is being held at the Banff Centre for Arts and Creativity in beautifu
 
 The Banff Centre is located on the east side of Banff, four blocks from Banff Avenue, the main street of town. It is a 10-minute walk downhill to town. The return trip is slightly longer as it is uphill. Downtown Banff can be reached by taxi for less than $10 each way. There is no shuttle bus that runs from Banff Centre to downtown Banff.
 
+## Sally Borden Recreation Centre
+
+### Fitness Centre
+*Cardio equipment, free weights and running track*
+- Monday to Friday: 7:00 am – 8:00 pm
+- Saturday & Sunday: 8:00 am – 8:00 pm
+
+### Climbing Gym
+- Daily: 12:00 pm - 8:00 pm
+
+### Aquatic Centre
+*25m pool, hot tub, and wade pool - swim at your own risk. NO LIFEGUARD ON DUTY*
+- Monday to Friday: 7:00 am - 8:00 pm
+- Saturday & Sunday: 8:00 am - 8:00 pm
+
 ## Walking to the Banff Centre
 - Walk up Ken Madsen path to Banff Centre via Wolverine Street along the north side of the historic cemetery.
 - Take a stroll along the scenic Bow River via Buffalo Street and Surprise Corner. Enjoy a spectacular view of the Fairmont Banff Springs Hotel.
-- Follow Wolf or Moose Street via St. Julien Road past the Tunnel Mountain trailhead. 
+- Follow Wolf or Moose Street via St. Julien Road past the Tunnel Mountain trailhead.
 <br/>
 
 ## Biking/Driving to the Banff Centre
@@ -54,7 +69,7 @@ Via Buffalo Street
 - Turn left and follow the signs to free parking
 Via St. Julien Road
 - From downtown, follow Moose or Wolf Street
-- Turn right to St. Julien road and drive up to Banff Centre 
+- Turn right to St. Julien road and drive up to Banff Centre
 <br/>
 
 <figure>
@@ -68,18 +83,21 @@ Via St. Julien Road
 
 
 ## Weather
+
 The weather in Banff at the end of May/beginning of June can range from beautiful sunny and warm to snowy. It's shoulder season. Skiing is over and hiking has started, but in a regular season higher elevations will still be snowy and possibly inaccessible.  We'll post weather forecasts closer to the date, but further information is available on the web.
 
-
 ## Poster Printing Options
+
 If you are unable to bring a poster with you, there are some places nearby that may work. It is important that you call in advance to confirm. In particular, the Banff Centre has limited capacity to print posters, and you can email them directly at (Print_Shop@banffcentre.ca) to inquire about their services.
 
 ### Banff
+
 There may be two places that could print posters ():
 * Pro Image Signs and Printing. Their phone number is +1-403-763-2010
 * The Source may have a printing service.
 
 ### Canmore
+
 Canmore is not far from Banff (there is a shuttle bus between Banff and Canmore). In Canmore there is:
 * UPS Store -- they print posters
 * Canmore Printcraft
