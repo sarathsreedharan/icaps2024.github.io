@@ -14,13 +14,13 @@
                         "name": "Heuristics",
                         "label": "sess-heur",
                         "location": "Max Bell",
-                        "chair": "TBD"
+                        "chair": "Erez Karpas"
                     },
                     {
                         "name": "Reinforcement Learning",
                         "label": "sess-rl",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Jiaoyang Li"
                     }
                 ]
             },
@@ -35,13 +35,13 @@
                         "name": "LLMs and Neural Action Policies",
                         "label": "sess-llm",
                         "location": "Max Bell",
-                        "chair": "TBD"
+                        "chair": "Jörg Hoffmann"
                     },
                     {
                         "name": "Theory",
                         "label": "sess-theory",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Pascal Bercher"
                     }
                 ]
             },
@@ -56,13 +56,13 @@
                         "name": "Planning and Learning",
                         "label": "sess-pal",
                         "location": "Max Bell",
-                        "chair": "TBD"
+                        "chair": "Pulkit Verma"
                     },
                     {
                         "name": "Temporal Planning",
                         "label": "sess-temporal",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Ayal Taitler"
                     }
                 ]
             }
@@ -83,13 +83,13 @@
                         "name": "Search and Uncertainty",
                         "label": "sess-search",
                         "location": "KC 203",
-                        "chair": "TBD"
+                        "chair": "Charles Gretton"
                     },
                     {
                         "name": "MAPF",
                         "label": "sess-mapf",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Sven Koenig"
                     }
                 ]
             },
@@ -104,13 +104,13 @@
                         "name": "Planning Under Uncertainty",
                         "label": "sess-puu",
                         "location": "KC 203",
-                        "chair": "TBD"
+                        "chair": "Malte Helmert"
                     },
                     {
                         "name": "Robotics",
                         "label": "sess-robotics",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Kiam Jane Jean"
                     }
                 ]
             },
@@ -125,13 +125,13 @@
                         "name": "Robots and Space",
                         "label": "sess-space",
                         "location": "KC 203",
-                        "chair": "TBD"
+                        "chair": "Hang Ma"
                     },
                     {
                         "name": "Explainability",
                         "label": "sess-explain",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Sarath Sreedharan"
                     }
                 ]
             }
@@ -152,13 +152,13 @@
                         "name": "Knowledge Engineering",
                         "label": "sess-ke",
                         "location": "KC 203",
-                        "chair": "TBD"
+                        "chair": "Shirin Sohrabi"
                     },
                     {
                         "name": "Scheduling",
                         "label": "sess-scheduling",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Hana Rudová"
                     }
                 ]
             },
@@ -173,13 +173,13 @@
                         "name": "Applications",
                         "label": "sess-applications",
                         "location": "KC 203",
-                        "chair": "TBD"
+                        "chair": "Hoong Chuin Lau"
                     },
                     {
                         "name": "Hybrid and Numeric Planning",
                         "label": "sess-hybrid",
                         "location": "KC 201",
-                        "chair": "TBD"
+                        "chair": "Zlatan Ajanovic"
                     }
                 ]
             }
