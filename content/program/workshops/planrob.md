@@ -49,27 +49,27 @@ Topics of interest include (but are not limited to):
 
 ## List of Accepted Papers
 
-Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom** ([PDF])(ICAPS_WS_PlanRob-24_7.pdf)
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom** ([PDF](ICAPS_WS_PlanRob-24_7.pdf))
 
-Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem** ([PDF])(ICAPS_WS_PlanRob-24_8.pdf)
+Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem** ([PDF](ICAPS_WS_PlanRob-24_8.pdf))
 
-Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study** ([PDF])(ICAPS_WS_PlanRob-24_10.pdf)
+Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study** ([PDF](ICAPS_WS_PlanRob-24_10.pdf))
 
-Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains** ([PDF])(ICAPS_WS_PlanRob-24_4.pdf)
+Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains** ([PDF](ICAPS_WS_PlanRob-24_4.pdf))
 
-Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting** ([PDF])(ICAPS_WS_PlanRob-24_1.pdf)
+Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting** ([PDF](ICAPS_WS_PlanRob-24_1.pdf))
 
-András Kovács and Bence Tipary.  **Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees** ([PDF])(ICAPS_WS_PlanRob-24_3.pdf)
+András Kovács and Bence Tipary.  **Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees** ([PDF](ICAPS_WS_PlanRob-24_3.pdf))
 
-Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping** ([PDF])(ICAPS_WS_PlanRob-24_2.pdf)
+Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping** ([PDF](ICAPS_WS_PlanRob-24_2.pdf))
 
-David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules** ([PDF])(ICAPS_WS_PlanRob-24_5.pdf)
+David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules** ([PDF](ICAPS_WS_PlanRob-24_5.pdf))
 
-Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement** ([PDF])(ICAPS_WS_PlanRob-24_6.pdf)
+Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement** ([PDF](ICAPS_WS_PlanRob-24_6.pdf))
 
-Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications** ([PDF])(ICAPS_WS_PlanRob-24_9.pdf)
+Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications** ([PDF](ICAPS_WS_PlanRob-24_9.pdf))
 
-Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs** ([Previously published in RAL])(https://ieeexplore.ieee.org/document/10323164)
+Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs** ([Previously published in RAL](https://ieeexplore.ieee.org/document/10323164))
 
 ## Workshop Schedule
 
