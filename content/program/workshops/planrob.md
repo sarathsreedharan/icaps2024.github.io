@@ -46,9 +46,8 @@ Topics of interest include (but are not limited to):
  
 *Abstract:* Icy moons of the gas giant planets, such as Europa, Titan, and Enceladus, are at the forefront of astrobiological interest due to the evidence of subsurface oceans. Enceladus is unique among the icy moons because there are known vent systems that are likely connected to a subsurface ocean, through which the ocean water is ejected to space. An existing study has shown that sending small robots into the vents and directly sampling the ocean water is likely possible. To enable such a mission, JPL is developing a novel, snake-like robot called Exobiology Extant Life Surveyor (EELS) that can navigate Enceladus' extreme surface and descend an erupting vent to capture unaltered liquid samples and potentially reach the ocean. However, navigating to and through Enceladus' environment is challenging: there is substantial uncertainty with respect to its geometry and physical properties of the surface/vents due to the limitations of existing orbital reconnaissance; and communication is limited which requires highly autonomous robots to execute the mission with limited human supervision. In this talk we provide an overview of the EELS project and its development effort to create a risk-aware autonomous robot to navigate these extreme ice terrains/environments. We describe the robot's architecture and the technical challenges to navigate and sense the icy environment safely and effectively. We focus on the challenges related to surface mobility, and task and motion planning under uncertainty. We provide initial results on mobility and risk-aware task and motion planning from field tests and simulated scenarios.
 
-## List of Accepted Papers
 
-The workshop proceedings will be made available here once they are ready. 
+## List of Accepted Papers
 
 Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom** ([PDF](ICAPS_WS_PlanRob-24_7.pdf))
 
@@ -60,7 +59,7 @@ Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimi
 
 Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting** ([PDF](ICAPS_WS_PlanRob-24_1.pdf))
 
-András Kovács and Bence Tipary.  **Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees** ([PDF](ICAPS_WS_PlanRob-24_3.pdf))
+Andr√°s Kov√°cs and Bence Tipary.  **Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees** ([PDF](ICAPS_WS_PlanRob-24_3.pdf))
 
 Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping** ([PDF](ICAPS_WS_PlanRob-24_2.pdf))
 
@@ -88,7 +87,7 @@ The preliminary schedule is as follows:
 - 11:20 - 11:40   Learning Quadruped Locomotion Policies using Logical Rules
 - 11:40 - 12:00   Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement
 - 12:00 - 13:30   *Lunch Break*
-- 13:30 - 13:50   Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot’s Six Degrees of Freedom
+- 13:30 - 13:50   Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom
 - 13:50 - 14:10   Measuring Guidance for the Motion Planning Decision Problem
 - 14:10 - 14:30   Search-based versus Sampling-based Robot Motion Planning: A Comparative Study
 - 14:30 - 14:50   A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications
@@ -132,7 +131,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Università di Napoli "Federico II", Italy \
+Universit√É¬† di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -160,18 +159,17 @@ Masoumeh Mansouri, University of Birmingham, UK
 
 Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Università degli studi di Napoli Federico II, Italy
+Riccardo Caccavale, Universit√É¬† degli studi di Napoli Federico II, Italy
 
 Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Barták, Charles University, Czech Republic
+Roman Bart√É¬°k, Charles University, Czech Republic
 
 Ron Petrick, Heriot-Watt University, UK
 
 Ronen Brafman, Ben Gurion University, Israel
 
 Tim Niemueller, Intrinsic Innovation GmbH, Germany
-
 
 
 

@@ -88,21 +88,21 @@ Here is the list of the worskhops accepted to ICAPS 2024
  	</div> -->
  </div>
 
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!-- <p><a href="/program/workshops/weep" target="_blank">WEEP</a></p> -->
 		<p><strong>WEEP</strong></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
- 		<p><strong>Echoing (failed) Efforts in Planning</strong></p>
+		<p><strong>Workshop on Echoing (failed) Efforts in Planning</strong></p>
  	</div>
  	<!-- <div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
  		<p>TBD</p>
  	</div> -->
  </div>
 
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!-- <p><a href="/program/workshops/rddps" target="_blank">RDDPS</a></p> -->

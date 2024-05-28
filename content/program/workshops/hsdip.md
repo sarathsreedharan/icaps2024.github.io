@@ -1,14 +1,14 @@
 ---
 title: "HSDIP"
-date: 2023-02-02T19:30:17+01:00
+date: 2024-01-31
 draft: false
 ---
 
-# Heuristics and Search for Domain-independent Planning (HSDIP 2023)
+# Heuristics and Search for Domain-Independent Planning (HSDIP 2024)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
-July 9-10, 2023
+ICAPS'24 Workshop \
+Banff, Canada \
+June 2, 2024
 
 ## Aim and Scope of the Workshop
 
@@ -17,6 +17,98 @@ Heuristics and search algorithms are the two key components of heuristic search,
 The HSDIP workshop has always been welcoming of multidisciplinary work, for example, drawing inspiration from operations research (like row and column generation algorithms), convex optimization (like gradient optimization for hybrid planning), constraint programming, or satisfiability.
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
+
+## Workshop Schedule
+
+HSDIP is scheduled on the June 2.
+
+---
+[08:50 - 10:00] - **Opening & Invited Talk**
+* **Opening Remarks**
+* **Opportunities and Challenges for Domain-Independent Planning with Deep Reinforcement Learning**  
+  Forest Agostinelli
+
+---
+[10:00 - 10:30] - Coffee Break
+
+---
+[10:30 - 12:00] - Session 1
+* **Hitting Set Heuristics for Overlapping Landmarks in Satisficing Planning** ([PDF](../hsdip-papers/paper_14.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
+  Clemens Büchner, Remo Christen, Salomé Eriksson, Thomas Keller
+* **Consolidating LAMA with Best-First Width Search** ([PDF](../hsdip-papers/paper_3.pdf))  
+  Augusto B. Corrêa, Jendrik Seipp
+* **Reasonable Landmark Orderings for Lifted Classical Planning** ([PDF](../hsdip-papers/paper_7.pdf))  
+  Marcel Schubert, Julia Wichlacz, Daniel Höller
+* **A Lifted Backward Computation of hAdd** ([PDF](../hsdip-papers/paper_9.pdf))  
+  Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann
+* **Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning** ([PDF](../hsdip-papers/paper_17.pdf))  
+  Martín Pozo, Carlos Linares Lopez, Alvaro Torralba
+
+---
+[12:00 - 13:30] - Lunch
+
+---
+[13:30 - 15:00] - Session 2
+* **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning** ([PDF](../hsdip-papers/paper_13.pdf))  
+  Daniel Gnad, Lee-or Alon, Eyal Weiss, Alexander Shleyfman
+* **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**   ([PDF](../hsdip-papers/paper_16.pdf))  
+  Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
+* **Crafting a Pogo Stick in Minecraft with Heuristic Search** ([PDF](../hsdip-papers/paper_15.pdf))  
+  Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
+* **Cost Partitioning For Multiple Sequence Alignment** ([PDF](../hsdip-papers/paper_2.pdf))  
+  Mika Skjelnes, Daniel Gnad, Jendrik Seipp
+* **Improving the Solvability of the Rubik’s Cube with Domain-Independent Planners Using Standard Planning Representations** ([PDF](../hsdip-papers/paper_10.pdf))  
+  Bharath C. Muppasani, Vishal Pallagani, Biplav Srivastava, Forest Agostinelli
+* **Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning** ([PDF](../hsdip-papers/paper_4.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
+  Michael Katz, Junkyu Lee, Jungkoo Kang, Shirin Sohrabi
+
+---
+[15:00 - 15:30] - Coffee Break
+
+---
+[15:30 - 17:00] - Session 3
+* **The Bench Transition System and Stochastic Exploration** ([PDF](../hsdip-papers/paper_11.pdf), also presented at [SoCS 2024](https://socs24.search-conference.org/))  
+  Dawson Tomasz, Richard A. Valenzano
+* **Separate Generation and Evaluation for Parallel Greedy Best-First Search** ([PDF](../hsdip-papers/paper_8.pdf))  
+  Takumi Shimoda, Alex Fukunaga
+* **Expected Runtime Comparisons Between Breadth-First Search and Constant-Depth Restarting Random Walks** ([PDF](../hsdip-papers/paper_12.pdf))  
+  Daniel Platnick, Richard A. Valenzano
+* **Choosing a Classical Planner with Graph Neural Networks** ([PDF](../hsdip-papers/paper_6.pdf))  
+  Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz, Michael Katz
+* **Metareasoning Needs Distributions: Put Up or Shut Up Games** ([PDF](../hsdip-papers/paper_5.pdf))  
+  Sean Mariasin, Andrew I. Coles, Erez Karpas, Wheeler Ruml, Eyal S. Shimony, Shahaf S. Shperberg
+  
+---
+
+
+## Invited Speaker
+
+**Forest Agostinelli**  
+
+**Title:** Opportunities and Challenges for Domain-Independent Planning with Deep Reinforcement Learning  
+
+**Abstract:** Deep reinforcement learning has been shown to be able to learn domain-specific heuristic functions
+in a largely domain-independent fashion. This has allowed practitioners to apply heuristic search to fields such 
+as puzzle solving, quantum computing, and chemical reactions without domain-specific heuristic knowledge. 
+Furthermore, this has led to improved performance when compared to existing domain-independent planners. However, 
+analyzing deep neural networks to obtain theoretical guarantees is still an open area of research and training 
+a deep neural network can take days. On the other hand, existing domain-independent planners are amenable to 
+analysis and can often readily be applied to new problem instances or domains without significant computational 
+overhead. In this talk, I will describe how deep reinforcement learning can be used to learn heuristic functions 
+to guide heuristic search. Next, I will present ongoing research on obtaining admissible heuristic functions. Finally, 
+I will give an overview of ongoing research on training deep neural networks to generalize across problem instances 
+and even across domains. The code for many of these algorithms is publicly available at 
+[DeepXube](https://github.com/forestagostinelli/deepxube).
+
+**Short Bio:** Forest Agostinelli is an assistant professor at the University of South Carolina. His research 
+aims to use artificial intelligence to automate the discovery of new knowledge. He looks to apply his research 
+to fields such as puzzle solving, chemical synthesis, robotics, quantum computing, theorem proving, program 
+synthesis, and education. He led the creation of DeepCubeA, an artificial intelligence algorithm capable of 
+solving puzzles such as the Rubik’s cube without human guidance. DeepCubeA has since been applied to problems 
+in quantum computing, chemical reactions, cryptography, and parking lot optimization. He earned his Ph.D. 
+from the University of California, Irvine under the supervision of Professor Pierre Baldi. His homepage 
+is located at [here](https://cse.sc.edu/~foresta/).
+
 
 ## Topics of Interest
 
@@ -34,95 +126,62 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-~~31 March 2023 (UTC-12 timezone)~~ April 7, 2023 (UTC-12 timezone)
+~~April 4, 2024~~ (UTC-12 timezone)
 
-**Open discussion:**  
-~~20-27 April 2023~~ April 27 - May 4, 2023
+**Author feedback period:**  
+~~April 22-24, 2024~~
 
 **Notification:**  
-May 5 2023
+~~April 26 2024~~
 
 **Workshop:**  
-July 9/10 2023
+June 2 2024
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/Publications/Templates/AuthorKit23.zip) and keep them to  at most 9 pages including references. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
+The workshop will adopt a **two-track submission system** to better distinguish papers previously published at other venues (with formal proceedings) and unpublished work. Previously published papers can be submitted non-anonymously in the exact same format in which it appeared before. For unpublished work, please format submissions in AAAI style (see instructions in the Author Kit at https://www.aaai.org/authorkit24-3) and keep them to  at most 9 pages including references. The track should be indicated at submission time. Authors considering submitting to the  workshop papers rejected from the main conference, please ensure you do your  utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
 
-Submissions will be made through OpenReview:
-
-https://openreview.net/group?id=icaps-conference.org/ICAPS/2023/Workshop/HSDIP
+Submissions will be made through CMT: https://cmt3.research.microsoft.com/HSDIP2024/
 
 The following conditions apply:
 
 - Submissions will be double blind in general and single blind to the area chair.
-- The submitted papers, reviews and discussion between authors and reviewers will be public, and all anonymous.
-- Discussions between reviewers and organizers will be private.
+- Accepted papers will be published as PDFs on the workshop webpage.
+- Reviews and discussions between reviewers and organizers will be private.
 
-Every submission will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be a brief discussion phase where author and reviewers can interactively engage and discuss the submission and the reviews.
+Previously published papers are only assessed based on their relevance to the workshop by a member of the organizing committee and will not receive a full review. Unpublished work will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be an opportunity for a rebuttal where authors can clarify questions of the reviewers.
 
 At least one author of each accepted paper must attend the workshop in order to present the paper.
 
-### Policy on Previously Published Materials
+### Policy on Previously Published Materials and Papers under Review
 
-Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference.
+Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference, and we aim to have the workshop submission deadline after SoCS notification.
 
 ## Workshop Committee
 
 ### Organizing Committee
 
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Clemens Büchner**, University of Basel, Switzerland  
+**Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Thorsten Klößner**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA
+**Sofia Lemons**, 2U, Maryland, USA
 
-Contact: <hsdip@googlegroups.com>
+Contact: <hsdip@googlegroups.com>  
 
 ### Program Committee
 
+**Imène Ait Abderrahim**, Khemis Miliana University, Algeria  
 **Clemens Büchner**, University of Basel, Switzerland  
-**Rebecca Eifler**, Saarland University, Germany  
+**Remo Christen**, University of Basel, Switzerland  
+**Simon Dold**, University of Basel, Switzerland  
 **Salomé Eriksson**, University of Basel, Switzerland  
-**Daniel Fišer**, Saarland University, Germany  
+**Roy Fox**, University of California, Irvine, USA  
 **Daniel Gnad**, Linköping University, Sweden  
-**Michael Katz**, IBM T.J. Watson Research Center, USA  
 **Thorsten Klößner**, Saarland University, Germany  
 **Pascal Lauer**, Saarland University, Germany  
-**Sofia Lemons**, Earlham College, Indiana, USA  
+**Sofia Lemons**, 2U, Maryland, USA  
+**Florian Pommerening**, University of Basel, Switzerland  
 **David Speck**, Linköping University, Sweden  
-**Marcel Steinmetz**, Saarland University, Germany  
-**Silvan Sievers**, University of Basel, Switzerland  
-
-## List of Accepted Papers
-* **On Reducing Action Labels in Planning Domains**  
-  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
-* **Novelty and Lifted Helpful Actions in Generalized Planning**  
-  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
-* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
-  Stephen Wissow, Masataro Asai
-* **K\* and Partial Order Reduction for Top-quality Planning**  
-  Michael Katz, Junkyu Lee
-* **Any-Start-Time Planning for SIPP**  
-  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
-* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
-  Oriel Uzan, Guy Shani
-* **K\* Search Over Orbit Space for Top-k Planning**  
-  Michael Katz, Junkyu Lee
-* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
-  Alice Petrov, Christian Muise
-* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
-  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
-* **Action Schema Networks for Numerical Planning**  
-  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
-* **Triangle Search: An Anytime Beam Search**  
-  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
-* **On K\* Search for Top-k Planning**  
-  Junkyu Lee, Michael Katz, Shirin Sohrabi
-  
-## Workshop Schedule
-
-We are not ready to communicate a schedule yet.
-
-### Invited Talk
-We are excited to announce **Álvaro Torralba** as invited speaker.
+**Alvaro Torralba**, Aalborg University, Denmark  
 
