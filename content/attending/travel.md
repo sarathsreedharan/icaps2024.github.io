@@ -31,6 +31,10 @@ A two-hour drive away, the Calgary International Airport (YYC) is the closest ai
 
 [Banff Airporter](https://banffairporter.com/rates/) is the official transportation partner for ICAPS 2024. ICAPS attendees enjoy 15% off the cost of travel to/from Banff when you use the code "ICAPS2024". The trip from YYC to the Banff Centre is approximately two hours (the bus drops you off at the Banff Centre's hotel front desk). Phone **403.762.3330** or **1.888.449.2901** (toll-free within North America) or visit [https://banffairporter.com/](https://banffairporter.com/).
 
+**If you are using the Banff Shuttle:**
+
+> At the airport, our desk is located on the arrivals level, between exit doors 5 & 6. Everyone needs to check in at the desk before boarding the shuttle. Our shuttles depart on time. Should anyone miss their departure time, they can take the next available one. For any assistance or to cancel/modify a booking, passengers can reach our reservation team at info@banffairporter.com or 1-888-449-2901.
+
 Brewster Travel Canada offers daily motor coach shuttles from YYC to Banff. Reservations are required. Visit [https://www.banffjaspercollection.com/brewster-express/](https://www.banffjaspercollection.com/brewster-express/). The bus stops at the Banff bus station, a five-minute drive or 30 minute walk to the Banff Centre. Call Taxi Taxi at **403.762.0000**.
 
 ### Drive from YYC to Banff
