@@ -44,34 +44,32 @@ Topics of interest include (but are not limited to):
 
 *Title:* Autonomous Task and Motion Planning for Ice Worlds Exploration
  
-*Abstract:* Icy moons of the gas giant planets, such as Europa, Titan, and Enceladus, are at the forefront of astrobiological interest due to the evidence of subsurface oceans. Enceladus is unique among the icy moons because there are known vent systems that are likely connected to a subsurface ocean, through which the ocean water is ejected to space. An existing study has shown that sending small robots into the vents and directly sampling the ocean water is likely possible. To enable such a mission, JPL is developing a novel, snake-like robot called Exobiology Extant Life Surveyor (EELS) that can navigate Enceladus' extreme surface and descend an erupting vent to capture unaltered liquid samples and potentially reach the ocean. However, navigating to and through Enceladus' environment is challenging: there is substantial uncertainty with respect to its geometry and physical properties of the surface/vents due to the limitations of existing orbital reconnaissance; and communication is limited which requires highly autonomous robots to execute the mission with limited human supervision. In this talk we provide an overview of the EELS project and its development effort to create a risk-aware autonomous robot to navigate these extreme ice terrains/environments. We describe the robot�s architecture and the technical challenges to navigate and sense the icy environment safely and effectively. We focus on the challenges related to surface mobility, and task and motion planning under uncertainty. We provide initial results on mobility and risk-aware task and motion planning from field tests and simulated scenarios.
+*Abstract:* Icy moons of the gas giant planets, such as Europa, Titan, and Enceladus, are at the forefront of astrobiological interest due to the evidence of subsurface oceans. Enceladus is unique among the icy moons because there are known vent systems that are likely connected to a subsurface ocean, through which the ocean water is ejected to space. An existing study has shown that sending small robots into the vents and directly sampling the ocean water is likely possible. To enable such a mission, JPL is developing a novel, snake-like robot called Exobiology Extant Life Surveyor (EELS) that can navigate Enceladus' extreme surface and descend an erupting vent to capture unaltered liquid samples and potentially reach the ocean. However, navigating to and through Enceladus' environment is challenging: there is substantial uncertainty with respect to its geometry and physical properties of the surface/vents due to the limitations of existing orbital reconnaissance; and communication is limited which requires highly autonomous robots to execute the mission with limited human supervision. In this talk we provide an overview of the EELS project and its development effort to create a risk-aware autonomous robot to navigate these extreme ice terrains/environments. We describe the robot's architecture and the technical challenges to navigate and sense the icy environment safely and effectively. We focus on the challenges related to surface mobility, and task and motion planning under uncertainty. We provide initial results on mobility and risk-aware task and motion planning from field tests and simulated scenarios.
 
 
 ## List of Accepted Papers
 
-The workshop proceedings will be made available here once they are ready. 
+Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot's Six Degrees of Freedom** ([PDF])(ICAPS_WS_PlanRob-24_7.pdf)
 
-Colton Barr, Mateus Karvat and Sidney Givigi. **Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot�s Six Degrees of Freedom**
+Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem** ([PDF])(ICAPS_WS_PlanRob-24_8.pdf)
 
-Amnon Attali, Stav Ashur and Nancy Amato. **Measuring Guidance for the Motion Planning Decision Problem**
+Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study** ([PDF])(ICAPS_WS_PlanRob-24_10.pdf)
 
-Georgios Sotirchos and Zlatan Ajanovic. **Search-based versus Sampling-based Robot Motion Planning: A Comparative Study**
+Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains** ([PDF])(ICAPS_WS_PlanRob-24_4.pdf)
 
-Yilin Cai and Zhongqiang Ren. **PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**
+Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting** ([PDF])(ICAPS_WS_PlanRob-24_1.pdf)
 
-Akseli Kangaslahti, Itai Zilberstein, Alberto Candela and Steve Chien. **Search Applications for Integrated Planning and Execution of Satellite Observations using Dynamic Targeting**
+András Kovács and Bence Tipary.  **Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees** ([PDF])(ICAPS_WS_PlanRob-24_3.pdf)
 
-András Kovács and Bence Tipary.	**Sequencing Robotic Diagnostic Tasks via Optimized Stochastic Policy Trees**
+Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping** ([PDF])(ICAPS_WS_PlanRob-24_2.pdf)
 
-Mohammad Masarwy, Yuval Goshen, David Dovrat and Sarah Keren. **Value of Assistance for Grasping**
+David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules** ([PDF])(ICAPS_WS_PlanRob-24_5.pdf)
 
-David DeFazio, Yohei Hayamizu and Shiqi Zhang. **Learning Quadruped Locomotion Policies using Logical Rules**
+Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement** ([PDF])(ICAPS_WS_PlanRob-24_6.pdf)
 
-Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent-des-Graviers, Jacques Yelloz, Christophe Guettier and Simon Lacroix. **Plan Generation for Multi-Robot Missions Requiring Active Operator Involvement**
+Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications** ([PDF])(ICAPS_WS_PlanRob-24_9.pdf)
 
-Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas.  **A Deterministic Search Approach for Solving Stochastic Drone Search and Rescue Planning Without Communications**
-
-Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs** [Previously published in RAL](https://ieeexplore.ieee.org/document/10323164)
+Ronen Brafman, Or Wertheim and Dan Suissa. **Plug'n Play Task-Level Autonomy for Robotics Using POMDPs and Probabilistic Programs** ([Previously published in RAL])(https://ieeexplore.ieee.org/document/10323164)
 
 ## Workshop Schedule
 
@@ -133,7 +131,7 @@ Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 <iman.awaad@h-brs.de>
 
 Alberto Finzi, \
-Università di Napoli "Federico II", Italy \
+UniversitÃ  di Napoli "Federico II", Italy \
 <alberto.finzi@unina.it>
 
 AndreA Orlandini, \
@@ -161,11 +159,11 @@ Masoumeh Mansouri, University of Birmingham, UK
 
 Oscar Lima, German Research Center for Artificial Intelligence - DFKI, Germany
 
-Riccardo Caccavale, Università degli studi di Napoli Federico II, Italy
+Riccardo Caccavale, UniversitÃ  degli studi di Napoli Federico II, Italy
 
 Riccardo Rasconi, National Research Council of Italy CNR-ISTC, Italy
 
-Roman Barták, Charles University, Czech Republic
+Roman BartÃ¡k, Charles University, Czech Republic
 
 Ron Petrick, Heriot-Watt University, UK
 
