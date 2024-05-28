@@ -4,24 +4,29 @@
 <h4 style="color:#f5821f">ICAPS is kindly supported by:</h4>
 
 <table style="width: 100%">
-   <tr><tr/>
-   <tr>
-	{{ range $level := $data.levels }}
-         <td style="vertical-align: top; width: 25%; text-align: center">
-		 <strong><h4> {{ print $level.rank }} </h4></strong>
-		 {{ range $org := $level.list }}
-		 <figure style="padding: 10px">
-			 <a href="{{ print $org.link }}">
-				 {{ if gt $org.width 0 }}
-				 <img src="{{ print $org.logo }}" width="{{ $org.width }}">
-				 {{ end }}
-				 {{ if gt $org.height 0 }}
-				 <img src="{{ print $org.logo }}" height="{{ $org.height }}">
-				 {{ end }}
-		 	 </a>
-		 </figure>
-		 {{ end}}
-	 </td>
-	{{ end }}
-   </tr>
+    <tr>
+        <td style="vertical-align: top; width: 25%; text-align: center">
+            {{ range $level := $data.levels }}
+            <strong><h4> {{ print $level.rank }} </h4></strong>
+            <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+                {{ range $org := $level.list }}
+                <figure style="padding: 10px; flex: 0 1 auto; margin: 10px; display: flex; align-items: center;">
+                    <a href="{{ print $org.link }}">
+                        {{ if gt $org.width 0 }}
+                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" width="{{ $org.width }}">
+                        {{ end }}
+                        {{ if gt $org.height 0 }}
+                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" height="{{ $org.height }}">
+                        {{ end }}
+                    </a>
+                </figure>
+                {{ end }}
+            </div>
+            <br>
+            <br> <!-- Add a line break to separate each level vertically -->
+            {{ end }}
+        </td>
+    </tr>
 </table>
+
+

@@ -1,0 +1,188 @@
+[
+    {
+        "date": "2024-06-04",
+        "name": "Tuesday, June 4, 2024",
+        "slots": [
+            {
+                "label": "slot-1-1",
+                "name": "Session 1",
+                "duration": 90,
+                "start": "10:00",
+                "end": "11:30",
+                "sessions": [
+                    {
+                        "name": "Heuristics",
+                        "label": "sess-heur",
+                        "location": "Max Bell",
+                        "chair": "Erez Karpas"
+                    },
+                    {
+                        "name": "Reinforcement Learning",
+                        "label": "sess-rl",
+                        "location": "KC 201",
+                        "chair": "Jiaoyang Li"
+                    }
+                ]
+            },
+            {
+                "label": "slot-1-2",
+                "name": "Session 2",
+                "duration": 90,
+                "start": "13:00",
+                "end": "14:30",
+                "sessions": [
+                    {
+                        "name": "LLMs and Neural Action Policies",
+                        "label": "sess-llm",
+                        "location": "Max Bell",
+                        "chair": "Jörg Hoffmann"
+                    },
+                    {
+                        "name": "Theory",
+                        "label": "sess-theory",
+                        "location": "KC 201",
+                        "chair": "Pascal Bercher"
+                    }
+                ]
+            },
+            {
+                "label": "slot-1-3",
+                "name": "Session 3",
+                "duration": 90,
+                "start": "15:00",
+                "end": "16:30",
+                "sessions": [
+                    {
+                        "name": "Planning and Learning",
+                        "label": "sess-pal",
+                        "location": "Max Bell",
+                        "chair": "Pulkit Verma"
+                    },
+                    {
+                        "name": "Temporal Planning",
+                        "label": "sess-temporal",
+                        "location": "KC 201",
+                        "chair": "Ayal Taitler"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-06-05",
+        "name": "Wednesday, June 5, 2024",
+        "slots": [
+            {
+                "label": "slot-2-1",
+                "name": "Session 1",
+                "duration": 90,
+                "start": "10:00",
+                "end": "11:30",
+                "sessions": [
+                    {
+                        "name": "Search and Uncertainty",
+                        "label": "sess-search",
+                        "location": "KC 203",
+                        "chair": "Charles Gretton"
+                    },
+                    {
+                        "name": "MAPF",
+                        "label": "sess-mapf",
+                        "location": "KC 201",
+                        "chair": "Sven Koenig"
+                    }
+                ]
+            },
+            {
+                "label": "slot-2-2",
+                "name": "Session 2",
+                "duration": 90,
+                "start": "13:00",
+                "end": "14:30",
+                "sessions": [
+                    {
+                        "name": "Planning Under Uncertainty",
+                        "label": "sess-puu",
+                        "location": "KC 203",
+                        "chair": "Malte Helmert"
+                    },
+                    {
+                        "name": "Robotics",
+                        "label": "sess-robotics",
+                        "location": "KC 201",
+                        "chair": "Kiam Jane Jean"
+                    }
+                ]
+            },
+            {
+                "label": "slot-2-3",
+                "name": "Session 3",
+                "duration": 60,
+                "start": "15:00",
+                "end": "16:00",
+                "sessions": [
+                    {
+                        "name": "Robots and Space",
+                        "label": "sess-space",
+                        "location": "KC 203",
+                        "chair": "Hang Ma"
+                    },
+                    {
+                        "name": "Explainability",
+                        "label": "sess-explain",
+                        "location": "KC 201",
+                        "chair": "Sarath Sreedharan"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-06-06",
+        "name": "Thursday, June 6, 2024",
+        "slots": [
+            {
+                "label": "slot-3-1",
+                "name": "Session 1",
+                "duration": 60,
+                "start": "10:00",
+                "end": "11:00",
+                "sessions": [
+                    {
+                        "name": "Knowledge Engineering",
+                        "label": "sess-ke",
+                        "location": "KC 203",
+                        "chair": "Shirin Sohrabi"
+                    },
+                    {
+                        "name": "Scheduling",
+                        "label": "sess-scheduling",
+                        "location": "KC 201",
+                        "chair": "Hana Rudová"
+                    }
+                ]
+            },
+            {
+                "label": "slot-3-2",
+                "name": "Session 2",
+                "duration": 60,
+                "start": "11:00",
+                "end": "12:00",
+                "sessions": [
+                    {
+                        "name": "Applications",
+                        "label": "sess-applications",
+                        "location": "KC 203",
+                        "chair": "Hoong Chuin Lau"
+                    },
+                    {
+                        "name": "Hybrid and Numeric Planning",
+                        "label": "sess-hybrid",
+                        "location": "KC 201",
+                        "chair": "Zlatan Ajanovic"
+                    }
+                ]
+            }
+        ]
+    }
+]
