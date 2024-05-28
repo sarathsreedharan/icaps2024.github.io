@@ -50,7 +50,7 @@ HSDIP is scheduled on the June 2.
 ---
 [13:30 - 15:00] - Session 2
 * **PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning** ([PDF](../hsdip-papers/paper_13.pdf))  
-  Alexander Shleyfman, Daniel Gnad, Eyal Weiss, Lee-or Alon
+  Daniel Gnad, Lee-or Alon, Eyal Weiss, Alexander Shleyfman
 * **Merge-and-Shrink Heuristics for Stochastic Shortest-Path Problems with Prune Transformations**   ([PDF](../hsdip-papers/paper_16.pdf))  
   Thorsten Klößner, Alvaro Torralba, Marcel Steinmetz, Silvan Sievers
 * **Crafting a Pogo Stick in Minecraft with Heuristic Search** ([PDF](../hsdip-papers/paper_15.pdf))  
