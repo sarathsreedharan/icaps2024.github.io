@@ -30,28 +30,51 @@ The idea is to allow the planning community to benefit from your experiences, le
 
 
 ## List of Accepted Papers
-* **Can Soft Goals be Compiled Away More Efficiently?**  
+* **Can Soft Goals be Compiled Away More Efficiently?** ([PDF](../weep-papers/WEEP24_paper_1.pdf))  
   Alberto Pozanco
-* **On an Attempt at Casting Orbit Search as a Task Transformation**  
+* **On an Attempt at Casting Orbit Search as a Task Transformation** ([PDF](../weep-papers/WEEP24_paper_2.pdf))  
   Daniel Gnad and David Speck
-* **On the difficulties for the Evaluation of Learned Planning Models**  
+* **On the difficulties for the Evaluation of Learned Planning Models** ([PDF](../weep-papers/WEEP24_paper_3.pdf))  
   Antonio Garrido and Alba Gragera
-* **PbFCEGAR: Pre-refined by Facts Counterexample-Guided Abstraction Refinement**  
+* **PbFCEGAR: Pre-refined by Facts Counterexample-Guided Abstraction Refinement** ([PDF](../weep-papers/WEEP24_paper_4.pdf))  
   Martín Pozo, Álvaro Torralba and Carlos Linares López
 
 ## Workshop Schedule
 - [09:00 - 09:15] Opening Remarks
-- [09:15 - 10:00] - Session 1
-    Invited talk by Erez Karpas
+- [09:15 - 10:00] - **Invited talk** by **Erez Karpas**
     “Looking for Serendipity – Where (Some) Research Questions Come From?”
 
 - [10:00 - 10:30] - Coffee Break (get your caffeine fix)
 
-- [10:30 - 12:00] - Session 2
-- [10:30 - 11:15] - Presentations
-- [11:15 - 12:00] - Panel Discussion: Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.
+- [10:30 - 11:15] - **Paper Presentations**
+- [11:15 - 12:00] - **Panel Discussion:** Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.  
+Panelists: **Sarah Keren** (Israel Institute of Technology), **Malte Helmert** (University of Basel), **Daniel Fišer** (Saarland University)  
 
 
+## Invited Speaker
+<div style="width: 100%; margin: 0; padding: 0%;">
+<h3 style="color:orange;"><strong>Erez Karpas</strong></h3>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://karpase.net.technion.ac.il/files/2015/10/erez_karpas-239x300.jpg" />
+</div>
+<div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
+<div style="margin:0; padding: 0; padding-left: 2%">
+<p>
+
+### Looking for Serendipity – Where (Some) Research Questions Come From?
+Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.
+
+</p>
+
+</div>
+</div>
+<p>
+
+### Short Bio
+
+Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.
+</p>
+</div>
 
 ## Topics of Interest
 
@@ -99,34 +122,3 @@ Submissions will be done via [easychair](https://easychair.org/conferences/?conf
 - **Martin Funkquist**, Linköping University
 - **Markus Fritzsche**, Linköping University
 
-## Invited Talk
-<div style="width: 100%; margin: 0; padding: 3%;">
-<h3 style="color:orange;"><strong>Erez Karpas</strong></h3>
-<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://karpase.net.technion.ac.il/files/2015/10/erez_karpas-239x300.jpg" />
-</div>
-<div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
-<div style="margin:0; padding: 0; padding-left: 2%">
-<p>
-
-### Looking for Serendipity – Where (Some) Research Questions Come From?
-Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.
-
-</p>
-
-</div>
-</div>
-<p>
-
-### Short Bio
-
-Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.
-</p>
-</div>
-
-## Panel Discussion
- **Topic:** Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.
-### Panelists
-- **Sarah Keren**, Israel Institute of Technology
-- **Malte Helmert**, University of Basel
-- **Daniel Fišer**, Saarland University
