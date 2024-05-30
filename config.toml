@@ -147,7 +147,7 @@ theme = 'mainroad'
     parent = "calls"
     weight = 50
   [[menu.main]]
-    identifier = "demos"
+    identifier = "demos_call"
     name = "Call for System Demonstrations"
     url = "/calls/demos"
     parent = "calls"
@@ -209,6 +209,12 @@ theme = 'mainroad'
    identifier = "awards"
     name = "Awards"
     url = "/program/awards"
+    parent = "program"
+    weight = 20
+ [[menu.main]]
+   identifier = "demos"
+    name = "Demos"
+    url = "/program/demos"
     parent = "program"
     weight = 20
 #  [[menu.main]]
