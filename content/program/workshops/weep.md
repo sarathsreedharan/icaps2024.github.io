@@ -8,7 +8,7 @@ draft: false
 
 1st ICAPS Workshop on Echoing (failed) Efforts in Planning (WEEP 2024) \
 Banff, Alberta, Canada \
-June 2-3, 2024
+June 3, 2024
 
 
 
@@ -29,26 +29,31 @@ of the setbacks and will discuss their current findings and suspicions. We also 
 The idea is to allow the planning community to benefit from your experiences, let participants provide insightful comments and even identify specific issues, and foster collaborations among people potentially interested in the work.
 
 
-## List of Accepted Papers
+## Workshop Schedule
+
+---
+[09:00 - 09:15] Opening Remarks  
+[09:15 - 10:00] **Invited talk** by **Erez Karpas**
+    “Looking for Serendipity – Where (Some) Research Questions Come From?”
+
+---
+[10:00 - 10:30] Coffee Break (get your caffeine fix)
+
+---
+[10:30 - 11:15] Paper Presentations
 * **Can Soft Goals be Compiled Away More Efficiently?** ([PDF](../weep-papers/WEEP24_paper_1.pdf))  
   Alberto Pozanco
-* **On an Attempt at Casting Orbit Search as a Task Transformation** ([PDF](../weep-papers/WEEP24_paper_2.pdf))  
-  Daniel Gnad and David Speck
 * **On the difficulties for the Evaluation of Learned Planning Models** ([PDF](../weep-papers/WEEP24_paper_3.pdf))  
   Antonio Garrido and Alba Gragera
 * **PbFCEGAR: Pre-refined by Facts Counterexample-Guided Abstraction Refinement** ([PDF](../weep-papers/WEEP24_paper_4.pdf))  
-  Martín Pozo, Álvaro Torralba and Carlos Linares López
+  Martín Pozo, Álvaro Torralba and Carlos Linares López  
+* **On an Attempt at Casting Orbit Search as a Task Transformation** ([PDF](../weep-papers/WEEP24_paper_2.pdf))  
+  Daniel Gnad and David Speck  
 
-## Workshop Schedule
-- [09:00 - 09:15] Opening Remarks
-- [09:15 - 10:00] - **Invited talk** by **Erez Karpas**
-    “Looking for Serendipity – Where (Some) Research Questions Come From?”
+[11:15 - 12:00] Panel Discussion: **Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.**  
+Panelists: **Sarah Keren** (Israel Institute of Technology), **Malte Helmert** (University of Basel), **Daniel Fišer** (Saarland University)
 
-- [10:00 - 10:30] - Coffee Break (get your caffeine fix)
-
-- [10:30 - 11:15] - **Paper Presentations**
-- [11:15 - 12:00] - **Panel Discussion:** Challenges and opportunities involved in communicating research efforts that did not turn out as successful as intended.  
-Panelists: **Sarah Keren** (Israel Institute of Technology), **Malte Helmert** (University of Basel), **Daniel Fišer** (Saarland University)  
+---
 
 
 ## Invited Speaker
