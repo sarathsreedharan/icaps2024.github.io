@@ -230,6 +230,12 @@ theme = 'mainroad'
    parent = "program"
    weight = "30"
  [[menu.main]]
+   identifier = "panel"
+   name = "Industry Panel"
+   url = "/program/panel"
+   parent = "program"
+   weight = "35"
+ [[menu.main]]
    identifier = "ws"
    name = "Workshops"
    parent = "program"
