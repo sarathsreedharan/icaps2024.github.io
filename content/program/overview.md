@@ -16,10 +16,17 @@ draft: false
 ## Additional Information about the Program
 
 - A total of 9 **[Workshops](https://icaps24.icaps-conference.org/program/ws_overview/)** and 5 **[Tutorials](https://icaps24.icaps-conference.org/program/tutorial_overview/)** have been accepted to ICAPS 2024.
-
 - ICAPS 2024 will host 3 **Keynotes**. Check the [keynote page](https://icaps24.icaps-conference.org/program/keynotes) for additional information about their talks.
-
 - Check the list **Accepted Papers** on the [conference webpage](https://icaps24.icaps-conference.org/program/accepted).
+
+## Special Events
+
+- *June 3 @ 3:30pm*: [Industry Panel](https://icaps24.icaps-conference.org/program/panel/) in Max Bell
+- *June 3 @ 5:00pm*: Opening Reception in KC 203-205
+- *June 4 @ 4:30pm*: [Demo](https://icaps24.icaps-conference.org/program/demos/) and [Poster]() Session in KC 203-205
+- *June 5 @ 12:15pm*: ICAPS Trivial in KC 201 and virtually
+- *June 5 @ 7:00pm*: Banquet at Banff Park Lodge
+- *June 5 @ 8:30pm*: Special (Local) Guest Speaker at Banff Park Lodge
 
 ## Program At a Glance
 
