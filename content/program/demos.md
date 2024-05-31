@@ -10,7 +10,7 @@ draft: false
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>The League of Robot Runners Competition: Goals, Designs, and Implementation</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo1.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo1.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -29,7 +29,7 @@ Multi-Agent Path Finding (MAPF) is an important practical problem found in many 
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Solving the Rubik's Cube with a PDDL Planner</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo2.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo2.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -48,7 +48,7 @@ Rubik's Cube (RC) is a popular puzzle that is also computationally hard to solve
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Posthoc: A Visualisation Framework for Understanding Search</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo3.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo3.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -67,7 +67,7 @@ We present Posthoc, a debugging and visualisation framework that helps users bet
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>A Human-in-the-loop API Sequencing Tool Powered by AI Planning</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo4.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo4.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">      
@@ -86,7 +86,7 @@ In this demo, we present a real-time API recommender system powered by an automa
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>A Demonstration of Natural Language Understanding in Embodied Planning Agents</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo5.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo5.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -105,7 +105,7 @@ Autonomous agents operating in human worlds must understand and respond to natur
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Self-adaptive Mission Planning using High-Fidelity Open World Simulation</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo6.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo6.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -124,7 +124,7 @@ Autonomous agents operating in human worlds must understand and respond to natur
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>FRICODILE: Providing FRICO with Dialogue Capability</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo8.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo8.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -143,7 +143,7 @@ Besides observing the pilot passively and providing contextual assistance in lig
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>A Visual Studio Code Extension for Automatically Repairing Planning Domains</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo9.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo9.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -162,7 +162,7 @@ We demonstrate a Visual Studio Code extension which aims at providing modeling a
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Simulating Robotics Planning Domains with PDSim and ROS</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo10.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo10.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -181,7 +181,7 @@ This paper describes work on the Planning Domain Simulation System (PDSim) and i
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Operations for Autonomy Tools: Task Network Editor, Plan Reconstruction Visualizer and Testbed</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo11.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo11.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -200,7 +200,7 @@ In this system demonstration we present at set of tools being developed at NASA 
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>Strategic Sorcery: Automated Planning for ‘Magic: The Gathering’</strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
-<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/demos/demo12.png" />
+<img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo12.png" />
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
