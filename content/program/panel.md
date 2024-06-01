@@ -4,6 +4,8 @@ date: 2022-09-29T13:27:57+02:00
 draft: false
 ---
 
+# Industry panel
+
 ## Details
 
 * **Date:** June 3, 2024 @ 3:30pm-4:30pm
