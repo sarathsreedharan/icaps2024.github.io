@@ -83,19 +83,20 @@ You can contact us at [wipc2024@googlegroups.com](mailto:wipc2024@googlegroups.c
 
 
 # List of Accepted Papers
-- *MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds*
+- *[MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds](2_mineplanner_a_benchmark_for_lo.pdf)*
 by William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James
-- *Airlift Challenge: A Competition for Optimizing Cargo Delivery*
+- *[Airlift Challenge: A Competition for Optimizing Cargo Delivery](3_airlift_challenge_a_competitio.pdf)*
 by Adis Delanovic, Carmen Chiu, Andre Beckus
-- *Envisioning a Domain Learning Track for the IPC*
+- *[Envisioning a Domain Learning Track for the IPC](4_envisioning_a_domain_learning_.pdf)*
 by Gregor Behnke, Pascal Tobias Bercher
-- *Comparing Planners: Beyond Coverage Tables*
+- *[Comparing Planners: Beyond Coverage Tables](5_comparing_planners_beyond_cove.pdf)*
 by Caleb K Hill, Stephen Wissow, Wheeler Ruml
-- *Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL*
+- *[Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL](6_formalization_development_and_.pdf)*
 by Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang
-- *Planning Domain Modelling Competition*
+- *[Planning Domain Modelling Competition](7_planning_domain_modelling_comp.pdf)*
 by Simon Dold
-- *Online Submission and Evaluation System Design for Competition Operations*
+- *[Online Submission and Evaluation System Design for Competition
+  Operations](9_online_submission_and_evaluati.pdf)*
 by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
 
 
@@ -104,14 +105,14 @@ by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
 | Time (Banff) | Title |
 |:------------:|:-----------|
 |     8:30     | **Talk Session 1**  |
-|  | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus |
-|  | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
-|  | Comparing Planners: Beyond Coverage Tables. Caleb K Hill, Stephen Wissow, Wheeler Ruml |
-|  | Online Submission and Evaluation System Design for Competition Operations. Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant |
+|  8:35        | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus, John Kolen, Marvin Gülhan, Jonathan Cawalla |
+|  9:05        | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
+|  9:20        | Comparing Planners: Beyond Coverage Tables. Caleb K Hill, Stephen Wissow, Wheeler Ruml |
+|  9:40        | Online Submission and Evaluation System Design for Competition Operations. Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant |
 |    10:00     | Coffee break |
 |    10:30     | **Talk Session 2**    |
-|  | Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL. Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang |
-|  | Envisioning a Domain Learning Track for the IPC. Gregor Behnke, Pascal Tobias Bercher |
-|  | Planning Domain Modelling Competition. Simon Dold |
-|  | Beluga Competition. Rebecca Eifler, Florent Teichteil Königsbuch. |
+|   10:30      | Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL. Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang |
+|   10:40      | Envisioning a Domain Learning Track for the IPC. Gregor Behnke, Pascal Tobias Bercher |
+|   10:55      | Planning Domain Modelling Competition. Simon Dold |
+|   11:15      | Beluga Competition. Rebecca Eifler, Florent Teichteil Königsbuch. |
 |    11:20     | **Open Discussion** |
