@@ -19,7 +19,7 @@
         {
             "name": "Dr. Shirin Shorabi",
             "date": "June 3rd",
-            "img" : "/img/panel/Photo-ShirinShorabi.jpg",
+            "img" : "/img/panel/Photo-ShirinSohrabi.jpg",
 			"title": "IBM T.J. Watson Research Center",
 			"abstract": "",
             "bio": "Dr. Shirin Shorabi is a principal research scientist and research manager at IBM T.J. Watson Research Center in Yorktown Heights, New York. She is an ACM and AAAI senior member. She is a member of ICAPS executive council and also serves as the diversity and inclusion chair."
@@ -35,7 +35,7 @@
         {
             "name": "Dr. Biplav Srivastava",
             "date": "June 3rd",
-            "img" : "/img/panel/Photo-BiplanSrivastava",
+            "img" : "/img/panel/Photo-BiplavSrivastava.JPG",
 			"title": "AI Institute at University of South Carolina",
 			"abstract": "",
             "bio": "Dr. Biplav Srivastava is a Professor at the AI Institute at University of South Carolina where his group is working on neuro-symbolic methods for sequential decision making, AI trust and societal applications."
