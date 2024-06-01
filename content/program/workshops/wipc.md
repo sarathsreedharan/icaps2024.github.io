@@ -105,14 +105,14 @@ by Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant
 | Time (Banff) | Title |
 |:------------:|:-----------|
 |     8:30     | **Talk Session 1**  |
-|  | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus |
-|  | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
-|  | Comparing Planners: Beyond Coverage Tables. Caleb K Hill, Stephen Wissow, Wheeler Ruml |
-|  | Online Submission and Evaluation System Design for Competition Operations. Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant |
+|  8:35        | Airlift Challenge: A Competition for Optimizing Cargo Delivery. Adis Delanovic, Carmen Chiu, Andre Beckus, John Kolen, Marvin Gülhan, Jonathan Cawalla |
+|  9:05        | MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds. William Hill, Ireton Liu, Anita De Mello Koch, Damion Harvey, Nishanth Kumar, George Konidaris, Steven James |
+|  9:20        | Comparing Planners: Beyond Coverage Tables. Caleb K Hill, Stephen Wissow, Wheeler Ruml |
+|  9:40        | Online Submission and Evaluation System Design for Competition Operations. Zhe Chen, Daniel Harabor, Ryan Hechnenberger, Nathan R. Sturtevant |
 |    10:00     | Coffee break |
 |    10:30     | **Talk Session 2**    |
-|  | Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL. Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang |
-|  | Envisioning a Domain Learning Track for the IPC. Gregor Behnke, Pascal Tobias Bercher |
-|  | Planning Domain Modelling Competition. Simon Dold |
-|  | Beluga Competition. Rebecca Eifler, Florent Teichteil Königsbuch. |
+|   10:30      | Formalization, Development, and Baseline Analysis of a Task and Motion Planning Domain in RDDL. Miguel Iglesias Alcázar, Fernando Fernández Rebollo, Yoonchang Sung, Yuqian Jiang |
+|   10:40      | Envisioning a Domain Learning Track for the IPC. Gregor Behnke, Pascal Tobias Bercher |
+|   10:55      | Planning Domain Modelling Competition. Simon Dold |
+|   11:15      | Beluga Competition. Rebecca Eifler, Florent Teichteil Königsbuch. |
 |    11:20     | **Open Discussion** |
