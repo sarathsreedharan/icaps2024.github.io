@@ -1,0 +1,46 @@
+{
+    "keynotes": [
+        {
+            "name": "Dr. Florent Teichteil-Königsbuch",
+            "date": "June 3rd",
+            "img" : "/img/panel/Photo_florent.png",
+			"title": "Airbus AI Research",
+			"abstract": "",
+            "bio": "Dr. Florent Teichteil-Königsbuch is a AI Senior Scientist and Technical Expert at Airbus AI Research in Toulouse (France), applying AI decision-making research and advising the business on promising technologies to improve manufacturing and in-service operations of aircraft, helicopters and satellites."
+        },
+        {
+            "name": "Dr. Mauro Vallati",
+            "date": "June 3rd",
+            "img" : "/img/panel/Photo_MauroVallati.jpg",
+			"title": " University of Huddersfield",
+			"abstract": "",
+            "bio": "Dr. Mauro Vallati is Professor of AI at the University of Huddersfield, and shareholder and collaborator of Simplifai Systems ltd, working on the design and development of AI-based traffic signal control approaches."
+        },
+        {
+            "name": "Dr. Shirin Shorabi",
+            "date": "June 3rd",
+            "img" : "/img/panel/Photo_ShirinShorabi.jpg",
+			"title": "IBM T.J. Watson Research Center",
+			"abstract": "",
+            "bio": "Dr. Shirin Shorabi is a principal research scientist and research manager at IBM T.J. Watson Research Center in Yorktown Heights, New York. She is an ACM and AAAI senior member. She is a member of ICAPS executive council and also serves as the diversity and inclusion chair."
+        },
+        {
+            "name": "Dr. Philipe Bellefeuille",
+            "date": "June 3rd",
+            "img" : "/img/panel/Photo_PhilipeBellefeuille.jpg",
+			"title": "Levio Consulting",
+			"abstract": "",
+            "bio": "Dr. Philipe Bellefeuille is a Senior AI Advisor and Partner at Levio Consulting leading AI projects in aerospace, such as the development of the AI for the next generation Canadarm in partnership with MDA."
+        },
+        {
+            "name": "Dr. Biplav Srivastava",
+            "date": "June 3rd",
+            "img" : "/img/panel/Photo_BiplanSrivastava",
+			"title": "AI Institute at University of South Carolina",
+			"abstract": "",
+            "bio": "Dr. Biplav Srivastava is a Professor at the AI Institute at University of South Carolina where his group is working on neuro-symbolic methods for sequential decision making, AI trust and societal applications."
+        }
+    ]
+}
+
+
