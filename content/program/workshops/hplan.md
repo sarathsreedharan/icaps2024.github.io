@@ -191,7 +191,9 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 30
 #### Poster session 1:
 
 - An ILP Heuristic for Total-Order HTN Planning
-- On Semantics of Hierarchical Planning Domain Models with Decomposition Constraints and Empty Methods
+- <s>On Semantics of Hierarchical Planning Domain Models with Decomposition Constraints and Empty Methods</s>  
+  (This previously accepted paper will only be presented in a short talk and discussion at the end)
+- *moved:* Correcting Totally-Ordered Hierarchical Plans by Action Deletion and Action Insertion  
 - Laying the Foundations for Solving FOND HTN problems: Grounding, Search, Heuristics (and Benchmark Problems)
 - Redundant Decompositions in PO HTN Domains: Goto Considered Harmful
 - Towards Search Node-Specific Special-Case Heuristics for HTN Planning – An Empirical Analysis of Search Space Properties under Progression
@@ -201,7 +203,8 @@ Our workshop is scheduled for Monday, June 3, 2024. It takes place in room KC 30
 
 - A Comparative Analysis of Plan Repair in HTN Planning
 - Barely Decidable Fragments of HTN Planning
-- Correcting Totally-Ordered Hierarchical Plans by Action Deletion and Action Insertion
+- <s>Correcting Totally-Ordered Hierarchical Plans by Action Deletion and Action Insertion</s>  
+  (This poster is moved to the first session!)
 - HTN Model repair by completing incomplete methods (not an HPlan paper)
 - Toward Planning with Hierarchical Decompositions and Time-frames
 - Weighted Randomized Anytime Planning in Pyhop
