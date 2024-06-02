@@ -1,7 +1,7 @@
 ---
 title: "Banquet"
 date: 2023-01-31T17:53:41+01:00
-draft: true
+draft: false
 ---
 
 # Banquet
@@ -17,9 +17,9 @@ The ICAPS 2024 Banquet will be held at the Banff Park Lodge in downtown Banff on
 
 ## Location: Banff Park Lodge
 
-The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) (201 Lynx St, Banff, AB T1L 1K5) is a 20-minute walk from the Banff Centre. 
+The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) (201 Lynx St, Banff, AB T1L 1K5) is a 20-minute walk from the Banff Centre.
 
-You can walk or take a dedicated bus. 
+You can walk or take a dedicated bus.
 
 Bus to Banff Park Lodge departs Banff Centre
 18:00-19:30, every 10-15 minutes
