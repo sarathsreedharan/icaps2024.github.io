@@ -81,12 +81,12 @@ theme = 'mainroad'
     url = "/attending/registration"
     parent = "attending"
     weight = "30"
-  [[menu.main]]
-    identifier = "banquet"
-    name = "Banquet"
-    url = "/attending/banquet"
-    parent = "attending"
-    weight = "40"
+#  [[menu.main]]
+#    identifier = "banquet"
+#    name = "Banquet"
+#    url = "/attending/banquet"
+#    parent = "attending"
+#    weight = "40"
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
