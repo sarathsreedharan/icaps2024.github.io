@@ -6,19 +6,26 @@ draft: true
 
 # Banquet
 
-The ICAPS 2024 Banquet will be held at the Banff Park Lodge on June 5th, 19:00 - 22:00.
-
-At 20:30, John Marriott, one of Canada's premier wildlife photographers known for his iconic images of wild animals in the Canadian Rockies, will give an invited talk: A Day in the Life of a Wildlife Photographer in the Banff Area.
-
-## Location: Banff Park Lodge
-
-The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) is a 20-minute walk from the Banff Centre. You can walk or take a dedicated bus. Busses will depart from the Banff Centre from 18:00 to 19:30.
+The ICAPS 2024 Banquet will be held at the Banff Park Lodge in downtown Banff on Wednesday, June 5th.  We have several activities planned, including a 30-40 minute talk by wildlife photographer John E. Marriott. Known for his iconic images of wild animals in the Canadian Rockies, John will give an invited talk: A Day in the Life of a Wildlife Photographer in the Banff Area.
 
 ## Schedule
 
-19:00: Dinner will be served
-20:30: Talk by John Marriott: A Day in the Life of a Wildlife Photographer in the Banff Area
-21:00: Busses regularly running back to the Banff Centre
+18:00: Drink service begins
+19:00: Awards certificate presentation
+19:15: Buffet food service begins:
+20:30: Talk by John Marriott: A Day in the Life of a Wildlife Photographer in the Banff Area.
+
+## Location: Banff Park Lodge
+
+The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) (201 Lynx St, Banff, AB T1L 1K5) is a 20-minute walk from the Banff Centre. 
+
+You can walk or take a dedicated bus. 
+
+Bus to Banff Park Lodge departs Banff Centre
+18:00-19:30, every 10-15 minutes
+
+Return Bus to Banff Centre departs Banff Park Lodge
+20:30-23:00, every 10-15 minutes
 
 ## Speaker
 
