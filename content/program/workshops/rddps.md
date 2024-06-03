@@ -188,12 +188,12 @@ Please do not submit papers that are already accepted for the ICAPS main confere
             <tr>
                 <td style="height:20px;">10:50</td>
                 <td style="height:20px;">11:10</td>
-                <td style="height:20px;" colspan="6"><i>Planning Bias: Planning as a Source of Sampling Bias</i><br>Alison Paredes, J. Benton, Jeremy Frank and Christian Muise</td>
+                <td style="height:20px;" colspan="6"><i>Planning Bias: Planning as a Source of Sampling Bias</i><br>Alison Paredes, Jeremy Frank, J. Benton and Christian Muise</td>
             </tr>
             <tr>
                 <td style="height:20px;">11:10</td>
                 <td style="height:20px;">11:30</td>
-                <td style="height:20px;" colspan="6"><i>Bias in Planning Algorithms</i><br>Alison Paredes, J. Benton, Jeremy Frank and Christian Muise</td>
+                <td style="height:20px;" colspan="6"><i>Bias in Planning Algorithms</i><br>Jeremy Frank, Alison Paredes, J. Benton and Christian Muise</td>
             </tr>
             <tr>
                 <td style="height:20px;">&nbsp;</td>
