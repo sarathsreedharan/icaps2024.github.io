@@ -171,10 +171,30 @@ For vehicle use, wildlife signage along highways and some local roads are posted
 
 [Travel Alberta](https://www.travelalberta.com/)
 
+### Activities
+#### Hikes
+- **Tunnel mountain**: approx. 40 mins to the top (1h 20m fully). Gets really hot in sun then really chilly in shade.
+- **Cascade**: This route description is aimed at strong hikers and scramblers.  
+Summit: 2 998 m (9 836 ft.)  
+Elevation gain of climb: 1 460 m (4 800 ft.)  
+Distance: approx. 18 km round trip.  
+Average round-trip time: 9 hours.  
+Transportation:  
+Taxi, 8 mins, $23-28.  
+Line 1 bus 12 mins, $19-24  
+
+#### Horse-drawn Carriage
+Information can be found [here](https://horseback.com/horseback-rides/banff-horseback-rides/?comet_source=google&comet_network=g&comet_campaign=21133926378&comet_ad_group=160726781175&comet_ad_id=694988784120&comet_keyword=carriage%20rides&utm_source=paidsearch&gad_source=1&gbraid=0AAAAA9ZmGKvQkPqjr9mIt7_ieeS8GmuPx&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoSVgV1ygeiWunz0Z4LDjDBXjVSAteppmfUk5Fq-VBZEhJD5qIlKUWxoCdioQAvD_BwE).
+
+The same company has horseback riding.
+
+#### Other Outdoor Activies
+See [this TripAdvisor article](https://www.tripadvisor.ca/Attractions-g154911-Activities-c61-Banff_Banff_National_Park_Alberta.html).
+
 ### National Park Information
 
-[Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)
-[Lake Louise and Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)
+[Banff National Park Info](https://parks.canada.ca/pn-np/ab/banff)  
+[Lake Louise and Moraine Lake Park Info](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise)  
 - Banff to Lake Louise is a 38 minute drive (57.1 km) via Trans-Canada Hwy/AB-1 W
 - Banff to Lake Moraine is a 1 hout 50 minute drive (71.4 km) via Trans-Canada Hwy/AB-1 W
 
