@@ -17,6 +17,8 @@ The ICAPS 2024 Banquet will be held at the Banff Park Lodge in downtown Banff on
 |**19:15**|Buffet food service begins|
 |**20:30**|Talk by John Marriott: A Day in the Life of a Wildlife Photographer in the Banff Area|
 
+<br>
+
 ## Location: Banff Park Lodge
 
 The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) (201 Lynx St, Banff, AB T1L 1K5) is a 20-minute walk from the Banff Centre.
