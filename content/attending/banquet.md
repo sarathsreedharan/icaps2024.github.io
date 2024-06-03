@@ -10,10 +10,12 @@ The ICAPS 2024 Banquet will be held at the Banff Park Lodge in downtown Banff on
 
 ## Schedule
 
-18:00: Drink service begins
-19:00: Awards certificate presentation
-19:15: Buffet food service begins:
-20:30: Talk by John Marriott: A Day in the Life of a Wildlife Photographer in the Banff Area.
+|||
+|---|---|
+|**18:00**|Drink service begins|
+|**19:00**|Awards certificate presentation|
+|**19:15**|Buffet food service begins|
+|**20:30**|Talk by John Marriott: A Day in the Life of a Wildlife Photographer in the Banff Area|
 
 ## Location: Banff Park Lodge
 
@@ -21,10 +23,11 @@ The [Banff Park Lodge](https://maps.app.goo.gl/Wdsq8Q7wUWScsSeq7) (201 Lynx St, 
 
 You can walk or take a dedicated bus.
 
-Bus to Banff Park Lodge departs Banff Centre
+Bus to Banff Park Lodge departs Banff Centre \
 18:00-19:30, every 10-15 minutes
 
-Return Bus to Banff Centre departs Banff Park Lodge
+
+Return Bus to Banff Centre departs Banff Park Lodge \
 20:30-23:00, every 10-15 minutes
 
 ## Speaker
