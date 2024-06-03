@@ -168,7 +168,7 @@ The following publications will be excluded from the proceedings to prevent copy
 #### Presentations of papers from other venues
 
 The following previously published papers are presented in the program but were not submitted to HPlan. (See "Policy on Previously Published Material", where we offer to give you a forum to present work that was accepted at another venue already.)
-<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan-ext.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+<script src="https://bibbase.org/show?bib=https://icaps24.icaps-conference.org/program/workshops/hplan/hplan-ext.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
 
 <br>
 
