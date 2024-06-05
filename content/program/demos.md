@@ -5,7 +5,7 @@ draft: false
 <!--  How to test webpage locally? Execute "hugo server" in the root folder -->
 
 # ICAPS-24 System Demonstrations
-All demo abstracts can be found [here](https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Demo_Track#tab-accept)
+All demo extended abstracts can be found [here](https://openreview.net/group?id=icaps-conference.org/ICAPS/2024/Demo_Track#tab-accept)
 
 <div style="width: 100%; margin: 0; padding: 1%;">
 <h4 style="color:black;"><strong>The League of Robot Runners Competition: Goals, Designs, and Implementation</strong></h4>
